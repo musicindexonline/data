@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://musicindexonline.github.io/data/schemas/v1/composerMap.schema.json",
+  "title": "Music Index Online composer map",
+  "type": "object",
+  "propertyNames": {
+    "type": "string",
+    "minLength": 1
+  },
+  "additionalProperties": {
+    "type": "string",
+    "minLength": 1
+  }
+}

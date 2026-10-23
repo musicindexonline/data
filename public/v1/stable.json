@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "1.0.0",
+  "catalogVersion": "sha256-fdc135c09c463fff",
+  "publishedAt": "2026-10-23T15:28:12.085Z",
+  "files": {
+    "music": {
+      "path": "versions/sha256-fdc135c09c463fff/music.json",
+      "sha256": "320375f472f0fe2acab58c17b64f2e453cfe85243e7bacd91fd451fcf465160c",
+      "count": 977
+    },
+    "composerMap": {
+      "path": "versions/sha256-fdc135c09c463fff/composerMap.json",
+      "sha256": "e3bf3d838945557fdb38a5c140a3f2b1d6ec0a96d4b226b0a58444659411ef65",
+      "count": 33
+    }
+  }
+}
