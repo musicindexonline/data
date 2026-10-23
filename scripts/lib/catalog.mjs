@@ -29,12 +29,19 @@ export const catalogFiles = {
 export async function readSourceCatalog() {
   const entries = await Promise.all(
     Object.entries(catalogFiles).map(async ([key, file]) => {
-      const buffer = await readFile(file.source)
+      const buffer = normalizeLineEndings(await readFile(file.source))
       return [key, {buffer, value: JSON.parse(buffer.toString('utf8'))}]
     }),
   )
 
   return Object.fromEntries(entries)
+}
+
+export function normalizeLineEndings(buffer) {
+  return Buffer.from(
+    buffer.toString('utf8').replace(/\r\n?/g, '\n'),
+    'utf8',
+  )
 }
 
 export async function validateSourceCatalog() {
@@ -75,7 +82,7 @@ export function sha256(buffer) {
 export function calculateCatalogVersion(catalog) {
   const combined = createHash('sha256')
   for (const key of ['music', 'composerMap']) {
-    const {buffer} = catalog[key]
+    const buffer = normalizeLineEndings(catalog[key].buffer)
     combined.update(`${key}\0${buffer.length}\0`)
     combined.update(buffer)
   }
@@ -90,9 +97,10 @@ export function createManifest(catalog, catalogVersion, publishedAt = new Date()
   const files = {}
   for (const [key, file] of Object.entries(catalogFiles)) {
     const value = catalog[key].value
+    const buffer = normalizeLineEndings(catalog[key].buffer)
     files[key] = {
       path: `versions/${catalogVersion}/${file.filename}`,
-      sha256: sha256(catalog[key].buffer),
+      sha256: sha256(buffer),
       count: recordCount(key, value),
     }
   }

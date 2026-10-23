@@ -13,6 +13,9 @@ This repository publishes the runtime catalog for
 The data version is derived from the content of `music.json` and
 `composerMap.json`. Existing version directories are immutable.
 
+Source and published files are canonicalized to LF line endings, so releases
+produce the same hashes on Windows and Linux.
+
 ## Routes
 
 - `/v1/stable.json`: current Schema v1 manifest

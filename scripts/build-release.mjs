@@ -1,4 +1,4 @@
-import {access, copyFile, mkdir, readFile, writeFile} from 'node:fs/promises'
+import {access, mkdir, readFile, writeFile} from 'node:fs/promises'
 import path from 'node:path'
 import {
   calculateCatalogVersion,
@@ -14,12 +14,12 @@ const versionDirectory = path.join(channelDirectory, 'versions', catalogVersion)
 
 await mkdir(versionDirectory, {recursive: true})
 
-for (const file of Object.values(catalogFiles)) {
+for (const [key, file] of Object.entries(catalogFiles)) {
   const destination = path.join(versionDirectory, file.filename)
   try {
     await access(destination)
   } catch {
-    await copyFile(file.source, destination)
+    await writeFile(destination, catalog[key].buffer)
   }
 }
 
