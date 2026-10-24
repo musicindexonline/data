@@ -36,6 +36,9 @@ jobs:
       - name: Verify release
         run: npm run verify
 
+      - name: Verify Schema v2 works
+        run: npm run verify:v2:works
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:

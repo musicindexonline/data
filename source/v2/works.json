@@ -1,0 +1,293 @@
+[
+  {
+    "composerId": "antonio-vivaldi",
+    "title": { "preferred": "Concerto for Strings in C Major" },
+    "identifiers": [
+      { "catalog": "rv", "value": "114", "display": "RV 114", "primary": true },
+      { "catalog": "p", "value": "27", "display": "P. 27", "primary": false },
+      { "catalog": "f", "value": "XI. n. 44", "display": "F. XI. n. 44", "primary": false }
+    ],
+    "genre": "Concerto",
+    "key": ["C Major"],
+    "medium": ["violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Allegro" },
+      { "title": "II. Adagio" },
+      { "title": "III. Ciaccona. Allegro ma non troppo" }
+    ]
+  },
+  {
+    "composerId": "antonio-vivaldi",
+    "title": { "preferred": "Concerto for Strings in G Major", "alias": "Alla Rustica" },
+    "identifiers": [
+      { "catalog": "rv", "value": "151", "display": "RV 151", "primary": true },
+      { "catalog": "op", "value": "51/4", "display": "Op. 5 No. 4", "primary": false },
+      { "catalog": "p", "value": "143", "display": "P. 143", "primary": false },
+      { "catalog": "f", "value": "XI n. 11", "display": "F. XI n. 11", "primary": false }
+    ],
+    "genre": "Concerto",
+    "key": ["G Major"],
+    "medium": ["violin", "viola", "cello", "oboe", "continuo"],
+    "movements": [
+      { "title": "I. Presto", "medium": ["violin", "viola", "cello", "continuo"] },
+      { "title": "II. Adagio", "medium": ["violin", "viola", "cello", "continuo"] },
+      { "title": "III. Allegro", "medium": ["violin", "viola", "cello", "oboe", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "antonio-vivaldi",
+    "title": { "preferred": "Violin Concerto No. 1 in E Major", "alias": "La primavera" },
+    "identifiers": [
+      { "catalog": "rv", "value": "269", "display": "RV 269", "primary": true },
+      { "catalog": "op", "value": "8/1", "display": "Op. 8 No. 1", "primary": false },
+      { "catalog": "p", "value": "241", "display": "P. 241", "primary": false },
+      { "catalog": "f", "value": "I n. 22", "display": "F. I n. 22", "primary": false }
+    ],
+    "genre": "Concerto",
+    "key": ["E Major"],
+    "medium": ["violin", "strings", "continuo"],
+    "movements": [
+      { "title": "I. Allegro" },
+      { "title": "II. Largo e pianissimo sempre" },
+      { "title": "III. Danza pastorale. Allegro" }
+    ]
+  },
+  {
+    "composerId": "antonio-vivaldi",
+    "title": { "preferred": "Violin Concerto No. 3 in F Major", "alias": "L'autunno" },
+    "identifiers": [
+      { "catalog": "rv", "value": "293", "display": "RV 293", "primary": true },
+      { "catalog": "op", "value": "8/3", "display": "Op. 8 No. 3", "primary": false },
+      { "catalog": "p", "value": "257", "display": "P. 257", "primary": false },
+      { "catalog": "f", "value": "I n. 24", "display": "F. I n. 24", "primary": false }
+    ],
+    "genre": "Concerto",
+    "key": ["F Major"],
+    "medium": ["violin", "strings", "continuo"],
+    "movements": [
+      { "title": "I. Allegro" },
+      { "title": "II. Adagio molto" },
+      { "title": "III. Allegro" }
+    ]
+  },
+  {
+    "composerId": "antonio-vivaldi",
+    "title": { "preferred": "Violin Concerto No. 4 in F Minor", "alias": "L'inverno" },
+    "identifiers": [
+      { "catalog": "rv", "value": "297", "display": "RV 297", "primary": true },
+      { "catalog": "op", "value": "8/4", "display": "Op. 8 No. 4", "primary": false },
+      { "catalog": "p", "value": "442", "display": "P. 442", "primary": false },
+      { "catalog": "f", "value": "I n. 25", "display": "F. I n. 25", "primary": false }
+    ],
+    "genre": "Concerto",
+    "key": ["F Minor"],
+    "medium": ["violin", "strings", "continuo"],
+    "movements": [
+      { "title": "I. Allegro non molto" },
+      { "title": "II. Largo" },
+      { "title": "III. Allegro" }
+    ]
+  },
+  {
+    "composerId": "antonio-vivaldi",
+    "title": { "preferred": "Violin Concerto No. 2 in G Minor", "alias": "L'estate" },
+    "identifiers": [
+      { "catalog": "rv", "value": "315", "display": "RV 315", "primary": true },
+      { "catalog": "op", "value": "8/2", "display": "Op. 8 No. 2", "primary": false },
+      { "catalog": "p", "value": "336", "display": "P. 336", "primary": false },
+      { "catalog": "f", "value": "I n. 23", "display": "F. I n. 23", "primary": false }
+    ],
+    "genre": "Concerto",
+    "key": ["G Minor"],
+    "medium": ["violin", "strings", "continuo"],
+    "movements": [
+      { "title": "I. Allegro non molto" },
+      { "title": "II. Adagio e piano - Presto e forte" },
+      { "title": "III. Presto" }
+    ]
+  },
+  {
+    "composerId": "antonio-vivaldi",
+    "title": { "preferred": "Concerto No. 6 in A Minor" },
+    "identifiers": [
+      { "catalog": "rv", "value": "356", "display": "RV 356", "primary": true },
+      { "catalog": "op", "value": "3/6", "display": "Op. 3 No. 6", "primary": false },
+      { "catalog": "p", "value": "1", "display": "P. 1", "primary": false },
+      { "catalog": "f", "value": "I n. 176", "display": "F. I n. 176", "primary": false }
+    ],
+    "genre": "Concerto",
+    "key": ["A Minor"],
+    "medium": ["violin", "strings", "continuo"],
+    "movements": [
+      { "title": "I. Allegro" },
+      { "title": "II. Largo" },
+      { "title": "III. Presto" }
+    ]
+  },
+  {
+    "composerId": "antonio-vivaldi",
+    "title": { "preferred": "Concerto for 2 Violins, Strings and Continuo in G Major" },
+    "identifiers": [
+      { "catalog": "rv", "value": "516", "display": "RV 516", "primary": true },
+      { "catalog": "p", "value": "132", "display": "P. 132", "primary": false },
+      { "catalog": "f", "value": "I n. 6", "display": "F. I n. 6", "primary": false }
+    ],
+    "genre": "Concerto",
+    "key": ["G Major"],
+    "medium": ["violin", "strings", "continuo"],
+    "movements": [
+      { "title": "I. Allegro molto" },
+      { "title": "II. Andante molto" },
+      { "title": "III. Allegro" }
+    ]
+  },
+  {
+    "composerId": "antonio-vivaldi",
+    "title": { "preferred": "Concerto for Oboe, Violin, Strings and Continuo in B-Flat Major" },
+    "identifiers": [
+      { "catalog": "rv", "value": "548", "display": "RV 548", "primary": true },
+      { "catalog": "op", "value": "52", "display": "Op. 52", "primary": false },
+      { "catalog": "p", "value": "406", "display": "P. 406", "primary": false },
+      { "catalog": "f", "value": "XII n. 16", "display": "F. XII n. 16", "primary": false }
+    ],
+    "genre": "Concerto",
+    "key": ["B-Flat Major"],
+    "medium": ["oboe", "violin", "strings", "continuo"],
+    "movements": [
+      { "title": "I. Allegro" },
+      { "title": "II. Largo" },
+      { "title": "III. Allegro" }
+    ]
+  },
+  {
+    "composerId": "antonio-vivaldi",
+    "title": { "preferred": "Concerto for 3 Violins in F Major" },
+    "identifiers": [
+      { "catalog": "rv", "value": "551", "display": "RV 551", "primary": true },
+      { "catalog": "p", "value": "278", "display": "P. 278", "primary": false },
+      { "catalog": "f", "value": "I n. 34", "display": "F. I n. 34", "primary": false }
+    ],
+    "genre": "Concerto",
+    "key": ["F Major"],
+    "medium": ["violin", "strings", "continuo"],
+    "movements": [
+      { "title": "I. Allegro" },
+      { "title": "II. Andante" },
+      { "title": "III. Allegro" }
+    ]
+  },
+  {
+    "composerId": "antonio-vivaldi",
+    "title": { "preferred": "Concerto No. 10 for 4 Violins and Cello in B Minor" },
+    "identifiers": [
+      { "catalog": "rv", "value": "580", "display": "RV 580", "primary": true },
+      { "catalog": "op", "value": "3/10", "display": "Op. 3 No. 10", "primary": false },
+      { "catalog": "p", "value": "148", "display": "P. 148", "primary": false },
+      { "catalog": "f", "value": "IV n. 10", "display": "F. IV n. 10", "primary": false }
+    ],
+    "genre": "Concerto",
+    "key": ["B Minor"],
+    "medium": ["violin", "cello", "strings", "continuo"],
+    "movements": [
+      { "title": "I. Allegro" },
+      { "title": "II. Larghetto e spiccato" },
+      { "title": "III. Allegro" }
+    ]
+  },
+  {
+    "composerId": "antonio-vivaldi",
+    "title": { "preferred": "Il Giustino" },
+    "identifiers": [
+      { "catalog": "rv", "value": "717", "display": "RV 717", "primary": true }
+    ],
+    "genre": "Opera",
+    "movements": [
+      { "title": "Sinfonia" },
+      { "title": "Atto primo" },
+      { "title": "Atto secondo" },
+      { "title": "Atto terzo" }
+    ]
+  },
+  {
+    "composerId": "antonio-vivaldi",
+    "title": { "preferred": "L'Olimpiade" },
+    "identifiers": [
+      { "catalog": "rv", "value": "725", "display": "RV 725", "primary": true }
+    ],
+    "genre": "Opera",
+    "movements": [
+      { "title": "Sinfonia" },
+      { "title": "Atto primo" },
+      { "title": "Atto secondo" },
+      { "title": "Atto terzo" }
+    ]
+  },
+  {
+    "composerId": "georg-melchior-hoffmann",
+    "title": { "preferred": "Schlage doch, gewünschte Stunde" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "53", "display": "BWV 53", "primary": true }
+    ],
+    "genre": "Cantata",
+    "key": ["E Major"],
+    "medium": ["alto", "campanella", "violin", "viola", "continuo"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "title": { "preferred": "Bleib bei uns, denn es will Abend werden" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "6", "display": "BWV 6", "primary": true }
+    ],
+    "genre": "Cantata",
+    "key": ["C Minor", "E-Flat Major", "B-Flat Major", "D Minor", "G Minor"],
+    "medium": ["choir", "alto", "soprano", "bass", "tenor", "violin", "viola", "violoncello piccolo", "oboe", "continuo"],
+    "movements": [
+      { "title": "I. Coro. Bleib bei uns, denn es will Abend werden", "key": ["C Minor"], "medium": ["choir", "violin", "viola", "oboe", "continuo"] },
+      { "title": "II. Aria. Hochgelobter Gottessohn", "key": ["E-Flat Major"], "medium": ["alto", "oboe", "continuo"] },
+      { "title": "III. Chorale. Ach bleib bei uns, Herr Jesu Christ", "key": ["B-Flat Major"], "medium": ["soprano", "violoncello piccolo", "continuo"] },
+      { "title": "IV. Recitativo. Es hat die Dunkelheit", "key": ["D Minor", "G Minor"], "medium": ["bass", "continuo"] },
+      { "title": "V. Aria. Jesu, lass uns auf dich sehen", "key": ["G Minor"], "medium": ["tenor", "violin", "viola", "continuo"] },
+      { "title": "VI. Chorale. Beweis dein Macht, Herr Jesu Christ", "key": ["G Minor"], "medium": ["choir", "violin", "viola", "oboe", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "title": { "preferred": "Wir danken dir, Gott, wir danken dir" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "29", "display": "BWV 29", "primary": true }
+    ],
+    "genre": "Cantata",
+    "key": ["D Major", "A Major", "E Minor", "F-Sharp Minor", "B Minor"],
+    "medium": ["violin", "viola", "oboe", "trumpet", "organ", "kettledrums", "continuo", "choir", "tenor", "bass", "soprano", "alto"],
+    "movements": [
+      { "title": "I. Sinfonia", "key": ["D Major"], "medium": ["violin", "viola", "oboe", "trumpet", "organ", "kettledrums", "continuo"] },
+      { "title": "II. Coro. Wir danken dir, Gott, wir danken dir", "key": ["D Major"], "medium": ["choir", "violin", "viola", "oboe", "trumpet", "kettledrums", "continuo"] },
+      { "title": "III. Aria. Halleluja, Stärk und Macht", "key": ["A Major"], "medium": ["tenor", "violin", "continuo"] },
+      { "title": "IV. Recitativo. Gottlob! es geht uns wohl!", "key": ["F-Sharp Minor", "E Minor"], "medium": ["bass", "continuo"] },
+      { "title": "V. Aria. Gedenk an uns mit deiner Liebe", "key": ["B Minor"], "medium": ["soprano", "violin", "viola", "oboe", "continuo"] },
+      { "title": "VI. Recitativo. Vergiß es ferner nicht, mit deiner Hand", "key": ["D Major"], "medium": ["alto", "choir", "continuo"] },
+      { "title": "VII. Aria. Halleluja, Stärk und Macht", "key": ["D Major"], "medium": ["alto", "organ", "continuo"] },
+      { "title": "VIII. Chorale. Sei Lob und Preis mit Ehren", "key": ["D Major"], "medium": ["choir", "violin", "viola", "oboe", "trumpet", "organ", "kettledrums", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "title": { "preferred": "Geist und Seele wird verwirret" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "35", "display": "BWV 35", "primary": true }
+    ],
+    "genre": "Cantata",
+    "key": ["D Minor", "A Minor", "F Major", "G Minor", "B-Flat Major", "C Major"],
+    "medium": ["violin", "viola", "oboe", "taille", "organ", "continuo", "alto"],
+    "movements": [
+      { "title": "I. Sinfonia", "key": ["D Minor"], "medium": ["violin", "viola", "oboe", "taille", "organ", "continuo"] },
+      { "title": "II. Aria. Geist und Seele wird verwirret", "key": ["A Minor"], "medium": ["alto", "violin", "viola", "oboe", "taille", "organ", "continuo"] },
+      { "title": "III. Recitativo. Ich wundre mich", "key": ["F Major", "G Minor"], "medium": ["alto", "continuo"] },
+      { "title": "IV. Aria. Gott hat alles wohlgemacht", "key": ["F Major"], "medium": ["alto", "organ", "continuo"] },
+      { "title": "V. Sinfonia", "key": ["D Minor"], "medium": ["violin", "viola", "oboe", "taille", "organ", "continuo"] },
+      { "title": "VI. Recitativo. Ach, starker Gott, lass mich", "key": ["B-Flat Major", "A Minor"], "medium": ["alto", "continuo"] },
+      { "title": "VII. Aria. Ich wünsche nur bei Gott zu leben", "key": ["C Major"], "medium": ["alto", "violin", "viola", "oboe", "taille", "organ", "continuo"] }
+    ]
+  }
+]

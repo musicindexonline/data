@@ -16,6 +16,22 @@ The data version is derived from the content of `music.json` and
 Source and published files are canonicalized to LF line endings, so releases
 produce the same hashes on Windows and Linux.
 
+## Schema v2 migration
+
+Schema v2 work is in progress. The composer source has been migrated to
+`source/v2/composer.json`, and both v2 Schemas are defined. `works.json` has not
+yet been migrated or published. The v1 catalog remains the stable runtime
+channel.
+
+Validate the in-progress v2 works with:
+
+```powershell
+npm run verify:v2:works
+```
+
+When every movement has `key` or `medium`, the corresponding work-level array
+must equal the union of those movement arrays.
+
 ## Routes
 
 - `/v1/stable.json`: current Schema v1 manifest
