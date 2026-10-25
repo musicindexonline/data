@@ -19,12 +19,17 @@
     "additionalProperties": false,
     "required": [
       "composerId",
+      "workId",
       "title",
       "genre",
       "movements"
     ],
     "properties": {
       "composerId": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+      },
+      "workId": {
         "type": "string",
         "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
       },

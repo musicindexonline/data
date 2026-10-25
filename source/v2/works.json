@@ -1,6 +1,7 @@
 [
   {
     "composerId": "antonio-vivaldi",
+    "workId": "antonio-vivaldi-concerto-for-strings-in-c-major-rv-114",
     "title": { "preferred": "Concerto for Strings in C Major" },
     "identifiers": [
       { "catalog": "rv", "value": "114", "display": "RV 114", "primary": true },
@@ -18,6 +19,7 @@
   },
   {
     "composerId": "antonio-vivaldi",
+    "workId": "antonio-vivaldi-concerto-for-strings-in-g-major-rv-151",
     "title": { "preferred": "Concerto for Strings in G Major", "alias": "Alla Rustica" },
     "identifiers": [
       { "catalog": "rv", "value": "151", "display": "RV 151", "primary": true },
@@ -36,6 +38,7 @@
   },
   {
     "composerId": "antonio-vivaldi",
+    "workId": "antonio-vivaldi-violin-concerto-no-1-in-e-major-rv-269",
     "title": { "preferred": "Violin Concerto No. 1 in E Major", "alias": "La primavera" },
     "identifiers": [
       { "catalog": "rv", "value": "269", "display": "RV 269", "primary": true },
@@ -54,6 +57,7 @@
   },
   {
     "composerId": "antonio-vivaldi",
+    "workId": "antonio-vivaldi-violin-concerto-no-3-in-f-major-rv-293",
     "title": { "preferred": "Violin Concerto No. 3 in F Major", "alias": "L'autunno" },
     "identifiers": [
       { "catalog": "rv", "value": "293", "display": "RV 293", "primary": true },
@@ -72,6 +76,7 @@
   },
   {
     "composerId": "antonio-vivaldi",
+    "workId": "antonio-vivaldi-violin-concerto-no-4-in-f-minor-rv-297",
     "title": { "preferred": "Violin Concerto No. 4 in F Minor", "alias": "L'inverno" },
     "identifiers": [
       { "catalog": "rv", "value": "297", "display": "RV 297", "primary": true },
@@ -90,6 +95,7 @@
   },
   {
     "composerId": "antonio-vivaldi",
+    "workId": "antonio-vivaldi-violin-concerto-no-2-in-g-minor-rv-315",
     "title": { "preferred": "Violin Concerto No. 2 in G Minor", "alias": "L'estate" },
     "identifiers": [
       { "catalog": "rv", "value": "315", "display": "RV 315", "primary": true },
@@ -108,6 +114,7 @@
   },
   {
     "composerId": "antonio-vivaldi",
+    "workId": "antonio-vivaldi-concerto-no-6-in-a-minor-rv-356",
     "title": { "preferred": "Concerto No. 6 in A Minor" },
     "identifiers": [
       { "catalog": "rv", "value": "356", "display": "RV 356", "primary": true },
@@ -126,6 +133,7 @@
   },
   {
     "composerId": "antonio-vivaldi",
+    "workId": "antonio-vivaldi-concerto-for-2-violins-strings-and-continuo-in-g-major-rv-516",
     "title": { "preferred": "Concerto for 2 Violins, Strings and Continuo in G Major" },
     "identifiers": [
       { "catalog": "rv", "value": "516", "display": "RV 516", "primary": true },
@@ -143,6 +151,7 @@
   },
   {
     "composerId": "antonio-vivaldi",
+    "workId": "antonio-vivaldi-concerto-for-oboe-violin-strings-and-continuo-in-bflat-major-rv-548",
     "title": { "preferred": "Concerto for Oboe, Violin, Strings and Continuo in B-Flat Major" },
     "identifiers": [
       { "catalog": "rv", "value": "548", "display": "RV 548", "primary": true },
@@ -161,6 +170,7 @@
   },
   {
     "composerId": "antonio-vivaldi",
+    "workId": "antonio-vivaldi-concerto-for-3-violins-in-f-major-rv-551",
     "title": { "preferred": "Concerto for 3 Violins in F Major" },
     "identifiers": [
       { "catalog": "rv", "value": "551", "display": "RV 551", "primary": true },
@@ -178,6 +188,7 @@
   },
   {
     "composerId": "antonio-vivaldi",
+    "workId": "antonio-vivaldi-concerto-no-10-for-4-violins-and-cello-in-b-minor-rv-580",
     "title": { "preferred": "Concerto No. 10 for 4 Violins and Cello in B Minor" },
     "identifiers": [
       { "catalog": "rv", "value": "580", "display": "RV 580", "primary": true },
@@ -196,6 +207,7 @@
   },
   {
     "composerId": "antonio-vivaldi",
+    "workId": "antonio-vivaldi-il-giustino-rv-717",
     "title": { "preferred": "Il Giustino" },
     "identifiers": [
       { "catalog": "rv", "value": "717", "display": "RV 717", "primary": true }
@@ -210,6 +222,7 @@
   },
   {
     "composerId": "antonio-vivaldi",
+    "workId": "antonio-vivaldi-lolimpiade-rv-725",
     "title": { "preferred": "L'Olimpiade" },
     "identifiers": [
       { "catalog": "rv", "value": "725", "display": "RV 725", "primary": true }
@@ -224,6 +237,7 @@
   },
   {
     "composerId": "georg-melchior-hoffmann",
+    "workId": "georg-melchior-hoffmann-schlage-doch-gewunschte-stunde-bwv-53",
     "title": { "preferred": "Schlage doch, gewünschte Stunde" },
     "identifiers": [
       { "catalog": "bwv", "value": "53", "display": "BWV 53", "primary": true }
@@ -235,6 +249,7 @@
   },
   {
     "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-bleib-bei-uns-denn-es-will-abend-werden-bwv-6",
     "title": { "preferred": "Bleib bei uns, denn es will Abend werden" },
     "identifiers": [
       { "catalog": "bwv", "value": "6", "display": "BWV 6", "primary": true }
@@ -253,6 +268,7 @@
   },
   {
     "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-wir-danken-dir-gott-wir-danken-dir-bwv-29",
     "title": { "preferred": "Wir danken dir, Gott, wir danken dir" },
     "identifiers": [
       { "catalog": "bwv", "value": "29", "display": "BWV 29", "primary": true }
@@ -273,6 +289,7 @@
   },
   {
     "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-geist-und-seele-wird-verwirret-bwv-35",
     "title": { "preferred": "Geist und Seele wird verwirret" },
     "identifiers": [
       { "catalog": "bwv", "value": "35", "display": "BWV 35", "primary": true }

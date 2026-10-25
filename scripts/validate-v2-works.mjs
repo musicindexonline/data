@@ -15,10 +15,30 @@ function sameStringSet(left, right) {
   return [...leftSet].every((value) => rightSet.has(value))
 }
 
+export function workIdFromWork(work) {
+  const primary = (work.identifiers || []).find(
+    (identifier) => identifier.primary === true,
+  )
+  const normalizePart = (part) => part
+    .normalize('NFKD')
+    .replace(/\p{M}/gu, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, '')
+    .trim()
+    .replace(/\s+/g, '-')
+  const parts = [normalizePart(work.title.preferred)]
+  if (primary) {
+    parts.push(normalizePart(primary.display || `${primary.catalog} ${primary.value}`))
+  }
+
+  return [work.composerId, ...parts].filter(Boolean).join('-')
+}
+
 function validateWorkRelations(works, composers) {
   const errors = []
   const composerIds = new Set(composers.map((composer) => composer.id))
   const workKeys = new Set()
+  const workIds = new Set()
 
   works.forEach((work, workIndex) => {
     const location = `works[${workIndex}]`
@@ -31,6 +51,17 @@ function validateWorkRelations(works, composers) {
       errors.push(`${location} duplicates composerId + title.preferred`)
     }
     workKeys.add(identity)
+
+    if (workIds.has(work.workId)) {
+      errors.push(`${location}.workId is duplicated`)
+    }
+    workIds.add(work.workId)
+    const expectedWorkId = workIdFromWork(work)
+    if (work.workId !== expectedWorkId) {
+      errors.push(
+        `${location}.workId must be "${expectedWorkId}"`,
+      )
+    }
 
     const identifiers = work.identifiers || []
     const primaryCount = identifiers.filter((identifier) => identifier.primary === true).length

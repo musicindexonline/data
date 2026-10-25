@@ -15,6 +15,7 @@ test('Schema v2 works accepts the agreed compact structure', async () => {
   const works = [
     {
       composerId: 'pyotr-ilyich-tchaikovsky',
+      workId: 'pyotr-ilyich-tchaikovsky-violin-concerto-in-d-major-th-59',
       title: {preferred: 'Violin Concerto in D Major'},
       identifiers: [
         {catalog: 'op', value: '35', display: 'Op. 35', primary: true},
@@ -31,12 +32,13 @@ test('Schema v2 works accepts the agreed compact structure', async () => {
     },
     {
       composerId: 'gustav-mahler',
+      workId: 'gustav-mahler-symphony-no-2-in-c-minor',
       title: {
         preferred: 'Symphony No. 2 in C Minor',
         alias: 'Resurrection',
       },
       identifiers: [
-        {catalog: 'gmw', value: '30', display: 'GMW 30', primary: true},
+        {catalog: 'gmw', value: '30', display: 'GMW 30', primary: false},
       ],
       medium: ['orchestra', 'soprano', 'alto', 'chorus'],
       genre: 'Symphony',
