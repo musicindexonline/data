@@ -306,5 +306,296 @@
       { "title": "VI. Recitativo. Ach, starker Gott, lass mich", "key": ["B-Flat Major", "A Minor"], "medium": ["alto", "continuo"] },
       { "title": "VII. Aria. Ich wünsche nur bei Gott zu leben", "key": ["C Major"], "medium": ["alto", "violin", "viola", "oboe", "taille", "organ", "continuo"] }
     ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-ich-geh-und-suche-mit-verlangen-bwv-49",
+    "title": { "preferred": "Ich geh und suche mit Verlangen" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "49", "display": "BWV 49", "primary": true }
+    ],
+    "genre": "Cantata",
+    "key": ["E Major", "C-Sharp Minor", "A Major", "F-Sharp Minor"],
+    "medium": ["violin", "viola", "oboe", "organ", "continuo", "bass", "soprano", "violoncello piccolo"],
+    "movements": [
+      { "title": "I. Sinfonia", "key": ["E Major"], "medium": ["violin", "viola", "oboe", "organ", "continuo"] },
+      { "title": "II. Aria. Ich geh und suche mit Verlangen", "key": ["C-Sharp Minor"], "medium": ["bass", "organ", "continuo"] },
+      { "title": "III. Recitativo. Mein Mahl ist zubereit't", "key": ["A Major"], "medium": ["soprano", "bass", "violin", "viola", "continuo"] },
+      { "title": "IV. Aria. Ich bin herrlich, ich bin schön", "key": ["A Major"], "medium": ["soprano", "violoncello piccolo", "oboe", "continuo"] },
+      { "title": "V. Recitativo. Mein Glaube hat mich selbst so angezogen", "key": ["E Major", "F-Sharp Minor"], "medium": ["soprano", "bass", "continuo"] },
+      { "title": "VI. Aria e Chorale. Dich hab ich je und je geliebet - Wie bin doch so herzlich froh", "key": ["E Major"], "medium": ["soprano", "bass", "violin", "viola", "oboe", "organ", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-jauchzet-gott-in-allen-landen-bwv-51",
+    "title": { "preferred": "Jauchzet Gott in allen Landen" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "51", "display": "BWV 51", "primary": true }
+    ],
+    "genre": "Cantata",
+    "key": ["C Major", "A Minor"],
+    "medium": ["soprano", "violin", "viola", "trumpet", "continuo"],
+    "movements": [
+      { "title": "I. Aria. Jauchzet Gott in allen Landen!", "key": ["C Major"], "medium": ["soprano", "violin", "viola", "trumpet", "continuo"] },
+      { "title": "II. Recitativo. Wir beten zu dem Tempel an", "key": ["A Minor"], "medium": ["soprano", "violin", "viola", "continuo"] },
+      { "title": "III. Aria. Höchster, mache deine Güte", "key": ["A Minor"], "medium": ["soprano", "continuo"] },
+      { "title": "IV. Chorale. Sei Lob und Preis mit Ehren", "key": ["C Major"], "medium": ["soprano", "violin", "continuo"] },
+      { "title": "V. Finale. Alleluja!", "key": ["C Major"], "medium": ["soprano", "violin", "viola", "trumpet", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-widerstehe-doch-der-sunde-bwv-54",
+    "title": { "preferred": "Widerstehe doch der Sünde" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "54", "display": "BWV 54", "primary": true }
+    ],
+    "genre": "Cantata",
+    "key": ["E-Flat Major", "C Major", "A-Flat Major"],
+    "medium": ["alto", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Aria. Widerstehe doch der Sünde", "key": ["E-Flat Major"], "medium": ["alto", "violin", "viola", "continuo"] },
+      { "title": "II. Recitativo. Die Art verruchter Sünden", "key": ["C Major", "A-Flat Major"], "medium": ["alto", "continuo"] },
+      { "title": "III. Aria. Wer Sünde tut, der ist vom Teufel", "key": ["E-Flat Major"], "medium": ["alto", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-die-elenden-sollen-essen-bwv-75",
+    "title": { "preferred": "Die Elenden sollen essen" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "75", "display": "BWV 75", "primary": true }
+    ],
+    "genre": "Cantata",
+    "key": ["E Minor", "B Minor", "G Major", "C Major", "A Minor", "D Major"],
+    "medium": ["choir", "violin", "viola", "oboe", "bassoon", "continuo", "bass", "tenor", "soprano", "trumpet", "alto"],
+    "movements": [
+      { "title": "I. Coro. Die Elenden sollen essen", "key": ["E Minor"], "medium": ["choir", "violin", "viola", "oboe", "bassoon", "continuo"] },
+      { "title": "II. Recitativo. Was hilft des Purpurs Majestät", "key": ["E Minor", "B Minor"], "medium": ["bass", "violin", "viola", "continuo"] },
+      { "title": "III. Aria. Mein Jesus soll mein alles sein!", "key": ["G Major"], "medium": ["tenor", "violin", "viola", "oboe", "continuo"] },
+      { "title": "IV. Recitativo. Gott stürzet und erhöhet", "key": ["C Major", "A Minor"], "medium": ["tenor", "continuo"] },
+      { "title": "V. Aria. Ich nehme mein Leiden mit Freuden auf mich", "key": ["A Minor"], "medium": ["soprano", "oboe", "continuo"] },
+      { "title": "VI. Recitativo. Indes schenkt Gott ein gut Gewissen", "key": ["G Major"], "medium": ["soprano", "continuo"] },
+      { "title": "VII. Chorale. Was Gott tut, das ist wohlgetan", "key": ["G Major"], "medium": ["choir", "violin", "viola", "oboe", "continuo"] },
+      { "title": "VIII. Sinfonia", "key": ["G Major"], "medium": ["violin", "viola", "trumpet", "continuo"] },
+      { "title": "IX. Recitativo. Nur eines kränkt ein christliches Gemüte", "key": ["G Major", "E Minor"], "medium": ["alto", "violin", "viola", "continuo"] },
+      { "title": "X. Aria. Jesus macht mich geistlich reich", "key": ["E Minor"], "medium": ["alto", "violin", "continuo"] },
+      { "title": "XI. Recitativo. Wer nur in Jesu bleibt", "key": ["C Major", "D Major"], "medium": ["bass", "continuo"] },
+      { "title": "XII. Aria. Mein Herze glaubt und liebt", "key": ["C Major"], "medium": ["bass", "violin", "viola", "trumpet", "continuo"] },
+      { "title": "XIII. Recitativo. O Armut, der kein Reichtum gleicht!", "key": ["G Major", "A Minor"], "medium": ["tenor", "continuo"] },
+      { "title": "XIV. Chorale. Was Gott tut, das ist wohlgetan", "key": ["G Major"], "medium": ["choir", "violin", "viola", "oboe", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-jesu-der-du-meine-seele-bwv-78",
+    "title": { "preferred": "Jesu, der du meine Seele" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "78", "display": "BWV 78", "primary": true }
+    ],
+    "genre": "Cantata",
+    "key": ["G Minor", "B-Flat Major", "C Minor", "D Minor", "E-Flat Major", "F-Sharp Minor"],
+    "medium": ["choir", "violin", "viola", "flute", "oboe", "horn", "continuo", "soprano", "alto", "double bass", "tenor", "bass"],
+    "movements": [
+      { "title": "I. Coro. Jesu, der du meine Seele", "key": ["G Minor"], "medium": ["choir", "violin", "viola", "flute", "oboe", "horn", "continuo"] },
+      { "title": "II. Aria, Duetto. Wir eilen mit schwachen, doch emsigen Schritten", "key": ["B-Flat Major"], "medium": ["soprano", "alto", "double bass", "continuo"] },
+      { "title": "III. Recitativo. Ach! ich bin ein Kind der Sünden", "key": ["C Minor", "D Minor"], "medium": ["tenor", "continuo"] },
+      { "title": "IV. Aria. Das Blut, so meine Schuld durchstreicht", "key": ["G Minor"], "medium": ["tenor", "flute", "continuo"] },
+      { "title": "V. Recitativo. Die Wunden, Nägel, Kron und Grab", "key": ["E-Flat Major", "F-Sharp Minor"], "medium": ["bass", "violin", "viola", "continuo"] },
+      { "title": "VI. Aria. Nun, du wirst mein Gewissen stillen", "key": ["C Minor"], "medium": ["bass", "violin", "viola", "oboe", "continuo"] },
+      { "title": "VII. Chorale. Herr, ich glaube, hilf mir Schwachen", "key": ["G Minor"], "medium": ["choir", "violin", "viola", "flute", "oboe", "horn", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-wachet-auf-ruft-uns-die-stimme-bwv-140",
+    "title": { "preferred": "Wachet auf, ruft uns die Stimme" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "140", "display": "BWV 140", "primary": true }
+    ],
+    "genre": "Cantata",
+    "key": ["E-Flat Major", "C Minor", "B-Flat Major"],
+    "medium": ["choir", "violin", "viola", "oboe", "horn", "continuo", "tenor", "soprano", "bass", "violino piccolo"],
+    "movements": [
+      { "title": "I. Coro. Wachet auf, ruft uns die Stimme", "key": ["E-Flat Major"], "medium": ["choir", "violin", "viola", "oboe", "horn", "continuo"] },
+      { "title": "II. Recitativo. Er kommt, er kommt, der Bräut'gam kommt!", "key": ["C Minor"], "medium": ["tenor", "continuo"] },
+      { "title": "III. Aria, Duetto. Wenn kömmst du, mein Heil?", "key": ["C Minor"], "medium": ["soprano", "bass", "violino piccolo", "continuo"] },
+      { "title": "IV. Chorale. Zion hört die Wächter singen", "key": ["E-Flat Major"], "medium": ["tenor", "violin", "viola", "continuo"] },
+      { "title": "V. Recitativo. So geh herein zu mir", "key": ["E-Flat Major", "B-Flat Major"], "medium": ["bass", "violin", "viola", "continuo"] },
+      { "title": "VI. Aria, Duetto. Mein Freund ist mein, und ich bin dein", "key": ["B-Flat Major"], "medium": ["soprano", "bass", "oboe", "continuo"] },
+      { "title": "VII. Chorale. Gloria sei dir gesungen", "key": ["E-Flat Major"], "medium": ["choir", "violin", "viola", "oboe", "horn", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-wir-mussen-durch-viel-trubsal-bwv-146",
+    "title": { "preferred": "Wir müssen durch viel Trübsal" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "146", "display": "BWV 146", "primary": true }
+    ],
+    "genre": "Cantata",
+    "key": ["D Minor", "G Minor", "B-Flat Major", "F Major"],
+    "medium": ["violin", "viola", "oboe", "organ", "continuo", "choir", "alto", "soprano", "flute", "tenor", "bass"],
+    "movements": [
+      { "title": "I. Sinfonia", "key": ["D Minor"], "medium": ["violin", "viola", "oboe", "organ", "continuo"] },
+      { "title": "II. Coro. Wir müssen durch viel Trübsal", "key": ["G Minor"], "medium": ["choir", "violin", "viola", "continuo"] },
+      { "title": "III. Aria. Ich will nach dem Himmel zu", "key": ["B-Flat Major"], "medium": ["alto", "violin", "continuo"] },
+      { "title": "IV. Recitativo. Ach! wer doch schon im Himmel wär", "key": ["D Minor", "G Minor"], "medium": ["soprano", "violin", "viola", "continuo"] },
+      { "title": "V. Aria. Ich säe meine Zähren", "key": ["D Minor"], "medium": ["soprano", "flute", "oboe", "continuo"] },
+      { "title": "VI. Recitativo. Ich bin bereit", "key": ["B-Flat Major"], "medium": ["tenor", "continuo"] },
+      { "title": "VII. Duetto. Wie will ich mich freuen, wie will ich mich laben", "key": ["F Major"], "medium": ["tenor", "bass", "violin", "viola", "oboe", "continuo"] },
+      { "title": "VIII. Chorale. Denn wer selig dahin fähret", "key": ["F Major"], "medium": ["choir", "violin", "viola", "flute", "oboe", "organ", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-herz-und-mund-und-tat-und-leben-bwv-147",
+    "title": { "preferred": "Herz und Mund und Tat und Leben" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "147", "display": "BWV 147", "primary": true }
+    ],
+    "genre": "Cantata",
+    "key": ["C Major", "F Major", "A Minor", "D Minor", "G Major"],
+    "medium": ["choir", "violin", "viola", "oboe", "trumpet", "continuo", "tenor", "alto", "bass", "soprano", "cello", "double bass"],
+    "movements": [
+      { "title": "I. Coro. Herz und Mund und Tat und Leben", "key": ["C Major"], "medium": ["choir", "violin", "viola", "oboe", "trumpet", "continuo"] },
+      { "title": "II. Recitativo. Gebenedeiter Mund", "key": ["F Major", "A Minor"], "medium": ["tenor", "violin", "viola", "continuo"] },
+      { "title": "III. Aria. Schäme dich, o Seele, nicht", "key": ["A Minor"], "medium": ["alto", "oboe", "continuo"] },
+      { "title": "IV. Recitativo. Verstockung kann Gewaltige verblenden", "key": ["D Minor", "A Minor"], "medium": ["bass", "continuo"] },
+      { "title": "V. Aria. Bereite dir, Jesu, noch itzo die Bahn", "key": ["D Minor"], "medium": ["soprano", "violin", "continuo"] },
+      { "title": "VI. Chorale. Wohl mir, daβ ich Jesum habe", "key": ["G Major"], "medium": ["choir", "violin", "viola", "oboe", "trumpet", "continuo"] },
+      { "title": "VII. Aria. Hilf, Jesu, hilf, daß ich auch dich bekenne", "key": ["F Major"], "medium": ["tenor", "cello", "double bass", "continuo"] },
+      { "title": "VIII. Recitativo. Der höchsten Allmacht Wunderhand", "key": ["C Major"], "medium": ["alto", "oboe", "continuo"] },
+      { "title": "IX. Aria. Ich will von Jesu Wundern singen", "key": ["C Major"], "medium": ["bass", "violin", "viola", "oboe", "trumpet", "continuo"] },
+      { "title": "X. Chorale. Jesu, bleibet meine Freude", "key": ["G Major"], "medium": ["choir", "violin", "viola", "oboe", "trumpet", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-ihr-menschen-ruhmet-gottes-liebe-bwv-167",
+    "title": { "preferred": "Ihr Menschen, rühmet Gottes Liebe" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "167", "display": "BWV 167", "primary": true }
+    ],
+    "genre": "Cantata",
+    "key": ["G Major", "E Minor", "A Minor", "C Major"],
+    "medium": ["tenor", "violin", "viola", "continuo", "alto", "soprano", "oboe", "bass", "choir", "trumpet"],
+    "movements": [
+      { "title": "I. Aria. Ihr Menschen, rühmet Gottes Liebe", "key": ["G Major"], "medium": ["tenor", "violin", "viola", "continuo"] },
+      { "title": "II. Recitativo. Gelobet sei der Herr Gott Israel", "key": ["E Minor"], "medium": ["alto", "continuo"] },
+      { "title": "III. Aria, Duetto. Gottes Wort, das trüget nicht", "key": ["A Minor"], "medium": ["soprano", "alto", "oboe", "continuo"] },
+      { "title": "IV. Recitativo. Des Weibes Samen kam", "key": ["C Major", "G Major"], "medium": ["bass", "continuo"] },
+      { "title": "V. Chorale. Sei Lob und Preis mit Ehren", "key": ["G Major"], "medium": ["choir", "violin", "viola", "oboe", "trumpet", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-gott-soll-allein-mein-herze-haben-bwv-169",
+    "title": { "preferred": "Gott soll allein mein Herze haben" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "169", "display": "BWV 169", "primary": true }
+    ],
+    "genre": "Cantata",
+    "key": ["D Major", "F-Sharp Minor", "G Major", "B Minor", "A Major"],
+    "medium": ["violin", "viola", "oboe", "taille", "organ", "continuo", "alto", "choir"],
+    "movements": [
+      { "title": "I. Sinfonia", "key": ["D Major"], "medium": ["violin", "viola", "oboe", "taille", "organ", "continuo"] },
+      { "title": "II. Arioso. Gott soll allein mein Herze haben", "key": ["D Major", "F-Sharp Minor"], "medium": ["alto", "continuo"] },
+      { "title": "III. Aria. Gott soll allein mein Herze haben", "key": ["D Major"], "medium": ["alto", "organ", "continuo"] },
+      { "title": "IV. Recitativo. Was ist die Liebe Gottes?", "key": ["G Major", "F-Sharp Minor"], "medium": ["alto", "continuo"] },
+      { "title": "V. Aria. Stirb in mir, Welt und alle deine Liebe", "key": ["B Minor"], "medium": ["alto", "violin", "viola", "organ", "continuo"] },
+      { "title": "VI. Recitativo. Doch meint es auch dabei", "key": ["D Major", "A Major"], "medium": ["alto", "continuo"] },
+      { "title": "VII. Chorale. Du süße Liebe, schenk uns deine Gunst", "key": ["A Major"], "medium": ["choir", "violin", "viola", "oboe", "taille", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-ich-habe-meine-zuversicht-bwv-188",
+    "title": { "preferred": "Ich habe meine Zuversicht" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "188", "display": "BWV 188", "primary": true }
+    ],
+    "genre": "Cantata",
+    "key": ["D Minor", "F Major", "C Major", "E Minor", "A Minor"],
+    "medium": ["violin", "viola", "oboe", "taille", "organ", "continuo", "tenor", "bass", "alto", "cello", "soprano", "choir"],
+    "movements": [
+      { "title": "I. Sinfonia", "key": ["D Minor"], "medium": ["violin", "viola", "oboe", "taille", "organ", "continuo"] },
+      { "title": "II. Aria. Ich habe meine Zuversicht", "key": ["F Major"], "medium": ["tenor", "violin", "viola", "oboe", "continuo"] },
+      { "title": "III. Recitativo. Gott meint es gut mit jedermann", "key": ["C Major"], "medium": ["bass", "continuo"] },
+      { "title": "IV. Aria. Unerforschlich ist die Weise", "key": ["E Minor"], "medium": ["alto", "cello", "organ"] },
+      { "title": "V. Recitativo. Die Macht der Welt verlieret sich", "key": ["C Major", "A Minor"], "medium": ["soprano", "violin", "viola", "continuo"] },
+      { "title": "VI. Chorale. Auf meinen lieben Gott", "key": ["A Minor"], "medium": ["choir", "violin", "viola", "oboe", "taille", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-non-sa-che-sia-dolore-bwv-209",
+    "title": { "preferred": "Non sa che sia dolore" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "209", "display": "BWV 209", "primary": true }
+    ],
+    "genre": "Cantata",
+    "key": ["B Minor", "A Major", "E Minor", "G Major"],
+    "medium": ["violin", "viola", "flute", "continuo", "soprano"],
+    "movements": [
+      { "title": "I. Sinfonia", "key": ["B Minor"], "medium": ["violin", "viola", "flute", "continuo"] },
+      { "title": "II. Recitativo. Non sa che sia dolore", "key": ["A Major", "B Minor"], "medium": ["soprano", "violin", "viola", "continuo"] },
+      { "title": "III. Aria. Parti pur e con dolore", "key": ["E Minor"], "medium": ["soprano", "violin", "viola", "flute", "continuo"] },
+      { "title": "IV. Recitativo. Tuo saver al tempo e l'età constrasta", "key": ["E Minor", "B Minor"], "medium": ["soprano", "continuo"] },
+      { "title": "V. Aria. Ricetti gramezza e pavento", "key": ["G Major"], "medium": ["soprano", "violin", "viola", "flute", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-toccata-adagio-and-fugue-in-c-major-bwv-564",
+    "title": { "preferred": "Toccata, Adagio and Fugue in C Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "564", "display": "BWV 564", "primary": true }
+    ],
+    "genre": "Toccata",
+    "key": ["C Major"],
+    "medium": ["organ"],
+    "movements": [
+      { "title": "I. Toccata" },
+      { "title": "II. Adagio" },
+      { "title": "III. Fuga" }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-erbarm-dich-mein-o-herre-gott-bwv-721",
+    "title": { "preferred": "Erbarm dich mein, o Herre Gott" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "721", "display": "BWV 721", "primary": true }
+    ],
+    "genre": "Chorale Prelude",
+    "key": ["F-Sharp Minor"],
+    "medium": ["organ"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-1-in-c-major-bwv-846",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 1 in C Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "846", "display": "BWV 846", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["C Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-2-in-c-minor-bwv-847",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 2 in C Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "847", "display": "BWV 847", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["C Minor"],
+    "medium": ["keyboard"],
+    "movements": []
   }
 ]
