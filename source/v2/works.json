@@ -597,5 +597,619 @@
     "key": ["C Minor"],
     "medium": ["keyboard"],
     "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-3-in-csharp-major-bwv-848",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 3 in C-Sharp Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "848", "display": "BWV 848", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["C-Sharp Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-4-in-csharp-minor-bwv-849",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 4 in C-Sharp Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "849", "display": "BWV 849", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["C-Sharp Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-5-in-d-major-bwv-850",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 5 in D Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "850", "display": "BWV 850", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["D Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-6-in-d-minor-bwv-851",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 6 in D Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "851", "display": "BWV 851", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["D Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-7-in-eflat-major-bwv-852",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 7 in E-Flat Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "852", "display": "BWV 852", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["E-Flat Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-8-in-eflat-minor-bwv-853",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 8 in E-Flat Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "853", "display": "BWV 853", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["E-Flat Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-9-in-e-major-bwv-854",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 9 in E Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "854", "display": "BWV 854", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["E Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-10-in-e-minor-bwv-855",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 10 in E Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "855", "display": "BWV 855", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["E Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-11-in-f-major-bwv-856",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 11 in F Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "856", "display": "BWV 856", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["F Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-12-in-f-minor-bwv-857",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 12 in F Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "857", "display": "BWV 857", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["F Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-13-in-fsharp-major-bwv-858",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 13 in F-Sharp Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "858", "display": "BWV 858", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["F-Sharp Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-14-in-fsharp-minor-bwv-859",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 14 in F-Sharp Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "859", "display": "BWV 859", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["F-Sharp Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-15-in-g-major-bwv-860",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 15 in G Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "860", "display": "BWV 860", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["G Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-16-in-g-minor-bwv-861",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 16 in G Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "861", "display": "BWV 861", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["G Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-17-in-aflat-major-bwv-862",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 17 in A-Flat Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "862", "display": "BWV 862", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["A-Flat Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-18-in-gsharp-minor-bwv-863",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 18 in G-Sharp Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "863", "display": "BWV 863", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["G-Sharp Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-19-in-a-major-bwv-864",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 19 in A Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "864", "display": "BWV 864", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["A Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-20-in-a-minor-bwv-865",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 20 in A Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "865", "display": "BWV 865", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["A Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-21-in-bflat-major-bwv-866",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 21 in B-Flat Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "866", "display": "BWV 866", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["B-Flat Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-22-in-bflat-minor-bwv-867",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 22 in B-Flat Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "867", "display": "BWV 867", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["B-Flat Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-23-in-b-major-bwv-868",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 23 in B Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "868", "display": "BWV 868", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["B Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-i-prelude-and-fugue-no-24-in-b-minor-bwv-869",
+    "title": { "preferred": "The Well-Tempered Clavier, Book I: Prelude and Fugue No. 24 in B Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "869", "display": "BWV 869", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["B Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-1-in-c-major-bwv-870",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 1 in C Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "870", "display": "BWV 870", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["C Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-2-in-c-minor-bwv-871",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 2 in C Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "871", "display": "BWV 871", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["C Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-3-in-csharp-major-bwv-872",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 3 in C-Sharp Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "872", "display": "BWV 872", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["C-Sharp Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-4-in-csharp-minor-bwv-873",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 4 in C-Sharp Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "873", "display": "BWV 873", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["C-Sharp Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-5-in-d-major-bwv-874",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 5 in D Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "874", "display": "BWV 874", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["D Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-6-in-d-minor-bwv-875",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 6 in D Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "875", "display": "BWV 875", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["D Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-7-in-eflat-major-bwv-876",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 7 in E-Flat Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "876", "display": "BWV 876", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["E-Flat Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-8-in-dsharp-minor-bwv-877",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 8 in D-Sharp Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "877", "display": "BWV 877", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["D-Sharp Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-9-in-e-major-bwv-878",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 9 in E Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "878", "display": "BWV 878", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["E Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-10-in-e-minor-bwv-879",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 10 in E Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "879", "display": "BWV 879", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["E Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-11-in-f-major-bwv-880",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 11 in F Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "880", "display": "BWV 880", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["F Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-12-in-f-minor-bwv-881",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 12 in F Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "881", "display": "BWV 881", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["F Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-13-in-fsharp-major-bwv-882",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 13 in F-Sharp Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "882", "display": "BWV 882", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["F-Sharp Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-14-in-fsharp-minor-bwv-883",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 14 in F-Sharp Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "883", "display": "BWV 883", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["F-Sharp Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-15-in-g-major-bwv-884",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 15 in G Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "884", "display": "BWV 884", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["G Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-16-in-g-minor-bwv-885",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 16 in G Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "885", "display": "BWV 885", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["G Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-17-in-aflat-major-bwv-886",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 17 in A-Flat Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "886", "display": "BWV 886", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["A-Flat Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-18-in-gsharp-minor-bwv-887",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 18 in G-Sharp Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "887", "display": "BWV 887", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["G-Sharp Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-19-in-a-major-bwv-888",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 19 in A Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "888", "display": "BWV 888", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["A Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-20-in-a-minor-bwv-889",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 20 in A Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "889", "display": "BWV 889", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["A Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-21-in-bflat-major-bwv-890",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 21 in B-Flat Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "890", "display": "BWV 890", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["B-Flat Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-22-in-bflat-minor-bwv-891",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 22 in B-Flat Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "891", "display": "BWV 891", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["B-Flat Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-23-in-b-major-bwv-892",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 23 in B Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "892", "display": "BWV 892", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["B Major"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-welltempered-clavier-book-ii-prelude-and-fugue-no-24-in-b-minor-bwv-893",
+    "title": { "preferred": "The Well-Tempered Clavier, Book II: Prelude and Fugue No. 24 in B Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "893", "display": "BWV 893", "primary": true }
+    ],
+    "genre": "Prelude and Fugue",
+    "key": ["B Minor"],
+    "medium": ["keyboard"],
+    "movements": []
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-aria-mit-30-veranderungen-bwv-988",
+    "title": { "preferred": "Aria mit 30 Veränderungen", "alias": "Goldberg Variations" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "988", "display": "BWV 988", "primary": true }
+    ],
+    "genre": "Variations",
+    "key": ["G Major", "G Minor"],
+    "medium": ["keyboard"],
+    "movements": [
+      { "title": "Aria", "key": ["G Major"] },
+      { "title": "Var. 1 - a 1 Clav.", "key": ["G Major"] },
+      { "title": "Var. 2 - a 1 Clav.", "key": ["G Major"] },
+      { "title": "Var. 3 - a 1 Clav. Canone alla Unisuono", "key": ["G Major"] },
+      { "title": "Var. 4 - a 1 Clav.", "key": ["G Major"] },
+      { "title": "Var. 5 - a 1 ovvero 2 Clav.", "key": ["G Major"] },
+      { "title": "Var. 6 - a 1 Clav. Canone alla Seconda", "key": ["G Major"] },
+      { "title": "Var. 7 - a 1 ovvero 2 Clav.", "key": ["G Major"] },
+      { "title": "Var. 8 - a 2 Clav.", "key": ["G Major"] },
+      { "title": "Var. 9 - a 1 Clav. Canone alla Terza", "key": ["G Major"] },
+      { "title": "Var. 10 - a 1 Clav. Fughetta", "key": ["G Major"] },
+      { "title": "Var. 11 - a 2 Clav.", "key": ["G Major"] },
+      { "title": "Var. 12 - a 1 Clav. Canone alla Quarta", "key": ["G Major"] },
+      { "title": "Var. 13 - a 2 Clav.", "key": ["G Major"] },
+      { "title": "Var. 14 - a 2 Clav.", "key": ["G Major"] },
+      { "title": "Var. 15 - a 1 Clav. Canone alla Quinta. Andante", "key": ["G Minor"] },
+      { "title": "Var. 16 - Ouverture a 1 Clav.", "key": ["G Major"] },
+      { "title": "Var. 17 - a 2 Clav.", "key": ["G Major"] },
+      { "title": "Var. 18 - Canone alla Sesta a 1 Clav.", "key": ["G Major"] },
+      { "title": "Var. 19 - a 1 Clav.", "key": ["G Major"] },
+      { "title": "Var. 20 - a 2 Clav.", "key": ["G Major"] },
+      { "title": "Var. 21 - Canone alla Settima", "key": ["G Minor"] },
+      { "title": "Var. 22 - Alla breve a 1 Clav.", "key": ["G Major"] },
+      { "title": "Var. 23 - a 2 Clav.", "key": ["G Major"] },
+      { "title": "Var. 24 - Canone alla Ottava a 1 Clav.", "key": ["G Major"] },
+      { "title": "Var. 25 - a 2 Clav.", "key": ["G Minor"] },
+      { "title": "Var. 26 - a 2 Clav.", "key": ["G Major"] },
+      { "title": "Var. 27 - Canone alla Nona", "key": ["G Major"] },
+      { "title": "Var. 28 - a 2 Clav.", "key": ["G Major"] },
+      { "title": "Var. 29 - a 1 ovvero 2 Clav.", "key": ["G Major"] },
+      { "title": "Var. 30 - a 1 Clav. Quodlibet", "key": ["G Major"] },
+      { "title": "Aria da Capo", "key": ["G Major"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-violin-sonata-no-1-in-g-minor-bwv-1001",
+    "title": { "preferred": "Violin Sonata No. 1 in G Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1001", "display": "BWV 1001", "primary": true }
+    ],
+    "genre": "Sonata",
+    "key": ["G Minor"],
+    "medium": ["violin"],
+    "movements": [
+      { "title": "I. Adagio" },
+      { "title": "II. Fuga" },
+      { "title": "III. Siciliana" },
+      { "title": "IV. Presto" }
+    ]
   }
 ]
