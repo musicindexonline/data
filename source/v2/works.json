@@ -66,12 +66,12 @@
       { "catalog": "f", "value": "I n. 24", "display": "F. I n. 24", "primary": false }
     ],
     "genre": "Concerto",
-    "key": ["F Major"],
+    "key": ["F Major", "D Minor"],
     "medium": ["violin", "strings", "continuo"],
     "movements": [
-      { "title": "I. Allegro" },
-      { "title": "II. Adagio molto" },
-      { "title": "III. Allegro" }
+      { "title": "I. Allegro", "key": ["F Major"] },
+      { "title": "II. Adagio molto", "key": ["D Minor"] },
+      { "title": "III. Allegro", "key": ["F Major"] }
     ]
   },
   {
@@ -85,12 +85,12 @@
       { "catalog": "f", "value": "I n. 25", "display": "F. I n. 25", "primary": false }
     ],
     "genre": "Concerto",
-    "key": ["F Minor"],
+    "key": ["F Minor", "E-Flat Major"],
     "medium": ["violin", "strings", "continuo"],
     "movements": [
-      { "title": "I. Allegro non molto" },
-      { "title": "II. Largo" },
-      { "title": "III. Allegro" }
+      { "title": "I. Allegro non molto", "key": ["F Minor"] },
+      { "title": "II. Largo", "key": ["E-Flat Major"] },
+      { "title": "III. Allegro", "key": ["F Minor"] }
     ]
   },
   {
@@ -123,12 +123,12 @@
       { "catalog": "f", "value": "I n. 176", "display": "F. I n. 176", "primary": false }
     ],
     "genre": "Concerto",
-    "key": ["A Minor"],
+    "key": ["A Minor", "D Minor"],
     "medium": ["violin", "strings", "continuo"],
     "movements": [
-      { "title": "I. Allegro" },
-      { "title": "II. Largo" },
-      { "title": "III. Presto" }
+      { "title": "I. Allegro", "key": ["A Minor"], "medium": ["violin", "strings", "continuo"] },
+      { "title": "II. Largo", "key": ["D Minor"], "medium": ["violin", "strings"] },
+      { "title": "III. Presto", "key": ["A Minor"], "medium": ["violin", "strings", "continuo"] }
     ]
   },
   {
@@ -144,9 +144,9 @@
     "key": ["G Major"],
     "medium": ["violin", "strings", "continuo"],
     "movements": [
-      { "title": "I. Allegro molto" },
-      { "title": "II. Andante molto" },
-      { "title": "III. Allegro" }
+      { "title": "I. Allegro molto", "medium": ["violin", "strings", "continuo"] },
+      { "title": "II. Andante molto", "medium": ["violin", "continuo"] },
+      { "title": "III. Allegro", "medium": ["violin", "strings", "continuo"] }
     ]
   },
   {
@@ -160,12 +160,12 @@
       { "catalog": "f", "value": "XII n. 16", "display": "F. XII n. 16", "primary": false }
     ],
     "genre": "Concerto",
-    "key": ["B-Flat Major"],
+    "key": ["B-Flat Major", "G Minor"],
     "medium": ["oboe", "violin", "strings", "continuo"],
     "movements": [
-      { "title": "I. Allegro" },
-      { "title": "II. Largo" },
-      { "title": "III. Allegro" }
+      { "title": "I. Allegro", "key": ["B-Flat Major"], "medium": ["oboe", "violin", "strings", "continuo"] },
+      { "title": "II. Largo", "key": ["G Minor"], "medium": ["oboe", "violin", "continuo"] },
+      { "title": "III. Allegro", "key": ["B-Flat Major"], "medium": ["oboe", "violin", "strings", "continuo"] }
     ]
   },
   {
@@ -178,12 +178,12 @@
       { "catalog": "f", "value": "I n. 34", "display": "F. I n. 34", "primary": false }
     ],
     "genre": "Concerto",
-    "key": ["F Major"],
+    "key": ["F Major", "D Minor"],
     "medium": ["violin", "strings", "continuo"],
     "movements": [
-      { "title": "I. Allegro" },
-      { "title": "II. Andante" },
-      { "title": "III. Allegro" }
+      { "title": "I. Allegro", "key": ["F Major"] },
+      { "title": "II. Andante", "key": ["D Minor"] },
+      { "title": "III. Allegro", "key": ["F Major"] }
     ]
   },
   {
@@ -1203,13 +1203,282 @@
       { "catalog": "bwv", "value": "1001", "display": "BWV 1001", "primary": true }
     ],
     "genre": "Sonata",
-    "key": ["G Minor"],
+    "key": ["G Minor", "B-Flat Major"],
+    "medium": ["violin"],
+    "movements": [
+      { "title": "I. Adagio", "key": ["G Minor"] },
+      { "title": "II. Fuga", "key": ["G Minor"] },
+      { "title": "III. Siciliana", "key": ["B-Flat Major"] },
+      { "title": "IV. Presto", "key": ["G Minor"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-violin-partita-no-1-in-b-minor-bwv-1002",
+    "title": { "preferred": "Violin Partita No. 1 in B Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1002", "display": "BWV 1002", "primary": true }
+    ],
+    "genre": "Partita",
+    "key": ["B Minor"],
+    "medium": ["violin"],
+    "movements": [
+      { "title": "I. Allemanda" },
+      { "title": "II. Double" },
+      { "title": "III. Corrente" },
+      { "title": "IV. Double" },
+      { "title": "V. Sarabande" },
+      { "title": "VI. Double" },
+      { "title": "VII. Tempo di Borea" },
+      { "title": "VIII. Double" }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-violin-sonata-no-2-in-a-minor-bwv-1003",
+    "title": { "preferred": "Violin Sonata No. 2 in A Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1003", "display": "BWV 1003", "primary": true }
+    ],
+    "genre": "Sonata",
+    "key": ["A Minor"],
+    "medium": ["violin"],
+    "movements": [
+      { "title": "I. Grave" },
+      { "title": "II. Fuga" },
+      { "title": "III. Andante" },
+      { "title": "IV. Allegro" }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-violin-partita-no-2-in-d-minor-bwv-1004",
+    "title": { "preferred": "Violin Partita No. 2 in D Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1004", "display": "BWV 1004", "primary": true }
+    ],
+    "genre": "Partita",
+    "key": ["D Minor"],
+    "medium": ["violin"],
+    "movements": [
+      { "title": "I. Allemanda" },
+      { "title": "II. Corrente" },
+      { "title": "III. Sarabanda" },
+      { "title": "IV. Giga" },
+      { "title": "V. Ciaccona" }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-violin-sonata-no-3-in-c-major-bwv-1005",
+    "title": { "preferred": "Violin Sonata No. 3 in C Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1005", "display": "BWV 1005", "primary": true }
+    ],
+    "genre": "Partita",
+    "key": ["C Major"],
     "medium": ["violin"],
     "movements": [
       { "title": "I. Adagio" },
       { "title": "II. Fuga" },
-      { "title": "III. Siciliana" },
-      { "title": "IV. Presto" }
+      { "title": "III. Largo" },
+      { "title": "IV. Allegro assai" }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-violin-partita-no-3-in-e-major-bwv-1006",
+    "title": { "preferred": "Violin Partita No. 3 in E Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1006", "display": "BWV 1006", "primary": true }
+    ],
+    "genre": "Partita",
+    "key": ["E Major"],
+    "medium": ["violin"],
+    "movements": [
+      { "title": "I. Preludio" },
+      { "title": "II. Loure" },
+      { "title": "III. Gavotte en Rondeau" },
+      { "title": "IV. Menuets I & II" },
+      { "title": "V. Bourrée" },
+      { "title": "VI. Gigue" }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-flute-sonata-in-eflat-major-bwv-1031",
+    "title": { "preferred": "Flute Sonata in E-Flat Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1031", "display": "BWV 1031", "primary": true }
+    ],
+    "genre": "Sonata",
+    "key": ["E-Flat Major", "G Minor"],
+    "medium": ["flute", "harpsichord"],
+    "movements": [
+      { "title": "I. Allegro moderato", "key": ["E-Flat Major"] },
+      { "title": "II. Siciliano", "key": ["G Minor"] },
+      { "title": "III. Allegro", "key": ["E-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-violin-concerto-no-1-in-a-minor-bwv-1041",
+    "title": { "preferred": "Violin Concerto No. 1 in A Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1041", "display": "BWV 1041", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["A Minor", "C Major"],
+    "medium": ["violin", "strings", "continuo"],
+    "movements": [
+      { "title": "I. Allegro moderato", "key": ["A Minor"] },
+      { "title": "II. Andante", "key": ["C Major"] },
+      { "title": "III. Allegro assai", "key": ["A Minor"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-violin-concerto-no-2-in-e-major-bwv-1042",
+    "title": { "preferred": "Violin Concerto No. 2 in E Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1042", "display": "BWV 1042", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["E Major", "C-Sharp Minor"],
+    "medium": ["violin", "strings", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["E Major"] },
+      { "title": "II. Adagio", "key": ["C-Sharp Minor"] },
+      { "title": "III. Allegro assai", "key": ["E Major"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-concerto-for-2-violins-in-d-minor-bwv-1043",
+    "title": { "preferred": "Concerto for 2 Violins in D Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1043", "display": "BWV 1043", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["D Minor", "F Major"],
+    "medium": ["violin", "strings", "continuo"],
+    "movements": [
+      { "title": "I. Vivace", "key": ["D Minor"] },
+      { "title": "II. Largo ma non tanto", "key": ["F Major"] },
+      { "title": "III. Allegro", "key": ["D Minor"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-triple-concerto-for-flute-violin-and-harpsichord-in-a-minor-bwv-1044",
+    "title": { "preferred": "Triple Concerto for Flute, Violin and Harpsichord in A Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1044", "display": "BWV 1044", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["A Minor", "C Major"],
+    "medium": ["flute", "violin", "harpsichord", "strings", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["A Minor"], "medium": ["flute", "violin", "harpsichord", "strings", "continuo"] },
+      { "title": "II. Adagio ma non tanto e dolce", "key": ["C Major"], "medium": ["flute", "violin", "harpsichord"] },
+      { "title": "III. Alla breve", "key": ["A Minor"], "medium": ["flute", "violin", "harpsichord", "strings", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-brandenburg-concerto-no-1-in-f-major-bwv-1046",
+    "title": { "preferred": "Brandenburg Concerto No. 1 in F Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1046", "display": "BWV 1046", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["F Major", "D Minor"],
+    "medium": ["horn", "oboe", "bassoon", "violino piccolo", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["F Major"], "medium": ["horn", "oboe", "bassoon", "violino piccolo", "violin", "viola", "cello", "continuo"] },
+      { "title": "II. Adagio", "key": ["D Minor"], "medium": ["oboe", "violino piccolo", "violin", "viola", "continuo"] },
+      { "title": "III. Allegro", "key": ["F Major"], "medium": ["horn", "oboe", "bassoon", "violino piccolo", "violin", "viola", "continuo"] },
+      { "title": "IV. Menuetto", "key": ["F Major"], "medium": ["horn", "oboe", "bassoon", "violino piccolo", "violin", "viola", "cello", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-brandenburg-concerto-no-2-in-f-major-bwv-1047",
+    "title": { "preferred": "Brandenburg Concerto No. 2 in F Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1047", "display": "BWV 1047", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["F Major", "D Minor"],
+    "medium": ["trumpet", "recorder", "oboe", "violin", "strings", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["F Major"] },
+      { "title": "II. Andante", "key": ["D Minor"] },
+      { "title": "III. Allegro assai", "key": ["F Major"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-brandenburg-concerto-no-3-in-g-major-bwv-1048",
+    "title": { "preferred": "Brandenburg Concerto No. 3 in G Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1048", "display": "BWV 1048", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["G Major"],
+    "medium": ["violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Allegro" },
+      { "title": "II. Adagio" },
+      { "title": "III. Allegro" }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-brandenburg-concerto-no-4-in-g-major-bwv-1049",
+    "title": { "preferred": "Brandenburg Concerto No. 4 in G Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1049", "display": "BWV 1049", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["G Major", "E Minor"],
+    "medium": ["violin", "recorder", "strings", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["G Major"] },
+      { "title": "II. Andante", "key": ["E Minor"] },
+      { "title": "III. Presto", "key": ["G Major"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-brandenburg-concerto-no-5-in-d-major-bwv-1050",
+    "title": { "preferred": "Brandenburg Concerto No. 5 in D Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1050", "display": "BWV 1050", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["D Major", "B Minor"],
+    "medium": ["harpsichord", "flute", "violin", "strings", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["D Major"], "medium": ["harpsichord", "flute", "violin", "strings", "continuo"] },
+      { "title": "II. Affettuoso", "key": ["B Minor"], "medium": ["harpsichord", "flute", "violin", "continuo"] },
+      { "title": "III. Allegro", "key": ["D Major"], "medium": ["harpsichord", "flute", "violin", "strings", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-brandenburg-concerto-no-6-in-bflat-major-bwv-1051",
+    "title": { "preferred": "Brandenburg Concerto No. 6 in B-Flat Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1051", "display": "BWV 1051", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["D Major", "B Minor"],
+    "medium": ["harpsichord", "flute", "violin", "strings", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["D Major"], "medium": ["harpsichord", "flute", "violin", "strings", "continuo"] },
+      { "title": "II. Adagio ma non tanto", "key": ["B Minor"], "medium": ["harpsichord", "flute", "violin"] },
+      { "title": "III. Allegro", "key": ["D Major"], "medium": ["harpsichord", "flute", "violin", "strings", "continuo"] }
     ]
   }
 ]
