@@ -1480,5 +1480,542 @@
       { "title": "II. Adagio ma non tanto", "key": ["B Minor"], "medium": ["harpsichord", "flute", "violin"] },
       { "title": "III. Allegro", "key": ["D Major"], "medium": ["harpsichord", "flute", "violin", "strings", "continuo"] }
     ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-keyboard-concerto-no-1-in-d-minor-bwv-1052",
+    "title": { "preferred": "Keyboard Concerto No. 1 in D Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1052", "display": "BWV 1052", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["D Minor", "G Minor"],
+    "medium": ["harpsichord", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["D Minor"] },
+      { "title": "II. Adagio", "key": ["G Minor"] },
+      { "title": "III. Allegro", "key": ["D Minor"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-keyboard-concerto-no-2-in-e-major-bwv-1053",
+    "title": { "preferred": "Keyboard Concerto No. 2 in E Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1053", "display": "BWV 1053", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["E Major", "C-Sharp Minor"],
+    "medium": ["harpsichord", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["E Major"] },
+      { "title": "II. Siciliano", "key": ["C-Sharp Minor"] },
+      { "title": "III. Allegro", "key": ["E Major"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-keyboard-concerto-no-3-in-d-major-bwv-1054",
+    "title": { "preferred": "Keyboard Concerto No. 3 in D Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1054", "display": "BWV 1054", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["D Major", "B Minor"],
+    "medium": ["harpsichord", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["D Major"] },
+      { "title": "II. Adagio e piano sempre", "key": ["B Minor"] },
+      { "title": "III. Allegro", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-keyboard-concerto-no-4-in-a-major-bwv-1055",
+    "title": { "preferred": "Keyboard Concerto No. 4 in A Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1055", "display": "BWV 1055", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["A Major", "F-Sharp Minor"],
+    "medium": ["harpsichord", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["A Major"] },
+      { "title": "II. Larghetto", "key": ["F-Sharp Minor"] },
+      { "title": "III. Allegro ma non troppo", "key": ["A Major"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-keyboard-concerto-no-5-in-f-minor-bwv-1056",
+    "title": { "preferred": "Keyboard Concerto No. 5 in F Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1056", "display": "BWV 1056", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["F Minor", "A-Flat Major"],
+    "medium": ["harpsichord", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro moderato", "key": ["F Minor"] },
+      { "title": "II. Largo", "key": ["A-Flat Major"] },
+      { "title": "III. Presto", "key": ["F Minor"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-keyboard-concerto-no-6-in-f-major-bwv-1057",
+    "title": { "preferred": "Keyboard Concerto No. 6 in F Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1057", "display": "BWV 1057", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["F Major"],
+    "medium": ["harpsichord", "recorder", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro" },
+      { "title": "II. Andante" },
+      { "title": "III. Allegro assai" }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-keyboard-concerto-no-7-in-g-minor-bwv-1058",
+    "title": { "preferred": "Keyboard Concerto No. 7 in G Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1058", "display": "BWV 1058", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["G Minor"],
+    "medium": ["harpsichord", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro" },
+      { "title": "II. Andante" },
+      { "title": "III. Allegro assai" }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-flute-concerto-in-e-minor-bwv-1059r",
+    "title": { "preferred": "Flute Concerto in E Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1059R", "display": "BWV 1059R", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["E Minor"],
+    "medium": ["flute", "strings", "continuo"],
+    "movements": [
+      { "title": "I. Allegro" },
+      { "title": "II. Alla siciliana - Adagio" },
+      { "title": "III. Presto" }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-oboe-concerto-in-d-minor-bwv-1059r",
+    "title": { "preferred": "Oboe Concerto in D Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1059R", "display": "BWV 1059R", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["D Minor"],
+    "medium": ["oboe", "strings", "continuo"],
+    "movements": [
+      { "title": "I. Allegro" },
+      { "title": "II. Siciliano" },
+      { "title": "III. Presto" }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-concerto-for-2-keyboards-in-c-minor-bwv-1060",
+    "title": { "preferred": "Concerto for 2 Keyboards in C Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1060", "display": "BWV 1060", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["C Minor", "E-Flat Major"],
+    "medium": ["harpsichord", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["C Minor"] },
+      { "title": "II. Andante", "key": ["E-Flat Major"] },
+      { "title": "III. Allegro", "key": ["C Minor"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-concerto-for-2-violins-in-c-minor-bwv-1060r",
+    "title": { "preferred": "Concerto for 2 Violins in C Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1060R", "display": "BWV 1060R", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["C Minor", "E-Flat Major"],
+    "medium": ["violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["C Minor"] },
+      { "title": "II. Adagio", "key": ["E-Flat Major"] },
+      { "title": "III. Allegro", "key": ["C Minor"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-concerto-for-trumpet-and-violin-in-d-minor-bwv-1060r",
+    "title": { "preferred": "Concerto for Trumpet and Violin in D Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1060R", "display": "BWV 1060R", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["D Minor"],
+    "medium": ["trumpet", "violin", "strings", "continuo"],
+    "movements": [
+      { "title": "I. Allegro" },
+      { "title": "II. Adagio" },
+      { "title": "III. Allegro" }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-concerto-for-violin-and-oboe-in-c-minor-bwv-1060r",
+    "title": { "preferred": "Concerto for Violin and Oboe in C Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1060R", "display": "BWV 1060R", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["C Minor", "E-Flat Major"],
+    "medium": ["violin", "oboe", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["C Minor"] },
+      { "title": "II. Adagio", "key": ["E-Flat Major"] },
+      { "title": "III. Allegro", "key": ["C Minor"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-concerto-for-2-keyboards-in-c-major-bwv-1061",
+    "title": { "preferred": "Concerto for 2 Keyboards in C Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1061", "display": "BWV 1061", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["C Major", "A Minor"],
+    "medium": ["harpsichord", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["C Major"] },
+      { "title": "II. Adagio", "key": ["A Minor"] },
+      { "title": "III. Allegro","key": ["C Major"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-concerto-for-2-keyboards-in-c-minor-bwv-1062",
+    "title": { "preferred": "Concerto for 2 Keyboards in C Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1062", "display": "BWV 1062", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["C Minor", "E-Flat Major"],
+    "medium": ["harpsichord", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Vivace", "key": ["C Minor"] },
+      { "title": "II. Largo ma non tanto", "key": ["E-Flat Major"] },
+      { "title": "III. Allegro assai", "key": ["C Minor"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-concerto-for-3-keyboards-in-d-minor-bwv-1063",
+    "title": { "preferred": "Concerto for 3 Keyboards in D Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1063", "display": "BWV 1063", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["D Minor"],
+    "medium": ["harpsichord", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro" },
+      { "title": "II. Alla siciliana" },
+      { "title": "III. Allegro" }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-concerto-for-3-keyboards-in-c-major-bwv-1064",
+    "title": { "preferred": "Concerto for 3 Keyboards in C Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1064", "display": "BWV 1064", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["C Major"],
+    "medium": ["harpsichord", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro" },
+      { "title": "II. Adagio" },
+      { "title": "III. Allegro" }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-concerto-for-3-violins-in-d-major-bwv-1064r",
+    "title": { "preferred": "Concerto for 3 Violins in D Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1064R", "display": "BWV 1064R", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["D Major"],
+    "medium": ["violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro" },
+      { "title": "II. Adagio" },
+      { "title": "III. Allegro" }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-concerto-for-4-keyboards-in-a-minor-bwv-1065",
+    "title": { "preferred": "Concerto for 4 Keyboards in A Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1065", "display": "BWV 1065", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["A Minor"],
+    "medium": ["harpsichord", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro" },
+      { "title": "II. Largo" },
+      { "title": "III. Allegro" }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-orchestral-suite-no-1-in-c-major-bwv-1066",
+    "title": { "preferred": "Orchestral Suite No. 1 in C Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1066", "display": "BWV 1066", "primary": true }
+    ],
+    "genre": "Orchestral Suite",
+    "key": ["C Major"],
+    "medium": ["oboe", "bassoon", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Ouverture" },
+      { "title": "II. Courante" },
+      { "title": "III. Gavottes I & II" },
+      { "title": "IV. Forlane" },
+      { "title": "V. Menuets I & II" },
+      { "title": "VI. Bourrées I & II" },
+      { "title": "VII. Passepieds I & II" }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-orchestral-suite-no-2-in-b-minor-bwv-1067",
+    "title": { "preferred": "Orchestral Suite No. 2 in B Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1067", "display": "BWV 1067", "primary": true }
+    ],
+    "genre": "Orchestral Suite",
+    "key": ["B Minor"],
+    "medium": ["flute", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Ouverture" },
+      { "title": "II. Rondeau" },
+      { "title": "III. Sarabande" },
+      { "title": "IV. Bourrées I & II" },
+      { "title": "V. Polonaise" },
+      { "title": "VI. Menuet" },
+      { "title": "VII. Badinerie" }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-orchestral-suite-no-3-in-d-major-bwv-1068",
+    "title": { "preferred": "Orchestral Suite No. 3 in D Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1068", "display": "BWV 1068", "primary": true }
+    ],
+    "genre": "Orchestral Suite",
+    "key": ["D Major"],
+    "medium": ["trumpet", "kettledrums", "oboe", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Ouverture", "medium": ["trumpet", "kettledrums", "oboe", "violin", "viola", "continuo"] },
+      { "title": "II. Air", "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Gavottes I & II", "medium": ["trumpet", "kettledrums", "oboe", "violin", "viola", "continuo"] },
+      { "title": "IV. Bourrée", "medium": ["trumpet", "kettledrums", "oboe", "violin", "viola", "continuo"] },
+      { "title": "V. Gigue", "medium": ["trumpet", "kettledrums", "oboe", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-orchestral-suite-no-4-in-d-major-bwv-1069",
+    "title": { "preferred": "Orchestral Suite No. 4 in D Major" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1069", "display": "BWV 1069", "primary": true }
+    ],
+    "genre": "Orchestral Suite",
+    "key": ["D Major"],
+    "medium": ["trumpet", "kettledrums", "oboe", "bassoon", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Ouverture" },
+      { "title": "II. Bourrées I & II" },
+      { "title": "III. Gavotte" },
+      { "title": "IV. Menuets I & II" },
+      { "title": "V. Réjouissance" }
+    ]
+  },
+  {
+    "composerId": "johann-sebastian-bach",
+    "workId": "johann-sebastian-bach-the-musical-offering-bwv-1079",
+    "title": { "preferred": "The Musical Offering" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1079", "display": "BWV 1079", "primary": true }
+    ],
+    "genre": "Contrapuntal Cycle",
+    "key": ["C Minor"],
+    "medium": ["harpsichord", "flute", "violin", "continuo"],
+    "movements": [
+      { "title": "Ricercar à 3", "medium": ["harpsichord"] },
+      { "title": "Ricercar à 6", "medium": ["harpsichord"] },
+      { "title": "Sonata sopr' il Soggetto Reale à Traversa, Violino e Continuo: Largo", "medium": ["flute", "violin", "continuo"] },
+      { "title": "Sonata sopr' il Soggetto Reale à Traversa, Violino e Continuo: Allegro", "medium": ["flute", "violin", "continuo"] },
+      { "title": "Sonata sopr' il Soggetto Reale à Traversa, Violino e Continuo: Andante", "medium": ["flute", "violin", "continuo"] },
+      { "title": "Sonata sopr' il Soggetto Reale à Traversa, Violino e Continuo: Allegro", "medium": ["flute", "violin", "continuo"] },
+      { "title": "Canon perpetuus super Thema Regium" },
+      { "title": "Canon à 2 cancrizans" },
+      { "title": "Canon à 2 Violini in Unisono" },
+      { "title": "Canon à 2 per Motum contrarium" },
+      { "title": "Canon à 2 per Augmentationem, contrario Motu" },
+      { "title": "Canon à 2 per Tonos" },
+      { "title": "Fuga canonica in Epidiapente" },
+      { "title": "Canon à 2 Quaerendo invenietis" },
+      { "title": "Canon à 4" },
+      { "title": "Canon perpetuus", "medium": ["flute", "violin", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "georg-friedrich-handel",
+    "workId": "georg-friedrich-handel-harp-concerto-in-bflat-major-hwv-294",
+    "title": { "preferred": "Harp Concerto in B-Flat Major" },
+    "identifiers": [
+      { "catalog": "hwv", "value": "294", "display": "HWV 294", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["B-Flat Major"],
+    "medium": ["harp", "recorder", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Andante - Allegro" },
+      { "title": "II. Larghetto" },
+      { "title": "III. Allegro moderato" }
+    ]
+  },
+  {
+    "composerId": "georg-friedrich-handel",
+    "workId": "georg-friedrich-handel-concerto-a-due-cori-no-1-in-bflat-major-hwv-332",
+    "title": { "preferred": "Concerto a due Cori No. 1 in B-Flat Major" },
+    "identifiers": [
+      { "catalog": "hwv", "value": "332", "display": "HWV 332", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["B-Flat Major"],
+    "medium": ["violin", "viola", "cello", "oboe", "bassoon", "continuo"],
+    "movements": [
+      { "title": "I. Ouverture" },
+      { "title": "II. Allegro ma non troppo" },
+      { "title": "III. Allegro" },
+      { "title": "IV. Largo" },
+      { "title": "V. A tempo ordinario" },
+      { "title": "VI. Alla breve moderato" },
+      { "title": "VII. Menuet. Allegro" }
+    ]
+  },
+  {
+    "composerId": "georg-friedrich-handel",
+    "workId": "georg-friedrich-handel-concerto-a-due-cori-no-2-in-f-major-hwv-333",
+    "title": { "preferred": "Concerto a due Cori No. 2 in F Major" },
+    "identifiers": [
+      { "catalog": "hwv", "value": "333", "display": "HWV 333", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["F Major"],
+    "medium": ["oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Pomposo" },
+      { "title": "II. Allegro" },
+      { "title": "III. A tempo giusto" },
+      { "title": "IV. Largo" },
+      { "title": "V. Allegro ma non troppo" },
+      { "title": "VI. A tempo ordinario" }
+    ]
+  },
+  {
+    "composerId": "georg-friedrich-handel",
+    "workId": "georg-friedrich-handel-concerto-a-due-cori-no-3-in-f-major-hwv-334",
+    "title": { "preferred": "Concerto a due Cori No. 3 in F Major" },
+    "identifiers": [
+      { "catalog": "hwv", "value": "334", "display": "HWV 334", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["F Major"],
+    "medium": ["horn", "oboe", "bassoon", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Ouverture" },
+      { "title": "II. Allegro" },
+      { "title": "III. Allegro ma non troppo" },
+      { "title": "IV. Adagio" },
+      { "title": "V. Andante larghetto" },
+      { "title": "VI. Allegro" }
+    ]
+  },
+  {
+    "composerId": "georg-friedrich-handel",
+    "workId": "georg-friedrich-handel-music-for-the-royal-fireworks-hwv-351",
+    "title": { "preferred": "Music for the Royal Fireworks" },
+    "identifiers": [
+      { "catalog": "hwv", "value": "351", "display": "HWV 351", "primary": true }
+    ],
+    "genre": "Orchestral Suite",
+    "key": ["D Major"],
+    "medium": ["trumpet", "horn", "oboe", "bassoon", "kettledrums", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Ouverture" },
+      { "title": "II. Bourrée" },
+      { "title": "III. La Paix" },
+      { "title": "IV. La Réjouissance" },
+      { "title": "V. Menuet I & II" }
+    ]
+  },
+  {
+    "composerId": "giuseppe-domenico-scarlatti",
+    "workId": "giuseppe-domenico-scarlatti-sonata-in-d-minor-k-1",
+    "title": { "preferred": "Sonata in D Minor" },
+    "identifiers": [
+      { "catalog": "k", "value": "1", "display": "K. 1", "primary": true }
+    ],
+    "genre": "Sonata",
+    "key": ["D Minor"],
+    "medium": ["harpsichord"],
+    "movements": []
+  },
+  {
+    "composerId": "giuseppe-domenico-scarlatti",
+    "workId": "giuseppe-domenico-scarlatti-sonata-in-g-major-k-2",
+    "title": { "preferred": "Sonata in G Major" },
+    "identifiers": [
+      { "catalog": "k", "value": "2", "display": "K. 2", "primary": true }
+    ],
+    "genre": "Sonata",
+    "key": ["G Major"],
+    "medium": ["harpsichord"],
+    "movements": []
+  },
+  {
+    "composerId": "giuseppe-domenico-scarlatti",
+    "workId": "giuseppe-domenico-scarlatti-sonata-in-a-minor-k-3",
+    "title": { "preferred": "Sonata in A Minor" },
+    "identifiers": [
+      { "catalog": "k", "value": "3", "display": "K. 3", "primary": true }
+    ],
+    "genre": "Sonata",
+    "key": ["A Minor"],
+    "medium": ["harpsichord"],
+    "movements": []
   }
 ]

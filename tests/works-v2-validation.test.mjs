@@ -30,3 +30,21 @@ test('workId is the second field in every current work object', async () => {
     assert.deepEqual(Object.keys(work).slice(0, 2), ['composerId', 'workId'])
   }
 })
+
+test('same preferred title is allowed when workIds differ', async () => {
+  const result = await validateV2Works()
+  const bwv1060 = result.works.find(
+    (work) => work.identifiers?.some(
+      (identifier) => identifier.display === 'BWV 1060',
+    ),
+  )
+  const bwv1062 = result.works.find(
+    (work) => work.identifiers?.some(
+      (identifier) => identifier.display === 'BWV 1062',
+    ),
+  )
+
+  assert.equal(bwv1060.title.preferred, bwv1062.title.preferred)
+  assert.notEqual(bwv1060.workId, bwv1062.workId)
+  assert.deepEqual(result.errors, [])
+})

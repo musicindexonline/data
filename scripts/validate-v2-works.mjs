@@ -37,7 +37,6 @@ export function workIdFromWork(work) {
 function validateWorkRelations(works, composers) {
   const errors = []
   const composerIds = new Set(composers.map((composer) => composer.id))
-  const workKeys = new Set()
   const workIds = new Set()
 
   works.forEach((work, workIndex) => {
@@ -45,12 +44,6 @@ function validateWorkRelations(works, composers) {
     if (!composerIds.has(work.composerId)) {
       errors.push(`${location}.composerId does not reference an existing composer`)
     }
-
-    const identity = `${work.composerId}\0${work.title.preferred}`
-    if (workKeys.has(identity)) {
-      errors.push(`${location} duplicates composerId + title.preferred`)
-    }
-    workKeys.add(identity)
 
     if (workIds.has(work.workId)) {
       errors.push(`${location}.workId is duplicated`)
