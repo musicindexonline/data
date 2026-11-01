@@ -8677,5 +8677,124 @@
     "key": ["F Minor"],
     "medium": ["harpsichord"],
     "movements": []
+  },
+  {
+    "composerId": "wilhelm-friedemann-bach",
+    "workId": "wilhelm-friedemann-bach-orchestral-suite-no-5-in-g-minor-bwv-1070",
+    "title": { "preferred": "Orchestral Suite No. 5 in G Minor" },
+    "identifiers": [
+      { "catalog": "bwv", "value": "1070", "display": "BWV 1070", "primary": true }
+    ],
+    "genre": "Orchestral Suite",
+    "key": ["G Minor", "E-Flat Major", "G Major"],
+    "medium": ["violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Ouverture - Larghetto", "key": ["G Minor"] },
+      { "title": "II. Torneo", "key": ["G Minor"] },
+      { "title": "III. Aria. Adagio", "key": ["E-Flat Major"] },
+      { "title": "IV. Menuetto alternativo - Trio", "key": ["G Minor", "G Major"] },
+      { "title": "V. Capriccio", "key": ["G Minor"] }
+    ]
+  },
+  {
+    "composerId": "pietro-antonio-locatelli",
+    "workId": "pietro-antonio-locatelli-violin-concerto-in-d-major-op-3-no-12",
+    "title": { "preferred": "Violin Concerto in D Major", "alias": "Il labirinto armonico" },
+    "identifiers": [
+      { "catalog": "op", "value": "3/12", "display": "Op. 3 No. 12", "primary": true }
+    ],
+    "genre": "Concerto",
+    "key": ["D Major"],
+    "medium": ["violin", "strings", "continuo"],
+    "movements": [
+      { "title": "I. Allegro - Capriccio" },
+      { "title": "II. Largo - Presto - Adagio" },
+      { "title": "III. Allegro - Capriccio" }
+    ]
+  },
+  {
+    "composerId": "johann-georg-leopold-mozart",
+    "workId": "johann-georg-leopold-mozart-symphony-in-g-major-lmv-viig16",
+    "title": { "preferred": "Symphony in G Major", "alias": "Neue Lambacher" },
+    "identifiers": [
+      { "catalog": "lmv", "value": "VII:G16", "display": "LMV VII:G16", "primary": true },
+      { "catalog": "eisen", "value": "G16", "display": "Eisen G16", "primary": false },
+      { "catalog": "k", "value": "Anh. C 11.17", "display": "K. Anh. C 11.17", "primary": false },
+      { "catalog": "k", "value": "deest", "display": "K. deest", "primary": false }
+    ],
+    "genre": "Symphony",
+    "key": ["G Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro" },
+      { "title": "II. Andante un poco allegretto" },
+      { "title": "III. Menuetto" },
+      { "title": "IV. Allegro" }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-1-in-d-major-hob-i1",
+    "title": { "preferred": "Symphony No. 1 in D Major" },
+    "identifiers": [
+      { "catalog": "hob", "value": "I:1", "display": "Hob. I:1", "primary": true }
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "G Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Presto", "key": ["D Major"], "medium": ["oboe", "horn", "violin", "viola", "cello", "continuo"] },
+      { "title": "II. Andante", "key": ["G Major"], "medium": ["violin", "viola", "cello", "continuo"] },
+      { "title": "III. Finale. Presto", "key": ["D Major"], "medium": ["oboe", "horn", "violin", "viola", "cello", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-2-in-c-major-hob-i2",
+    "title": { "preferred": "Symphony No. 2 in C Major" },
+    "identifiers": [
+      { "catalog": "hob", "value": "I:2", "display": "Hob. I:2", "primary": true }
+    ],
+    "genre": "Symphony",
+    "key": ["C Major", "G Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["C Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "II. Andante", "key": ["G Major"], "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Finale. Presto", "key": ["C Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-3-in-g-major-hob-i3",
+    "title": { "preferred": "Symphony No. 3 in G Major" },
+    "identifiers": [
+      { "catalog": "hob", "value": "I:3", "display": "Hob. I:3", "primary": true }
+    ],
+    "genre": "Symphony",
+    "key": ["G Major", "G Minor"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["G Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "II. Andante moderato", "key": ["G Minor"], "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Menuetto - Trio", "key": ["G Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "IV. Finale. Alla breve", "key": ["G Minor"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-4-in-d-major-hob-i4",
+    "title": { "preferred": "Symphony No. 4 in D Major" },
+    "identifiers": [
+      { "catalog": "hob", "value": "I:4", "display": "Hob. I:4", "primary": true }
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "D Minor"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Presto", "key": ["D Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "II. Andante", "key": ["D Minor"], "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Finale. Tempo di menuetto", "key": ["D Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] }
+    ]
   }
 ]
