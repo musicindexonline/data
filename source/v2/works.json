@@ -275,16 +275,16 @@
     ],
     "genre": "Cantata",
     "key": ["D Major", "A Major", "E Minor", "F-Sharp Minor", "B Minor"],
-    "medium": ["violin", "viola", "oboe", "trumpet", "organ", "kettledrums", "continuo", "choir", "tenor", "bass", "soprano", "alto"],
+    "medium": ["violin", "viola", "oboe", "trumpet", "organ", "timpani", "continuo", "choir", "tenor", "bass", "soprano", "alto"],
     "movements": [
-      { "title": "I. Sinfonia", "key": ["D Major"], "medium": ["violin", "viola", "oboe", "trumpet", "organ", "kettledrums", "continuo"] },
-      { "title": "II. Coro. Wir danken dir, Gott, wir danken dir", "key": ["D Major"], "medium": ["choir", "violin", "viola", "oboe", "trumpet", "kettledrums", "continuo"] },
+      { "title": "I. Sinfonia", "key": ["D Major"], "medium": ["violin", "viola", "oboe", "trumpet", "organ", "timpani", "continuo"] },
+      { "title": "II. Coro. Wir danken dir, Gott, wir danken dir", "key": ["D Major"], "medium": ["choir", "violin", "viola", "oboe", "trumpet", "timpani", "continuo"] },
       { "title": "III. Aria. Halleluja, Stärk und Macht", "key": ["A Major"], "medium": ["tenor", "violin", "continuo"] },
       { "title": "IV. Recitativo. Gottlob! es geht uns wohl!", "key": ["F-Sharp Minor", "E Minor"], "medium": ["bass", "continuo"] },
       { "title": "V. Aria. Gedenk an uns mit deiner Liebe", "key": ["B Minor"], "medium": ["soprano", "violin", "viola", "oboe", "continuo"] },
       { "title": "VI. Recitativo. Vergiß es ferner nicht, mit deiner Hand", "key": ["D Major"], "medium": ["alto", "choir", "continuo"] },
       { "title": "VII. Aria. Halleluja, Stärk und Macht", "key": ["D Major"], "medium": ["alto", "organ", "continuo"] },
-      { "title": "VIII. Chorale. Sei Lob und Preis mit Ehren", "key": ["D Major"], "medium": ["choir", "violin", "viola", "oboe", "trumpet", "organ", "kettledrums", "continuo"] }
+      { "title": "VIII. Chorale. Sei Lob und Preis mit Ehren", "key": ["D Major"], "medium": ["choir", "violin", "viola", "oboe", "trumpet", "organ", "timpani", "continuo"] }
     ]
   },
   {
@@ -1834,13 +1834,13 @@
     ],
     "genre": "Orchestral Suite",
     "key": ["D Major"],
-    "medium": ["trumpet", "kettledrums", "oboe", "violin", "viola", "continuo"],
+    "medium": ["trumpet", "timpani", "oboe", "violin", "viola", "continuo"],
     "movements": [
-      { "title": "I. Ouverture", "medium": ["trumpet", "kettledrums", "oboe", "violin", "viola", "continuo"] },
+      { "title": "I. Ouverture", "medium": ["trumpet", "timpani", "oboe", "violin", "viola", "continuo"] },
       { "title": "II. Air", "medium": ["violin", "viola", "continuo"] },
-      { "title": "III. Gavottes I & II", "medium": ["trumpet", "kettledrums", "oboe", "violin", "viola", "continuo"] },
-      { "title": "IV. Bourrée", "medium": ["trumpet", "kettledrums", "oboe", "violin", "viola", "continuo"] },
-      { "title": "V. Gigue", "medium": ["trumpet", "kettledrums", "oboe", "violin", "viola", "continuo"] }
+      { "title": "III. Gavottes I & II", "medium": ["trumpet", "timpani", "oboe", "violin", "viola", "continuo"] },
+      { "title": "IV. Bourrée", "medium": ["trumpet", "timpani", "oboe", "violin", "viola", "continuo"] },
+      { "title": "V. Gigue", "medium": ["trumpet", "timpani", "oboe", "violin", "viola", "continuo"] }
     ]
   },
   {
@@ -1852,7 +1852,7 @@
     ],
     "genre": "Orchestral Suite",
     "key": ["D Major"],
-    "medium": ["trumpet", "kettledrums", "oboe", "bassoon", "violin", "viola", "continuo"],
+    "medium": ["trumpet", "timpani", "oboe", "bassoon", "violin", "viola", "continuo"],
     "movements": [
       { "title": "I. Ouverture" },
       { "title": "II. Bourrées I & II" },
@@ -1973,7 +1973,7 @@
     ],
     "genre": "Orchestral Suite",
     "key": ["D Major"],
-    "medium": ["trumpet", "horn", "oboe", "bassoon", "kettledrums", "violin", "viola", "continuo"],
+    "medium": ["trumpet", "horn", "oboe", "bassoon", "timpani", "violin", "viola", "continuo"],
     "movements": [
       { "title": "I. Ouverture" },
       { "title": "II. Bourrée" },
@@ -8795,6 +8795,1713 @@
       { "title": "I. Presto", "key": ["D Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
       { "title": "II. Andante", "key": ["D Minor"], "medium": ["violin", "viola", "continuo"] },
       { "title": "III. Finale. Tempo di menuetto", "key": ["D Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-5-in-a-major-hob-i5",
+    "title": { "preferred": "Symphony No. 5 in A Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:5","display":"Hob. I:5","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["A Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Adagio, ma non troppo" },
+      { "title": "II. Allegro" },
+      { "title": "III. Menuetto - Trio" },
+      { "title": "IV. Finale. Presto" }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-6-in-d-major-hob-i6",
+    "title": { "preferred": "Symphony No. 6 in D Major", "alias": "Le Matin" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:6","display":"Hob. I:6","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "G Major"],
+    "medium": ["flute", "oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Allegro", "key": ["D Major"] },
+      { "title": "II. Adagio", "key": ["G Major"] },
+      { "title": "III. Menuetto - Trio", "key": ["D Major"] },
+      { "title": "IV. Finale. Allegro", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-7-in-c-major-hob-i7",
+    "title": { "preferred": "Symphony No. 7 in C Major", "alias": "Le midi" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:7","display":"Hob. I:7","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major", "C Minor", "G Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Allegro", "key": ["C Major"], "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"] },
+      { "title": "II. Recitativo. Adagio - Allegro - Adagio", "key": ["C Minor", "G Major"], "medium": ["flute", "violin", "viola", "cello", "continuo"] },
+      { "title": "III. Menuetto - Trio", "key": ["C Major"], "medium": ["oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"] },
+      { "title": "IV. Finale. Allegro", "key": ["C Major"], "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-8-in-g-major-hob-i8",
+    "title": { "preferred": "Symphony No. 8 in G Major", "alias": "Le soir" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:8","display":"Hob. I:8","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["G Major", "C Major"],
+    "medium": ["flute", "oboe", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Allegro molto", "key": ["G Major"] },
+      { "title": "II. Andante", "key": ["C Major"] },
+      { "title": "III. Menuetto", "key": ["G Major"] },
+      { "title": "IV. Finale. Presto", "key": ["G Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-9-in-c-major-hob-i9",
+    "title": { "preferred": "Symphony No. 9 in C Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:9","display":"Hob. I:9","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major", "G Major"],
+    "medium": ["flute", "oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro molto", "key": ["C Major"] },
+      { "title": "II. Andante", "key": ["G Major"] },
+      { "title": "III. Finale. Menuetto", "key": ["C Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-10-in-d-major-hob-i10",
+    "title": { "preferred": "Symphony No. 10 in D Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:10","display":"Hob. I:10","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "G Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["D Major"] },
+      { "title": "II. Andante", "key": ["G Major"] },
+      { "title": "III. Finale. Presto", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-11-in-eflat-major-hob-i11",
+    "title": { "preferred": "Symphony No. 11 in E-Flat Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:11","display":"Hob. I:11","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E-Flat Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Adagio cantabile" },
+      { "title": "II. Allegro" },
+      { "title": "III. Menuetto - Trio" },
+      { "title": "IV. Finale. Presto" }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-12-in-e-major-hob-i12",
+    "title": { "preferred": "Symphony No. 12 in E Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:12","display":"Hob. I:12","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E Major", "E Minor"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["E Major"] },
+      { "title": "II. Adagio", "key": ["E Minor"] },
+      { "title": "III. Finale. Presto", "key": ["E Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-13-in-d-major-hob-i13",
+    "title": { "preferred": "Symphony No. 13 in D Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:13","display":"Hob. I:13","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "G Major"],
+    "medium": ["flute", "oboe", "horn", "timpani", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro molto", "key": ["D Major"] },
+      { "title": "II. Adagio cantabile", "key": ["G Major"] },
+      { "title": "III. Menuetto - Trio", "key": ["D Major"] },
+      { "title": "IV. Finale. Allegro molto", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-14-in-a-major-hob-i14",
+    "title": { "preferred": "Symphony No. 14 in A Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:14","display":"Hob. I:14","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["A Major", "D Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro molto", "key": ["A Major"] },
+      { "title": "II. Andante", "key": ["D Major"] },
+      { "title": "III. Minuet & Trio. Allegretto", "key": ["A Major"] },
+      { "title": "IV. Finale. Allegro", "key": ["A Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-15-in-d-major-hob-i15",
+    "title": { "preferred": "Symphony No. 15 in D Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:15","display":"Hob. I:15","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "G Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Presto - Adagio", "key": ["D Major"] },
+      { "title": "II. Menuetto - Trio", "key": ["D Major"] },
+      { "title": "III. Andante", "key": ["G Major"] },
+      { "title": "IV. Finale. Presto", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-16-in-bflat-major-hob-i16",
+    "title": { "preferred": "Symphony No. 16 in B-Flat Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:16","display":"Hob. I:16","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["B-Flat Major", "E-Flat Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["B-Flat Major"] },
+      { "title": "II. Andante", "key": ["E-Flat Major"] },
+      { "title": "III. Finale. Presto", "key": ["B-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-17-in-f-major-hob-i17",
+    "title": { "preferred": "Symphony No. 17 in F Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:17","display":"Hob. I:17","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["F Major", "F Minor"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["F Major"] },
+      { "title": "II. Andante ma non troppo", "key": ["F Minor"] },
+      { "title": "III. Finale. Allegro molto", "key": ["F Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-18-in-g-major-hob-i18",
+    "title": { "preferred": "Symphony No. 18 in G Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:18","display":"Hob. I:18","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["G Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Andante moderato" },
+      { "title": "II. Allegro molto" },
+      { "title": "III. Tempo di menuetto" }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-19-in-d-major-hob-i19",
+    "title": { "preferred": "Symphony No. 19 in D Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:19","display":"Hob. I:19","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "D Minor"],
+    "medium": ["oboe", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Allegro molto", "key": ["D Major"] },
+      { "title": "II. Andante", "key": ["D Minor"] },
+      { "title": "III. Presto", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-20-in-c-major-hob-i20",
+    "title": { "preferred": "Symphony No. 20 in C Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:20","display":"Hob. I:20","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major", "G Major"],
+    "medium": ["oboe", "horn", "trumpet", "timpani", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro molto", "key": ["C Major"], "medium": ["oboe", "horn", "trumpet", "timpani", "violin", "viola", "continuo"] },
+      { "title": "II. Andante cantabile", "key": ["G Major"], "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Menuetto - Trio", "key": ["C Major"], "medium": ["oboe", "horn", "trumpet", "timpani", "violin", "viola", "continuo"] },
+      { "title": "IV. Presto", "key": ["C Major"], "medium": ["oboe", "horn", "trumpet", "timpani", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-21-in-a-major-hob-i21",
+    "title": { "preferred": "Symphony No. 21 in A Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:21","display":"Hob. I:21","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["A Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Adagio" },
+      { "title": "II. Presto" },
+      { "title": "III. Menuetto - Trio" },
+      { "title": "IV. Finale. Allegro molto" }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-22-in-eflat-major-hob-i22",
+    "title": { "preferred": "Symphony No. 22 in E-Flat Major", "alias": "The Philosopher" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:22","display":"Hob. I:22","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E-Flat Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Adagio" },
+      { "title": "II. Presto" },
+      { "title": "III. Menuetto - Trio" },
+      { "title": "IV. Finale. Presto" }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-23-in-g-major-hob-i23",
+    "title": { "preferred": "Symphony No. 23 in G Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:23","display":"Hob. I:23","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["G Major", "C Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["G Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "II. Andante", "key": ["C Major"], "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Menuetto - Trio", "key": ["G Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "IV. Finale. Presto assai", "key": ["G Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-24-in-d-major-hob-i24",
+    "title": { "preferred": "Symphony No. 24 in D Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:24","display":"Hob. I:24","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "G Major"],
+    "medium": ["flute", "oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["D Major"] },
+      { "title": "II. Adagio", "key": ["G Major"] },
+      { "title": "III. Menuetto - Trio", "key": ["D Major"] },
+      { "title": "IV. Finale. Allegro", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-25-in-c-major-hob-i25",
+    "title": { "preferred": "Symphony No. 25 in C Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:25","display":"Hob. I:25","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Allegro" },
+      { "title": "II. Menuetto - Trio" },
+      { "title": "III. Finale. Presto" }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-26-in-d-minor-hob-i26",
+    "title": { "preferred": "Symphony No. 26 in D Minor", "alias": "Lamentatione" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:26","display":"Hob. I:26","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "F Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro assai con spirito", "key": ["D Major"] },
+      { "title": "II. Adagio", "key": ["F Major"] },
+      { "title": "III. Menuetto", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-27-in-g-major-hob-i27",
+    "title": { "preferred": "Symphony No. 27 in G Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:27","display":"Hob. I:27","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["G Major", "C Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro molto", "key": ["G Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "II. Andante. Siciliano", "key": ["C Major"], "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Finale. Presto", "key": ["G Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-28-in-a-major-hob-i28",
+    "title": { "preferred": "Symphony No. 28 in A Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:28","display":"Hob. I:28","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["A Major", "D Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro di molto", "key": ["A Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "II. Poco adagio", "key": ["D Major"], "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Minuet & Trio. Allegro molto", "key": ["A Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "IV. Finale. Presto assai", "key": ["A Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-29-in-e-major-hob-i29",
+    "title": { "preferred": "Symphony No. 29 in E Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:29","display":"Hob. I:29","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E Major", "A Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro di molto", "key": ["E Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "II. Andante", "key": ["A Major"], "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Minuet & Trio. Allegretto", "key": ["E Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "IV. Finale. Presto", "key": ["E Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-30-in-c-major-hob-i30",
+    "title": { "preferred": "Symphony No. 30 in C Major", "alias": "Alleluja" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:30","display":"Hob. I:30","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major", "G Major"],
+    "medium": ["flute", "oboe", "horn", "trumpet", "timpani", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["C Major"] },
+      { "title": "II. Andante", "key": ["G Major"] },
+      { "title": "III. Finale. Tempo di menuetto, più tosto allegretto", "key": ["C Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-31-in-d-major-hob-i31",
+    "title": { "preferred": "Symphony No. 31 in D Major", "alias": "Hornsignal" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:31","display":"Hob. I:31","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "G Major"],
+    "medium": ["flute", "oboe", "horn", "violin", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["D Major"] },
+      { "title": "II. Adagio", "key": ["G Major"] },
+      { "title": "III. Menuetto - Trio", "key": ["D Major"] },
+      { "title": "IV. Finale. Moderato molto", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-32-in-c-major-hob-i32",
+    "title": { "preferred": "Symphony No. 32 in C Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:32","display":"Hob. I:32","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major"],
+    "medium": ["oboe", "horn", "trumpet", "timpani", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro molto", "medium": ["oboe", "horn", "trumpet", "timpani", "violin", "viola", "continuo"] },
+      { "title": "II. Menuetto - Trio", "medium": ["oboe", "horn", "trumpet", "timpani", "violin", "viola", "continuo"] },
+      { "title": "III. Adagio ma non troppo", "medium": ["violin", "viola", "continuo"] },
+      { "title": "IV. Finale. Presto", "medium": ["oboe", "horn", "trumpet", "timpani", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-33-in-c-major-hob-i33",
+    "title": { "preferred": "Symphony No. 33 in C Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:33","display":"Hob. I:33","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major"],
+    "medium": ["oboe", "horn", "trumpet", "timpani", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Vivace", "medium": ["oboe", "horn", "trumpet", "timpani", "violin", "viola", "continuo"] },
+      { "title": "II. Andante", "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Menuetto - Trio", "medium": ["oboe", "horn", "trumpet", "timpani", "violin", "viola", "continuo"] },
+      { "title": "IV. Finale. Allegro", "medium": ["oboe", "horn", "trumpet", "timpani", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-34-in-d-minor-hob-i34",
+    "title": { "preferred": "Symphony No. 34 in D Minor" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:34","display":"Hob. I:34","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Minor", "D Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Adagio", "key": ["D Minor"] },
+      { "title": "II. Allegro", "key": ["D Major"] },
+      { "title": "III. Menuetto - Trio", "key": ["D Major"] },
+      { "title": "IV. Finale. Presto assai", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-35-in-bflat-major-hob-i35",
+    "title": { "preferred": "Symphony No. 35 in B-Flat Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:35","display":"Hob. I:35","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["B-Flat Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro di molto", "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "II. Andante", "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Minuet & Trio. Un poco allegretto", "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "IV. Finale. Presto", "medium": ["oboe", "horn", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-36-in-eflat-major-hob-i36",
+    "title": { "preferred": "Symphony No. 36 in E-Flat Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:36","display":"Hob. I:36","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E-Flat Major", "B-Flat Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Vivace", "key": ["E-Flat Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "II. Adagio", "key": ["B-Flat Major"], "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Menuetto - Trio", "key": ["E-Flat Major", "B-Flat Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "IV. Finale. Allegro", "key": ["E-Flat Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-37-in-c-major-hob-i37",
+    "title": { "preferred": "Symphony No. 37 in C Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:37","display":"Hob. I:37","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major", "C Minor"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Presto", "key": ["C Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "II. Menuetto - Trio", "key": ["C Minor"], "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Andante", "key": ["C Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "IV. Finale. Presto", "key": ["C Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-38-in-c-major-hob-i38",
+    "title": { "preferred": "Symphony No. 38 in C Major", "alias": "Echo" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:38","display":"Hob. I:38","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major", "F Major"],
+    "medium": ["oboe", "horn", "trumpet", "timpani", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro di molto", "key": ["C Major"], "medium": ["oboe", "horn", "trumpet", "timpani", "violin", "viola", "continuo"] },
+      { "title": "II. Andante molto", "key": ["F Major"], "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Minuet & Trio. Allegro", "key": ["C Major"], "medium": ["oboe", "horn", "trumpet", "timpani", "violin", "viola", "continuo"] },
+      { "title": "IV. Finale. Allegro di molto", "key": ["F Major"], "medium": ["oboe", "horn", "trumpet", "timpani", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-39-in-g-minor-hob-i39",
+    "title": { "preferred": "Symphony No. 39 in G Minor", "alias": "Tempesta di mare" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:39","display":"Hob. I:39","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["G Minor", "E-Flat Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro assai", "key": ["G Minor"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "II. Andante", "key": ["E-Flat Major"], "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Menuetto", "key": ["G Minor"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "IV. Finale. Allegro molto", "key": ["G Minor"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-40-in-f-major-hob-i40",
+    "title": { "preferred": "Symphony No. 40 in F Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:40","display":"Hob. I:40","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["F Major", "B-Flat Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["F Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "II. Andante più tosto allegretto", "key": ["B-Flat Major"], "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Menuetto - Trio", "key": ["F Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "IV. Finale. Fuga", "key": ["F Major"], "medium": ["oboe", "horn", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-41-in-c-major-hob-i41",
+    "title": { "preferred": "Symphony No. 41 in C Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:41","display":"Hob. I:41","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major", "F Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro con spirito", "key": ["C Major"], "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "continuo"] },
+      { "title": "II. Un poco andante", "key": ["F Major"], "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Menuetto", "key": ["C Major"], "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "continuo"] },
+      { "title": "IV. Finale. Presto", "key": ["C Major"], "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-42-in-d-major-hob-i42",
+    "title": { "preferred": "Symphony No. 42 in D Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:42","display":"Hob. I:42","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "A Major"],
+    "medium": ["oboe", "bassoon", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Moderato e maestoso", "key": ["D Major"], "medium": ["oboe", "bassoon", "horn", "violin", "viola", "continuo"] },
+      { "title": "II. Andantino e cantabile", "key": ["A Major"], "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Menuetto. Allegretto", "key": ["D Major"], "medium": ["oboe", "bassoon", "horn", "violin", "viola", "continuo"] },
+      { "title": "IV. Scherzando e presto", "key": ["D Major"], "medium": ["oboe", "bassoon", "horn", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-43-in-eflat-major-hob-i43",
+    "title": { "preferred": "Symphony No. 43 in E-Flat Major", "alias": "Mercury" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:43","display":"Hob. I:43","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E-Flat Major", "A-Flat Major"],
+    "medium": ["oboe", "bassoon", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["E-Flat Major"], "medium": ["oboe", "bassoon", "horn", "violin", "viola", "continuo"] },
+      { "title": "II. Adagio", "key": ["A-Flat Major"], "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Menuetto - Trio", "key": ["E-Flat Major"], "medium": ["oboe", "bassoon", "horn", "violin", "viola", "continuo"] },
+      { "title": "IV. Finale. Allegro", "key": ["E-Flat Major"], "medium": ["oboe", "bassoon", "horn", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-44-in-e-minor-hob-i44",
+    "title": { "preferred": "Symphony No. 44 in E Minor", "alias": "Trauersinfonie" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:44","display":"Hob. I:44","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E Minor", "E Major"],
+    "medium": ["oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Allegro con brio", "key": ["E Minor"], "medium": ["oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"] },
+      { "title": "II. Menuetto. Allegretto", "key": ["E Minor", "E Major"], "medium": ["oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"] },
+      { "title": "III. Adagio", "key": ["E Major"], "medium": ["violin", "viola", "cello", "continuo"] },
+      { "title": "IV. Finale. Presto", "key": ["E Minor"], "medium": ["oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-45-in-fsharp-minor-hob-i45",
+    "title": { "preferred": "Symphony No. 45 in F-Sharp Minor", "alias": "Farewell" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:45","display":"Hob. I:45","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["F-Sharp Minor", "A Major", "F-Sharp Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Allegro assai", "key": ["F-Sharp Minor"], "medium": ["oboe", "horn", "violin", "viola", "cello", "continuo"] },
+      { "title": "II. Adagio", "key": ["A Major"], "medium": ["violin", "viola", "cello", "continuo"] },
+      { "title": "III. Menuetto. Allegretto", "key": ["F-Sharp Major"], "medium": ["oboe", "horn", "violin", "viola", "cello", "continuo"] },
+      { "title": "IV. Finale. Presto - Adagio", "key": ["F-Sharp Minor", "A Major"], "medium": ["oboe", "horn", "violin", "viola", "cello", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-46-in-b-major-hob-i46",
+    "title": { "preferred": "Symphony No. 46 in B Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:46","display":"Hob. I:46","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["B Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Vivace" },
+      { "title": "II. Poco adagio" },
+      { "title": "III. Minuet & Trio. Allegretto" },
+      { "title": "IV. Finale. Presto e scherzando" }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-47-in-g-major-hob-i47",
+    "title": { "preferred": "Symphony No. 47 in G Major", "alias": "The Palindrome" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:47","display":"Hob. I:47","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["G Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro",  "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "II. Un poco adagio, cantabile",  "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Menuet al rovescio",  "medium": ["oboe", "horn", "violin", "viola", "continuo"] },
+      { "title": "IV. Finale. Presto assai",  "medium": ["oboe", "horn", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-48-in-c-major-hob-i48",
+    "title": { "preferred": "Symphony No. 48 in C Major", "alias": "Maria Theresia" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:48","display":"Hob. I:48","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major", "F Major", "C Minor"],
+    "medium": ["oboe", "bassoon", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["C Major"] },
+      { "title": "II. Adagio", "key": ["F Major"] },
+      { "title": "III. Menuetto. Allegretto", "key": ["C Major", "C Minor"] },
+      { "title": "IV. Finale. Allegro", "key": ["C Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-49-in-f-minor-hob-i49",
+    "title": { "preferred": "Symphony No. 49 in F Minor", "alias": "La passione" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:49","display":"Hob. I:49","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["F Minor", "F Major"],
+    "medium": ["oboe", "bassoon", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Adagio", "key": ["F Minor"] },
+      { "title": "II. Allegro di molto", "key": ["F Minor"] },
+      { "title": "III. Menuetto - Trio", "key": ["F Minor", "F Major"] },
+      { "title": "IV. Finale. Presto", "key": ["F Minor"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-50-in-c-major-hob-i50",
+    "title": { "preferred": "Symphony No. 50 in C Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:50","display":"Hob. I:50","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major", "G Major", "F Major"],
+    "medium": ["oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Adagio e maestoso - Allegro di molto", "key": ["C Major"] },
+      { "title": "II. Andante moderato", "key": ["G Major"] },
+      { "title": "III. Menuetto - Trio", "key": ["C Major", "F Major"] },
+      { "title": "IV. Finale. Presto", "key": ["C Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-51-in-bflat-major-hob-i51",
+    "title": { "preferred": "Symphony No. 51 in B-Flat Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:51","display":"Hob. I:51","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["B-Flat Major", "E-Flat Major"],
+    "medium": ["oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Vivace", "key": ["B-Flat Major"] },
+      { "title": "II. Adagio", "key": ["E-Flat Major"] },
+      { "title": "III. Menuetto - Trio", "key": ["B-Flat Major"] },
+      { "title": "IV. Finale. Allegro", "key": ["B-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-52-in-c-minor-hob-i52",
+    "title": { "preferred": "Symphony No. 52 in C Minor" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:52","display":"Hob. I:52","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Minor", "C Major"],
+    "medium": ["oboe", "bassoon", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro assai con brio", "key": ["C Minor"] },
+      { "title": "II. Andante", "key": ["C Major"] },
+      { "title": "III. Menuetto. Allegretto", "key": ["C Minor", "C Major"] },
+      { "title": "IV. Finale. Presto", "key": ["C Minor"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-53-in-d-major-hob-i53",
+    "title": { "preferred": "Symphony No. 53 in D Major", "alias": "L'impériale" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:53","display":"Hob. I:53","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "A Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "timpani", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Largo maestoso - Vivace", "key": ["D Major"] },
+      { "title": "II. Andante", "key": ["A Major"] },
+      { "title": "III. Menuetto", "key": ["D Major"] },
+      { "title": "IV. Finale. Presto", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-54-in-g-major-hob-i54",
+    "title": { "preferred": "Symphony No. 54 in G Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:54","display":"Hob. I:54","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["G Major", "C Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Adagio maestoso - Presto", "key": ["G Major"] },
+      { "title": "II. Adagio assai", "key": ["C Major"] },
+      { "title": "III. Minuet & Trio. Allegretto", "key": ["G Major"] },
+      { "title": "IV. Finale. Presto", "key": ["G Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-55-in-eflat-major-hob-i55",
+    "title": { "preferred": "Symphony No. 55 in E-Flat Major", "alias": "The Schoolmaster" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:55","display":"Hob. I:55","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E-Flat Major", "B-Flat Major"],
+    "medium": ["oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Allegro di molto", "key": ["E-Flat Major"] },
+      { "title": "II. Adagio, ma semplicemente", "key": ["B-Flat Major"] },
+      { "title": "III. Menuetto - Trio", "key": ["E-Flat Major"] },
+      { "title": "IV. Finale. Presto", "key": ["E-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-56-in-c-major-hob-i56",
+    "title": { "preferred": "Symphony No. 56 in C Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:56","display":"Hob. I:56","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major", "F Major"],
+    "medium": ["oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Allegro di molto", "key": ["C Major"] },
+      { "title": "II. Adagio", "key": ["F Major"] },
+      { "title": "III. Menuetto - Trio", "key": ["C Major", "F Major"] },
+      { "title": "IV. Finale. Prestissimo", "key": ["C Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-57-in-d-major-hob-i57",
+    "title": { "preferred": "Symphony No. 57 in D Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:57","display":"Hob. I:57","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "G Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Allegro di molto", "key": ["D Major"] },
+      { "title": "II. Adagio", "key": ["G Major"] },
+      { "title": "III. Minuet & Trio. Allegretto", "key": ["D Major"] },
+      { "title": "IV. Finale. Prestissimo", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-58-in-f-major-hob-i58",
+    "title": { "preferred": "Symphony No. 58 in F Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:58","display":"Hob. I:58","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["F Major", "B-Flat Major", "F Minor"],
+    "medium": ["oboe", "bassoon", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["F Major"], "medium": ["oboe", "bassoon", "horn", "violin", "viola", "continuo"] },
+      { "title": "II. Andante", "key": ["B-Flat Major"], "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Menuet alla zoppa - Trio. Un poco allegretto", "key": ["F Major", "F Minor"], "medium": ["oboe", "bassoon", "horn", "violin", "viola", "continuo"] },
+      { "title": "IV. Finale. Presto", "key": ["F Major"], "medium": ["oboe", "bassoon", "horn", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-59-in-a-major-hob-i59",
+    "title": { "preferred": "Symphony No. 59 in A Major", "alias": "Fire" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:59","display":"Hob. I:59","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["A Major", "A Minor"],
+    "medium": ["oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Presto", "key": ["A Major"] },
+      { "title": "II. Andante o più tosto allegretto", "key": ["A Minor"] },
+      { "title": "III. Menuetto", "key": ["A Major", "A Minor"] },
+      { "title": "IV. Finale. Allegro assai", "key": ["A Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-60-in-c-major-hob-i60",
+    "title": { "preferred": "Symphony No. 60 in C Major", "alias": "Il distratto" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:60","display":"Hob. I:60","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major", "G Major", "C Minor", "F Major"],
+    "medium": ["oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Allegro di molto", "key": ["C Major"] },
+      { "title": "II. Andante", "key": ["G Major"] },
+      { "title": "III. Menuetto", "key": ["C Major", "C Minor"] },
+      { "title": "IV. Presto", "key": ["C Minor"] },
+      { "title": "V. Adagio di Lamentatione", "key": ["F Major"] },
+      { "title": "VI. Finale. Prestissimo", "key": ["C Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-61-in-d-major-hob-i61",
+    "title": { "preferred": "Symphony No. 61 in D Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:61","display":"Hob. I:61","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "A Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "timpani", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Vivace", "key": ["D Major"] },
+      { "title": "II. Adagio", "key": ["A Major"] },
+      { "title": "III. Minuet & Trio. Allegretto", "key": ["D Major"] },
+      { "title": "IV. Finale. Prestissimo", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-62-in-d-major-hob-i62",
+    "title": { "preferred": "Symphony No. 62 in D Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:62","display":"Hob. I:62","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "G Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["D Major"] },
+      { "title": "II. Adagio", "key": ["D Major"] },
+      { "title": "III. Minuet & Trio. Allegretto", "key": ["D Major", "G Major"] },
+      { "title": "IV. Finale. Allegro", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-63-in-c-major-hob-i63",
+    "title": { "preferred": "Symphony No. 63 in C Major", "alias": "La Roxelane" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:63","display":"Hob. I:63","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major", "C Minor"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["C Major"] },
+      { "title": "II. La Roxelane. Allegretto più tosto allegro", "key": ["C Minor"] },
+      { "title": "III. Minuet & Trio. Allegretto", "key": ["C Major"] },
+      { "title": "IV. Finale. Presto", "key": ["C Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-64-in-a-major-hob-i64",
+    "title": { "preferred": "Symphony No. 64 in A Major", "alias": "Tempora mutantur" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:64","display":"Hob. I:64","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["A Major", "D Major"],
+    "medium": ["oboe", "bassoon", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro con spirito", "key": ["A Major"] },
+      { "title": "II. Largo", "key": ["D Major"] },
+      { "title": "III. Minuet & Trio. Allegretto", "key": ["A Major"] },
+      { "title": "IV. Finale. Presto", "key": ["A Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-65-in-a-major-hob-i65",
+    "title": { "preferred": "Symphony No. 65 in A Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:65","display":"Hob. I:65","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["A Major", "D Major", "A Minor"],
+    "medium": ["oboe", "bassoon", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Vivace e con spirito", "key": ["A Major"] },
+      { "title": "II. Andante", "key": ["D Major"] },
+      { "title": "III. Menuetto - Trio", "key": ["A Major", "A Minor"] },
+      { "title": "IV. Finale. Presto", "key": ["A Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-66-in-bflat-major-hob-i66",
+    "title": { "preferred": "Symphony No. 66 in B-Flat Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:66","display":"Hob. I:66","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["B-Flat Major", "F Major"],
+    "medium": ["oboe", "bassoon", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro con brio", "key": ["B-Flat Major"] },
+      { "title": "II. Adagio", "key": ["F Major"] },
+      { "title": "III. Menuetto - Trio", "key": ["B-Flat Major"] },
+      { "title": "IV. Finale. Scherzando e presto", "key": ["B-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-67-in-f-major-hob-i67",
+    "title": { "preferred": "Symphony No. 67 in F Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:67","display":"Hob. I:67","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["F Major", "B-Flat Major"],
+    "medium": ["oboe", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Presto", "key": ["F Major"] },
+      { "title": "II. Adagio", "key": ["B-Flat Major"] },
+      { "title": "III. Menuetto - Trio", "key": ["F Major"] },
+      { "title": "IV. Finale. Allegro di molto - Adagio e cantabile - Allegro di molto", "key": ["F Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-68-in-bflat-major-hob-i68",
+    "title": { "preferred": "Symphony No. 68 in B-Flat Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:68","display":"Hob. I:68","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["B-Flat Major", "E-Flat Major"],
+    "medium": ["oboe", "bassoon", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Vivace", "key": ["B-Flat Major"] },
+      { "title": "II. Menuetto - Trio", "key": ["E-Flat Major"] },
+      { "title": "III. Adagio cantabile", "key": ["B-Flat Major"] },
+      { "title": "IV. Finale. Presto", "key": ["B-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-69-in-c-major-hob-i69",
+    "title": { "preferred": "Symphony No. 69 in C Major", "alias": "Laudon" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:69","display":"Hob. I:69","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major", "F Major"],
+    "medium": ["oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Vivace", "key": ["C Major"], "medium": ["oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "continuo"] },
+      { "title": "II. Un poco adagio più tosto andante", "key": ["F Major"], "medium": ["oboe", "bassoon", "horn", "violin", "viola", "continuo"] },
+      { "title": "III. Menuetto - Trio", "key": ["C Major"], "medium": ["oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "continuo"] },
+      { "title": "IV. Finale. Presto", "key": ["C Major"], "medium": ["oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-70-in-d-major-hob-i70",
+    "title": { "preferred": "Symphony No. 70 in D Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:70","display":"Hob. I:70","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "D Minor"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Vivace con brio", "key": ["D Major"] },
+      { "title": "II. Andante. Specie d'un canone in contrapunto doppio", "key": ["D Minor"] },
+      { "title": "III. Menuetto. Allegretto", "key": ["D Major"] },
+      { "title": "IV. Finale. Allegro con brio", "key": ["D Minor"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-71-in-bflat-major-hob-i71",
+    "title": { "preferred": "Symphony No. 71 in B-Flat Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:71","display":"Hob. I:71","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["B-Flat Major", "F Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Allegro con brio", "key": ["B-Flat Major"] },
+      { "title": "II. Adagio", "key": ["F Major"] },
+      { "title": "III. Menuetto", "key": ["B-Flat Major"] },
+      { "title": "IV. Finale. Vivace", "key": ["B-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-72-in-d-major-hob-i72",
+    "title": { "preferred": "Symphony No. 72 in D Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:72","display":"Hob. I:72","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "G Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "timpani", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["D Major"], "medium": ["flute", "oboe", "bassoon", "horn", "timpani", "violin", "viola", "continuo"] },
+      { "title": "II. Andante", "key": ["G Major"], "medium": ["flute", "violin", "viola", "continuo"] },
+      { "title": "III. Menuetto - Trio", "key": ["D Major"], "medium": ["oboe", "bassoon", "horn", "continuo"] },
+      { "title": "IV. Finale. Andante - Presto", "key": ["D Major"], "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-73-in-d-major-hob-i73",
+    "title": { "preferred": "Symphony No. 73 in D Major", "alias": "La chasse" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:73","display":"Hob. I:73","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "G Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Allegro", "key": ["D Major"], "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "continuo"] },
+      { "title": "II. Andante", "key": ["G Major"], "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Menuetto. Allegretto", "key": ["D Major"], "medium": ["oboe", "bassoon", "violin", "viola", "continuo"] },
+      { "title": "IV. La chasse. Presto", "key": ["D Major"], "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-74-in-eflat-major-hob-i74",
+    "title": { "preferred": "Symphony No. 74 in E-Flat Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:74","display":"Hob. I:74","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E-Flat Major", "B-Flat Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Vivace assai", "key": ["E-Flat Major"] },
+      { "title": "II. Adagio cantabile", "key": ["B-Flat Major"] },
+      { "title": "III. Menuetto. Allegretto", "key": ["E-Flat Major"] },
+      { "title": "IV. Finale. Allegro assai", "key": ["E-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-75-in-d-major-hob-i75",
+    "title": { "preferred": "Symphony No. 75 in D Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:75","display":"Hob. I:75","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "G Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Grave - Presto", "key": ["D Major"], "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "continuo"] },
+      { "title": "II. Poco adagio", "key": ["G Major"], "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Menuetto. Allegretto", "key": ["D Major"], "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "continuo"] },
+      { "title": "IV. Finale. Vivace", "key": ["D Major"], "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-76-in-eflat-major-hob-i76",
+    "title": { "preferred": "Symphony No. 76 in E-Flat Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:76","display":"Hob. I:76","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E-Flat Major", "B-Flat Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["E-Flat Major"], "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "continuo"] },
+      { "title": "II. Adagio ma non troppo", "key": ["B-Flat Major"], "medium": ["violin", "viola", "continuo"] },
+      { "title": "III. Menuetto. Allegretto", "key": ["E-Flat Major"], "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "continuo"] },
+      { "title": "IV. Finale. Allegro ma non troppo", "key": ["E-Flat Major"], "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "continuo"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-77-in-bflat-major-hob-i77",
+    "title": { "preferred": "Symphony No. 77 in B-Flat Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:77","display":"Hob. I:77","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["B-Flat Major", "F Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Vivace", "key": ["B-Flat Major"] },
+      { "title": "II. Andante sostenuto", "key": ["F Major"] },
+      { "title": "III. Menuetto. Allegro", "key": ["B-Flat Major"] },
+      { "title": "IV. Finale. Allegro spiritoso", "key": ["B-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-78-in-c-minor-hob-i78",
+    "title": { "preferred": "Symphony No. 78 in C Minor" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:78","display":"Hob. I:78","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Minor", "E Major", "C Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Vivace", "key": ["C Minor"] },
+      { "title": "II. Adagio", "key": ["E Major"] },
+      { "title": "III. Menuetto. Allegretto", "key": ["C Major"] },
+      { "title": "IV. Finale. Presto", "key": ["C Minor"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-79-in-f-major-hob-i79",
+    "title": { "preferred": "Symphony No. 79 in F Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:79","display":"Hob. I:79","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["F Major", "B-Flat Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Allegro con spirito", "key": ["F Major"] },
+      { "title": "II. Adagio cantabile - Un poco allegro", "key": ["B-Flat Major"] },
+      { "title": "III. Minuet & Trio. Allegretto", "key": ["F Major"] },
+      { "title": "IV. Finale. Vivace", "key": ["F Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-80-in-d-minor-hob-i80",
+    "title": { "preferred": "Symphony No. 80 in D Minor" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:80","display":"Hob. I:80","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Minor", "B-Flat Major", "D Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Allegro spiritoso", "key": ["D Minor"] },
+      { "title": "II. Adagio", "key": ["B-Flat Major"] },
+      { "title": "III. Menuetto", "key": ["D Minor", "D Major"] },
+      { "title": "IV. Finale. Presto", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-81-in-g-major-hob-i81",
+    "title": { "preferred": "Symphony No. 81 in G Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:81","display":"Hob. I:81","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["G Major", "D Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Vivace", "key": ["G Major"] },
+      { "title": "II. Andante", "key": ["D Major"] },
+      { "title": "III. Menuetto. Allegro", "key": ["G Major"] },
+      { "title": "IV. Finale. Allegro ma non troppo", "key": ["G Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-82-in-c-major-hob-i82",
+    "title": { "preferred": "Symphony No. 82 in C Major", "alias": "L'ours" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:82","display":"Hob. I:82","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major", "F Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Vivace assai", "key": ["C Major"] },
+      { "title": "II. Allegretto", "key": ["F Major"] },
+      { "title": "III. Menuetto", "key": ["C Major"] },
+      { "title": "IV. Finale. Vivace", "key": ["C Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-83-in-g-minor-hob-i83",
+    "title": { "preferred": "Symphony No. 83 in G Minor", "alias": "La poule" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:83","display":"Hob. I:83","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["G Minor", "G Major", "E-Flat Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "continuo"],
+    "movements": [
+      { "title": "I. Allegro spiritoso", "key": ["G Minor"] },
+      { "title": "II. Andante", "key": ["E-Flat Major"] },
+      { "title": "III. Menuetto. Allegretto", "key": ["G Major"] },
+      { "title": "IV. Finale. Vivace", "key": ["G Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-84-in-eflat-major-hob-i84",
+    "title": { "preferred": "Symphony No. 84 in E-Flat Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:84","display":"Hob. I:84","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E-Flat Major", "B-Flat Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Largo - Allegro", "key": ["E-Flat Major"] },
+      { "title": "II. Andante", "key": ["B-Flat Major"] },
+      { "title": "III. Menuetto. Allegretto", "key": ["E-Flat Major"] },
+      { "title": "IV. Finale. Vivace", "key": ["E-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-85-in-bflat-major-hob-i85",
+    "title": { "preferred": "Symphony No. 85 in B-Flat Major", "alias": "La Reine" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:85","display":"Hob. I:85","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["B-Flat Major", "E-Flat Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Vivace", "key": ["B-Flat Major"] },
+      { "title": "II. Romance. Allegretto", "key": ["E-Flat Major"] },
+      { "title": "III. Menuetto. Allegretto", "key": ["B-Flat Major"] },
+      { "title": "IV. Finale. Presto", "key": ["B-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-86-in-d-major-hob-i86",
+    "title": { "preferred": "Symphony No. 86 in D Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:86","display":"Hob. I:86","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "G Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Allegro spiritoso", "key": ["D Major"] },
+      { "title": "II. Capriccio. Largo", "key": ["G Major"] },
+      { "title": "III. Menuetto. Allegretto", "key": ["D Major"] },
+      { "title": "IV. Finale. Allegro con spirito", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-87-in-a-major-hob-i87",
+    "title": { "preferred": "Symphony No. 87 in A Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:87","display":"Hob. I:87","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["A Major", "D Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Vivace", "key": ["A Major"] },
+      { "title": "II. Adagio", "key": ["D Major"] },
+      { "title": "III. Menuetto", "key": ["A Major"] },
+      { "title": "IV. Finale. Vivace", "key": ["A Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-88-in-g-major-hob-i88",
+    "title": { "preferred": "Symphony No. 88 in G Major", "alias": "The Letter V" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:88","display":"Hob. I:88","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["G Major", "D Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Allegro", "key": ["G Major"] },
+      { "title": "II. Largo", "key": ["D Major"] },
+      { "title": "III. Menuetto. Allegretto", "key": ["G Major"] },
+      { "title": "IV. Finale. Allegro con spirito", "key": ["G Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-89-in-f-major-hob-i89",
+    "title": { "preferred": "Symphony No. 89 in F Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:89","display":"Hob. I:89","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["F Major", "C Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Vivace", "key": ["F Major"] },
+      { "title": "II. Andante con moto", "key": ["C Major"] },
+      { "title": "III. Minuet & Trio. Allegretto", "key": ["F Major"] },
+      { "title": "IV. Finale. Vivace assai", "key": ["F Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-90-in-c-major-hob-i90",
+    "title": { "preferred": "Symphony No. 90 in C Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:90","display":"Hob. I:90","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major", "F Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Allegro assai", "key": ["C Major"] },
+      { "title": "II. Andante", "key": ["F Major"] },
+      { "title": "III. Menuetto. Allegretto", "key": ["C Major"] },
+      { "title": "IV. Finale. Allegro assai", "key": ["C Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-91-in-eflat-major-hob-i91",
+    "title": { "preferred": "Symphony No. 91 in E-Flat Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:91","display":"Hob. I:91","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E-Flat Major", "B-Flat Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Largo - Allegro assai", "key": ["E-Flat Major"] },
+      { "title": "II. Andante", "key": ["B-Flat Major"] },
+      { "title": "III. Menuetto. Un poco allegretto", "key": ["E-Flat Major"] },
+      { "title": "IV. Finale. Vivace", "key": ["E-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-92-in-g-major-hob-i92",
+    "title": { "preferred": "Symphony No. 92 in G Major", "alias": "Oxford" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:92","display":"Hob. I:92","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["G Major", "D Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Allegro spiritoso", "key": ["G Major"] },
+      { "title": "II. Adagio", "key": ["D Major"] },
+      { "title": "III. Menuetto. Allegretto", "key": ["G Major"] },
+      { "title": "IV. Finale. Presto", "key": ["G Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-93-in-d-major-hob-i93",
+    "title": { "preferred": "Symphony No. 93 in D Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:93","display":"Hob. I:93","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "G Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Allegro assai", "key": ["D Major"] },
+      { "title": "II. Largo cantabile", "key": ["G Major"] },
+      { "title": "III. Minuet & Trio. Allegro", "key": ["D Major"] },
+      { "title": "IV. Finale. Presto ma non troppo", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-94-in-g-major-hob-i94",
+    "title": { "preferred": "Symphony No. 94 in G Major", "alias": "Surprise" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:94","display":"Hob. I:94","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["G Major", "C Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Vivace assai", "key": ["G Major"] },
+      { "title": "II. Andante", "key": ["C Major"] },
+      { "title": "III. Minuet & Trio. Allegro molto", "key": ["G Major"] },
+      { "title": "IV. Finale. Allegro di molto", "key": ["G Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-95-in-c-minor-hob-i95",
+    "title": { "preferred": "Symphony No. 95 in C Minor" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:95","display":"Hob. I:95","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Minor", "E-Flat Major", "C Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Allegro moderato", "key": ["C Minor"] },
+      { "title": "II. Andante", "key": ["E-Flat Major"] },
+      { "title": "III. Menuetto - Trio", "key": ["C Minor", "C Major"] },
+      { "title": "IV. Finale. Vivace", "key": ["C Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-96-in-d-major-hob-i96",
+    "title": { "preferred": "Symphony No. 96 in D Major", "alias": "The Miracle" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:96","display":"Hob. I:96","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "G Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Allegro", "key": ["D Major"] },
+      { "title": "II. Andante", "key": ["G Major"] },
+      { "title": "III. Minuet & Trio. Allegretto", "key": ["D Major"] },
+      { "title": "IV. Finale. Vivace", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-97-in-c-major-hob-i97",
+    "title": { "preferred": "Symphony No. 97 in C Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:97","display":"Hob. I:97","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major", "F Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Vivace", "key": ["C Major"] },
+      { "title": "II. Adagio ma non troppo", "key": ["F Major"] },
+      { "title": "III. Minuet & Trio. Allegretto", "key": ["C Major"] },
+      { "title": "IV. Finale. Presto assai", "key": ["C Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-98-in-bflat-major-hob-i98",
+    "title": { "preferred": "Symphony No. 98 in B-Flat Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:98","display":"Hob. I:98","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["B-Flat Major", "F Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "harpsichord", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Allegro", "key": ["B-Flat Major"] },
+      { "title": "II. Adagio", "key": ["F Major"] },
+      { "title": "III. Minuet & Trio. Allegro", "key": ["B-Flat Major"] },
+      { "title": "IV. Finale. Presto", "key": ["B-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-99-in-eflat-major-hob-i99",
+    "title": { "preferred": "Symphony No. 99 in E-Flat Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:99","display":"Hob. I:99","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E-Flat Major", "G Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Vivace assai", "key": ["E-Flat Major"] },
+      { "title": "II. Adagio", "key": ["G Major"] },
+      { "title": "III. Minuet & Trio. Allegretto", "key": ["E-Flat Major"] },
+      { "title": "IV. Finale. Vivace", "key": ["E-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-100-in-g-major-hob-i100",
+    "title": { "preferred": "Symphony No. 100 in G Major", "alias": "Military" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:100","display":"Hob. I:100","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["G Major", "C Major", "C Minor"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo", "bass drum", "cymbals", "triangle"],
+    "movements": [
+      { "title": "I. Adagio - Allegro", "key": ["G Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo", "bass drum", "cymbals", "triangle"] },
+      { "title": "II. Allegretto", "key": ["C Major", "C Minor"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo", "bass drum", "cymbals", "triangle"] },
+      { "title": "III. Minuet & Trio. Moderato", "key": ["G Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo"] },
+      { "title": "IV. Finale. Presto", "key": ["G Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo", "bass drum", "cymbals", "triangle"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-101-in-d-major-hob-i101",
+    "title": { "preferred": "Symphony No. 101 in D Major", "alias": "The Clock" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:101","display":"Hob. I:101","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "G Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Presto", "key": ["D Major"] },
+      { "title": "II. Andante", "key": ["G Major"] },
+      { "title": "III. Minuet & Trio. Allegretto", "key": ["D Major"] },
+      { "title": "IV. Finale. Vivace", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-102-in-bflat-major-hob-i102",
+    "title": { "preferred": "Symphony No. 102 in B-Flat Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:102","display":"Hob. I:102","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["B-Flat Major", "F Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Largo - Vivace", "key": ["B-Flat Major"] },
+      { "title": "II. Adagio", "key": ["F Major"] },
+      { "title": "III. Minuet & Trio. Allegro", "key": ["B-Flat Major"] },
+      { "title": "IV. Finale. Presto", "key": ["B-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-103-in-eflat-major-hob-i103",
+    "title": { "preferred": "Symphony No. 103 in E-Flat Major", "alias": "Drum Roll" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:103","display":"Hob. I:103","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E-Flat Major", "C Minor", "C Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Allegro con spirito", "key": ["E-Flat Major"] },
+      { "title": "II. Andante più tosto allegretto", "key": ["C Minor", "C Major"] },
+      { "title": "III. Menuetto - Trio", "key": ["E-Flat Major"] },
+      { "title": "IV. Finale. Allegro con spirito", "key": ["E-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-symphony-no-104-in-d-major-hob-i104",
+    "title": { "preferred": "Symphony No. 104 in D Major", "alias": "London" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:104","display":"Hob. I:104","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Minor", "D Major", "G Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Adagio - Allegro", "key": ["D Minor", "D Major"] },
+      { "title": "II. Andante", "key": ["G Major"] },
+      { "title": "III. Minuet & Trio. Allegro", "key": ["D Major"] },
+      { "title": "IV. Finale. Spiritoso", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-joseph-haydn",
+    "workId": "franz-joseph-haydn-sinfonia-concertante-in-bflat-major-hob-i105",
+    "title": { "preferred": "Sinfonia concertante in B-Flat Major" },
+    "identifiers": [
+      {"catalog":"hob","value":"I:105","display":"Hob. I:105","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["B-Flat Major", "F Major"],
+    "medium": ["oboe", "bassoon", "flute", "horn", "trumpet", "timpani", "violin", "viola", "cello", "continuo"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["B-Flat Major"] },
+      { "title": "II. Andante", "key": ["F Major"] },
+      { "title": "III. Allegro con spirito", "key": ["B-Flat Major"] }
     ]
   }
 ]
