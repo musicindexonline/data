@@ -11522,5 +11522,2185 @@
       { "title": "II. Larghetto", "key": ["E-Flat Major"] },
       { "title": "III. Allegro", "key": ["B-Flat Major"] }
     ]
+  },
+  {
+    "composerId": "ludwig-van-beethoven",
+    "workId": "",
+    "title": { "preferred": "Piano Concerto No. 1 in C Major" },
+    "identifiers": [
+      {"catalog":"op","value":"15","display":"Op. 15","primary":true}
+    ],
+    "genre": "Concerto",
+    "key": ["C Major", "A-Flat Major"],
+    "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegro con brio", "key": ["C Major"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "II. Largo", "key": ["A-Flat Major"], "medium": ["piano", "clarinet", "bassoon", "horn", "strings"] },
+      { "title": "III. Rondo. Allegro scherzando", "key": ["C Major"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] }
+    ]
+  },
+  {
+    "composerId": "ludwig-van-beethoven",
+    "workId": "",
+    "title": { "preferred": "Piano Concerto No. 2 in B-Flat Major" },
+    "identifiers": [
+      {"catalog":"op","value":"19","display":"Op. 19","primary":true}
+    ],
+    "genre": "Concerto",
+    "key": ["B-Flat Major", "E-Flat Major"],
+    "medium": ["piano", "flute", "oboe", "bassoon", "horn", "strings"],
+    "movements": [
+      { "title": "I. Allegro con brio", "key": ["B-Flat Major"] },
+      { "title": "II. Adagio", "key": ["E-Flat Major"] },
+      { "title": "III. Rondo. Molto allegro", "key": ["B-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "ludwig-van-beethoven",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 1 in C Major" },
+    "identifiers": [
+      {"catalog":"op","value":"21","display":"Op. 21","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major", "F Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Adagio molto - Allegro con brio", "key": ["C Major"] },
+      { "title": "II. Andante cantabile con moto", "key": ["F Major"] },
+      { "title": "III. Menuetto. Allegro molto e vivace", "key": ["C Major"] },
+      { "title": "IV. Finale. Adagio - Allegro molto e vivace", "key": ["C Major"] }
+    ]
+  },
+  {
+    "composerId": "ludwig-van-beethoven",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 2 in D Major" },
+    "identifiers": [
+      {"catalog":"op","value":"36","display":"Op. 36","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "A Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Adagio molto - Allegro con brio", "key": ["D Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "II. Larghetto", "key": ["A Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "strings"] },
+      { "title": "III. Scherzo. Allegro", "key": ["D Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "IV. Allegro molto", "key": ["D Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] }
+    ]
+  },
+  {
+    "composerId": "ludwig-van-beethoven",
+    "workId": "",
+    "title": { "preferred": "Piano Concerto No. 3 in C Minor" },
+    "identifiers": [
+      {"catalog":"op","value":"37","display":"Op. 37","primary":true}
+    ],
+    "genre": "Concerto",
+    "key": ["C Minor", "E Major"],
+    "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegro con brio", "key": ["C Minor"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "II. Largo", "key": ["E Major"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "strings"] },
+      { "title": "III. Rondo. Allegro", "key": ["C Minor"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] }
+    ]
+  },
+  {
+    "composerId": "ludwig-van-beethoven",
+    "workId": "ludwig-van-beethoven-symphony-no-3-in-eflat-major-op-55",
+    "title": { "preferred": "Symphony No. 3 in E-Flat Major", "alias": "Eroica" },
+    "identifiers": [
+      {"catalog":"op","value":"55","display":"Op. 55","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E-Flat Major", "C Minor"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegro con brio", "key": ["E-Flat Major"] },
+      { "title": "II. Marcia funebre - Adagio assai", "key": ["C Minor"] },
+      { "title": "III. Scherzo. Allegro vivace", "key": ["E-Flat Major"] },
+      { "title": "IV. Finale. Allegro molto", "key": ["E-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "ludwig-van-beethoven",
+    "workId": "",
+    "title": { "preferred": "Piano Concerto No. 4 in G Major" },
+    "identifiers": [
+      {"catalog":"op","value":"58","display":"Op. 58","primary":true}
+    ],
+    "genre": "Concerto",
+    "key": ["G Major", "E Minor"],
+    "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegro moderato", "key": ["G Major"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "strings"] },
+      { "title": "II. Andante con moto", "key": ["E Minor"], "medium": ["piano", "strings"] },
+      { "title": "III. Rondo. Vivace - Presto", "key": ["G Major"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] }
+    ]
+  },
+  {
+    "composerId": "ludwig-van-beethoven",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 4 in B-Flat Major" },
+    "identifiers": [
+      {"catalog":"op","value":"60","display":"Op. 60","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["B-Flat Major", "E-Flat Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Adagio - Allegro vivace", "key": ["B-Flat Major"] },
+      { "title": "II. Adagio", "key": ["E-Flat Major"] },
+      { "title": "III. Allegro vivace", "key": ["B-Flat Major"] },
+      { "title": "IV. Allegro ma non troppo", "key": ["B-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "ludwig-van-beethoven",
+    "workId": "",
+    "title": { "preferred": "Violin Concerto in D Major" },
+    "identifiers": [
+      {"catalog":"op","value":"61","display":"Op. 61","primary":true}
+    ],
+    "genre": "Concerto",
+    "key": ["D Major", "G Major"],
+    "medium": ["violin", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegro ma non troppo", "key": ["D Major"], "medium": ["violin", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "II. Larghetto", "key": ["G Major"], "medium": ["violin", "flute", "oboe", "clarinet", "bassoon", "horn", "strings"] },
+      { "title": "III. Rondo. Allegro", "key": ["D Major"], "medium": ["violin", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] }
+    ]
+  },
+  {
+    "composerId": "ludwig-van-beethoven",
+    "workId": "ludwig-van-beethoven-symphony-no-5-in-c-minor-op-67",
+    "title": { "preferred": "Symphony No. 5 in C Minor" },
+    "identifiers": [
+      {"catalog":"op","value":"67","display":"Op. 67","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Minor", "A-Flat Major", "C Major"],
+    "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegro con brio", "key": ["C Minor"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "II. Andante con moto", "key": ["A-Flat Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "III. Scherzo. Allegro", "key": ["C Minor", "C Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "IV. Allegro", "key": ["C Major"], "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "timpani", "strings"] }
+    ]
+  },
+  {
+    "composerId": "ludwig-van-beethoven",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 6 in F Major", "alias": "Pastoral" },
+    "identifiers": [
+      {"catalog":"op","value":"68","display":"Op. 68","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["F Major", "B-Flat Major", "F Minor"],
+    "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegro ma non troppo. Erwachen heiterer Empfindungen bei der Ankunft auf dem Lande", "key": ["F Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "strings"] },
+      { "title": "II. Andante molto mosso. Szene am Bach", "key": ["B-Flat Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "strings"] },
+      { "title": "III. Allegro. Lustiges Zusammensein der Landleute", "key": ["F Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "strings"] },
+      { "title": "IV. Allegro. Gewitter, Sturm", "key": ["F Minor"], "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"] },
+      { "title": "V. Allegretto. Hirtengesang. Frohe und dankbare Gefühle nach dem Sturm", "key": ["F Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "strings"] }
+    ]
+  },
+  {
+    "composerId": "ludwig-van-beethoven",
+    "workId": "",
+    "title": { "preferred": "Piano Concerto No. 5 in E-Flat Major", "alias": "Emperor" },
+    "identifiers": [
+      {"catalog":"op","value":"73","display":"Op. 73","primary":true}
+    ],
+    "genre": "Concerto",
+    "key": ["E-Flat Major", "B Major"],
+    "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["E-Flat Major"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "II. Adagio un poco mosso", "key": ["B Major"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "strings"] },
+      { "title": "III. Rondo. Allegro, ma non troppo", "key": ["E-Flat Major"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] }
+    ]
+  },
+  {
+    "composerId": "ludwig-van-beethoven",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 7 in A Major" },
+    "identifiers": [
+      {"catalog":"op","value":"92","display":"Op. 92","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["A Major", "A Minor", "F Major", "D Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Poco sostenuto - Vivace", "key": ["A Major"] },
+      { "title": "II. Allegretto", "key": ["A Minor"] },
+      { "title": "III. Scherzo. Presto - Trio. Assai meno presto", "key": ["F Major", "D Major"] },
+      { "title": "IV. Allegro con brio", "key": ["A Major"] }
+    ]
+  },
+  {
+    "composerId": "ludwig-van-beethoven",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 8 in F Major" },
+    "identifiers": [
+      {"catalog":"op","value":"93","display":"Op. 93","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["F Major", "B-Flat Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegro vivace e con brio", "key": ["F Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "II. Allegretto scherzando", "key": ["B-Flat Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "strings"] },
+      { "title": "III. Tempo di menuetto", "key": ["F Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "IV. Allegro vivace", "key": ["F Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] }
+    ]
+  },
+  {
+    "composerId": "ludwig-van-beethoven",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 9 in D Minor", "alias": "Choral" },
+    "identifiers": [
+      {"catalog":"op","value":"125","display":"Op. 125","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Minor", "D Major", "B-Flat Major", "G Major", "E-Flat Major"],
+    "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "timpani", "percussion", "strings", "choir", "soprano", "alto", "tenor", "bass"],
+    "movements": [
+      { "title": "I. Allegro ma non troppo, un poco maestoso", "key": ["D Minor"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "II. Scherzo. Molto vivace - Presto", "key": ["D Minor", "D Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "III. Adagio molto e cantabile - Andante moderato", "key": ["B-Flat Major", "D Major", "G Major", "E-Flat Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "IV. Presto - Allegro assai - Alla marcia - Andante maestoso - Allegro energico - Prestissimo", "key": ["D Minor", "D Major", "B-Flat Major", "G Major"], "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "timpani", "percussion", "strings", "choir", "soprano", "alto", "tenor", "bass"] }
+    ]
+  },
+  {
+    "composerId": "ludwig-van-beethoven",
+    "workId": "",
+    "title": { "preferred": "32 Variations in C Minor" },
+    "identifiers": [
+      {"catalog":"woo","value":"80","display":"WoO 80","primary":true}
+    ],
+    "genre": "Piano",
+    "key": ["C Minor", "C Major"],
+    "medium": ["piano"],
+    "movements": [
+      { "title": "Thema. Allegretto", "key": ["C Minor"] },
+      { "title": "Var. 1", "key": ["C Minor"] },
+      { "title": "Var. 2", "key": ["C Minor"] },
+      { "title": "Var. 3", "key": ["C Minor"] },
+      { "title": "Var. 4", "key": ["C Minor"] },
+      { "title": "Var. 5", "key": ["C Minor"] },
+      { "title": "Var. 6", "key": ["C Minor"] },
+      { "title": "Var. 7", "key": ["C Minor"] },
+      { "title": "Var. 8", "key": ["C Minor"] },
+      { "title": "Var. 9", "key": ["C Minor"] },
+      { "title": "Var. 10", "key": ["C Minor"] },
+      { "title": "Var. 11", "key": ["C Minor"] },
+      { "title": "Var. 12", "key": ["C Major"] },
+      { "title": "Var. 13", "key": ["C Major"] },
+      { "title": "Var. 14", "key": ["C Major"] },
+      { "title": "Var. 15", "key": ["C Major"] },
+      { "title": "Var. 16", "key": ["C Major"] },
+      { "title": "Var. 17", "key": ["C Minor"] },
+      { "title": "Var. 18", "key": ["C Minor"] },
+      { "title": "Var. 19", "key": ["C Minor"] },
+      { "title": "Var. 20", "key": ["C Minor"] },
+      { "title": "Var. 21", "key": ["C Minor"] },
+      { "title": "Var. 22", "key": ["C Minor"] },
+      { "title": "Var. 23", "key": ["C Minor"] },
+      { "title": "Var. 24", "key": ["C Minor"] },
+      { "title": "Var. 25", "key": ["C Minor"] },
+      { "title": "Var. 26", "key": ["C Minor"] },
+      { "title": "Var. 27", "key": ["C Minor"] },
+      { "title": "Var. 28", "key": ["C Minor"] },
+      { "title": "Var. 29", "key": ["C Minor"] },
+      { "title": "Var. 30", "key": ["C Minor"] },
+      { "title": "Var. 31", "key": ["C Minor"] },
+      { "title": "Var. 32", "key": ["C Minor"] }
+    ]
+  },
+  {
+    "composerId": "francois-adrien-boieldieu",
+    "workId": "",
+    "title": { "preferred": "Harp Concerto in C Major" },
+    "identifiers": [
+      {"catalog":"ifb","value":"19","display":"IFB 19","primary":true}
+    ],
+    "genre": "Concerto",
+    "key": ["C Major", "A Minor"],
+    "medium": ["harp", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegro brillante", "key": ["C Major"], "medium": ["harp", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "II. Andante lento", "key": ["A Minor"], "medium": ["harp", "flute", "oboe", "clarinet", "bassoon", "horn", "strings"] },
+      { "title": "III. Rondo. Allegro agitato", "key": ["C Major"], "medium": ["harp", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] }
+    ]
+  },
+  {
+    "composerId": "john-field",
+    "workId": "",
+    "title": { "preferred": "Nocturne No. 12 in E Major", "alias": "Nocturne Caractéristique: Noontide" },
+    "identifiers": [
+      {"catalog":"h","value":"13","display":"H. 13","primary":true}
+    ],
+    "genre": "Nocturne",
+    "key": ["E Major"],
+    "medium": ["Piano"],
+    "movements": []
+  },
+  {
+    "composerId": "john-field",
+    "workId": "",
+    "title": { "preferred": "Nocturne No. 7 in A Major" },
+    "identifiers": [
+      {"catalog":"h","value":"14","display":"H. 14","primary":true}
+    ],
+    "genre": "Nocturne",
+    "key": ["A Major"],
+    "medium": ["Piano"],
+    "movements": []
+  },
+  {
+    "composerId": "john-field",
+    "workId": "",
+    "title": { "preferred": "Nocturne No. 1 in E-Flat Major" },
+    "identifiers": [
+      {"catalog":"h","value":"24","display":"H. 24","primary":true}
+    ],
+    "genre": "Nocturne",
+    "key": ["E-Flat Major"],
+    "medium": ["Piano"],
+    "movements": []
+  },
+  {
+    "composerId": "john-field",
+    "workId": "",
+    "title": { "preferred": "Nocturne No. 2 in C Minor" },
+    "identifiers": [
+      {"catalog":"h","value":"25","display":"H. 25","primary":true}
+    ],
+    "genre": "Nocturne",
+    "key": ["C Minor"],
+    "medium": ["Piano"],
+    "movements": []
+  },
+  {
+    "composerId": "john-field",
+    "workId": "",
+    "title": { "preferred": "Nocturne No. 3 in A-Flat Major" },
+    "identifiers": [
+      {"catalog":"h","value":"26","display":"H. 26","primary":true}
+    ],
+    "genre": "Nocturne",
+    "key": ["A-Flat Major"],
+    "medium": ["Piano"],
+    "movements": []
+  },
+  {
+    "composerId": "john-field",
+    "workId": "",
+    "title": { "preferred": "Nocturne No. 8 in E-Flat Major" },
+    "identifiers": [
+      {"catalog":"h","value":"30","display":"H. 30","primary":true}
+    ],
+    "genre": "Nocturne",
+    "key": ["E-Flat Major"],
+    "medium": ["Piano"],
+    "movements": []
+  },
+  {
+    "composerId": "john-field",
+    "workId": "",
+    "title": { "preferred": "Nocturne No. 4 in A Major" },
+    "identifiers": [
+      {"catalog":"h","value":"36","display":"H. 36","primary":true}
+    ],
+    "genre": "Nocturne",
+    "key": ["A Major"],
+    "medium": ["Piano"],
+    "movements": []
+  },
+  {
+    "composerId": "john-field",
+    "workId": "",
+    "title": { "preferred": "Nocturne No. 5 in B-Flat Major" },
+    "identifiers": [
+      {"catalog":"h","value":"37","display":"H. 37","primary":true}
+    ],
+    "genre": "Nocturne",
+    "key": ["B-Flat Major"],
+    "medium": ["Piano"],
+    "movements": []
+  },
+  {
+    "composerId": "john-field",
+    "workId": "",
+    "title": { "preferred": "Nocturne No. 6 in F Major", "alias": "Cradle Song" },
+    "identifiers": [
+      {"catalog":"h","value":"40","display":"H. 40","primary":true}
+    ],
+    "genre": "Nocturne",
+    "key": ["F Major"],
+    "medium": ["Piano"],
+    "movements": []
+  },
+  {
+    "composerId": "john-field",
+    "workId": "",
+    "title": { "preferred": "Nocturne No. 13 in C Major", "alias": "Rêverie-Nocturne" },
+    "identifiers": [
+      {"catalog":"h","value":"45","display":"H. 45","primary":true}
+    ],
+    "genre": "Nocturne",
+    "key": ["C Major"],
+    "medium": ["Piano"],
+    "movements": []
+  },
+  {
+    "composerId": "john-field",
+    "workId": "",
+    "title": { "preferred": "Nocturne No. 9 in E Minor" },
+    "identifiers": [
+      {"catalog":"h","value":"46","display":"H. 46","primary":true}
+    ],
+    "genre": "Nocturne",
+    "key": ["E Minor"],
+    "medium": ["Piano"],
+    "movements": []
+  },
+  {
+    "composerId": "john-field",
+    "workId": "",
+    "title": { "preferred": "Nocturne No. 10 in E Major", "alias": "Nocturne Pastorale" },
+    "identifiers": [
+      {"catalog":"h","value":"54","display":"H. 54","primary":true}
+    ],
+    "genre": "Nocturne",
+    "key": ["E Major"],
+    "medium": ["Piano"],
+    "movements": []
+  },
+  {
+    "composerId": "john-field",
+    "workId": "",
+    "title": { "preferred": "Nocturne No. 11 in E-Flat Major" },
+    "identifiers": [
+      {"catalog":"h","value":"56","display":"H. 56","primary":true}
+    ],
+    "genre": "Nocturne",
+    "key": ["E-Flat Major"],
+    "medium": ["Piano"],
+    "movements": []
+  },
+  {
+    "composerId": "john-field",
+    "workId": "",
+    "title": { "preferred": "Nocturne No. 14 in G Major" },
+    "identifiers": [
+      {"catalog":"h","value":"58","display":"H. 58","primary":true}
+    ],
+    "genre": "Nocturne",
+    "key": ["G Major"],
+    "medium": ["Piano"],
+    "movements": []
+  },
+  {
+    "composerId": "john-field",
+    "workId": "",
+    "title": { "preferred": "Nocturne No. 15 in D Minor", "alias": "Song Without Words" },
+    "identifiers": [
+      {"catalog":"h","value":"59","display":"H. 59","primary":true}
+    ],
+    "genre": "Nocturne",
+    "key": ["D Minor"],
+    "medium": ["Piano"],
+    "movements": []
+  },
+  {
+    "composerId": "john-field",
+    "workId": "",
+    "title": { "preferred": "Nocturne No. 16 in C Major" },
+    "identifiers": [
+      {"catalog":"h","value":"60","display":"H. 60","primary":true}
+    ],
+    "genre": "Nocturne",
+    "key": ["C Major"],
+    "medium": ["Piano"],
+    "movements": []
+  },
+  {
+    "composerId": "john-field",
+    "workId": "",
+    "title": { "preferred": "Nocturne No. 17 in C Major" },
+    "identifiers": [
+      {"catalog":"h","value":"61","display":"H. 61","primary":true}
+    ],
+    "genre": "Nocturne",
+    "key": ["C Major"],
+    "medium": ["Piano"],
+    "movements": []
+  },
+  {
+    "composerId": "john-field",
+    "workId": "",
+    "title": { "preferred": "Nocturne No. 18 in F Major" },
+    "identifiers": [
+      {"catalog":"h","value":"62","display":"H. 62","primary":true}
+    ],
+    "genre": "Nocturne",
+    "key": ["F Major"],
+    "medium": ["Piano"],
+    "movements": []
+  },
+  {
+    "composerId": "niccolo-paganini",
+    "workId": "",
+    "title": { "preferred": "Violin Concerto No. 1 in D Major" },
+    "identifiers": [
+      {"catalog":"op","value":"6","display":"Op. 6","primary":true}
+    ],
+    "genre": "Concerto",
+    "key": ["D Major", "B Minor", "B Major"],
+    "medium": ["violin", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "strings"],
+    "movements": [
+      { "title": "I. Allegro maestoso - Tempo giusto", "key": ["D Major"], "medium": ["violin", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "strings"] },
+      { "title": "II. Adagio espressivo", "key": ["B Minor", "B Major"], "medium": ["violin", "flute", "oboe", "clarinet", "bassoon", "horn", "strings"] },
+      { "title": "III. Rondo。 Allegro spiritoso - Un poco più presto", "key": ["D Major"], "medium": ["violin", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "strings"] }
+    ]
+  },
+  {
+    "composerId": "franz-schubert",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 1 in D Major" },
+    "identifiers": [
+      {"catalog":"d","value":"82","display":"D. 82","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "G Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Adagio - Allegro vivace", "key": ["D Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "II. Andante", "key": ["G Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "strings"] },
+      { "title": "III. Menuetto. Allegretto - Trio", "key": ["D Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "IV. Allegro vivace", "key": ["D Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] }
+    ]
+  },
+  {
+    "composerId": "franz-schubert",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 2 in B-Flat Major" },
+    "identifiers": [
+      {"catalog":"d","value":"125","display":"D. 125","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["B-Flat Major", "E-Flat Major", "C Minor"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Largo - Allegro vivace", "key": ["B-Flat Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "II. Andante", "key": ["E-Flat Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "strings"] },
+      { "title": "III. Menuetto. Allegro vivace - Trio", "key": ["C Minor", "E-Flat Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "IV. Presto vivace", "key": ["B-Flat Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] }
+    ]
+  },
+  {
+    "composerId": "franz-schubert",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 3 in D Major" },
+    "identifiers": [
+      {"catalog":"d","value":"200","display":"D. 200","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": [],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Adagio maestoso - Allegro con brio", "key": ["D Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "II. Allegretto", "key": ["G Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "strings"] },
+      { "title": "III. Menuetto. Vivace - Trio", "key": ["D Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "IV. Presto vivace", "key": ["D Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] }
+    ]
+  },
+  {
+    "composerId": "franz-schubert",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 4 in C Minor", "alias": "Tragic" },
+    "identifiers": [
+      {"catalog":"d","value":"417","display":"D. 417","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Minor", "C Major", "A-Flat Major", "E-Flat Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Adagio molto - Allegro vivace", "key": ["C Minor", "C Major"] },
+      { "title": "II. Andante", "key": ["A-Flat Major"] },
+      { "title": "III. Menuetto. Allegro vivace - Trio", "key": ["C Minor", "E-Flat Major"] },
+      { "title": "IV. Allegro", "key": ["C Minor", "C Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-schubert",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 5 in B-Flat Major" },
+    "identifiers": [
+      {"catalog":"d","value":"485","display":"D. 485","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["B-Flat Major", "E-Flat Major", "G Minor", "G Major"],
+    "medium": ["flute", "oboe", "bassoon", "horn", "strings"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["B-Flat Major"] },
+      { "title": "II. Andante con moto", "key": ["E-Flat Major"] },
+      { "title": "III. Menuetto. Allegro molto - Trio", "key": ["G Minor", "G Major"] },
+      { "title": "IV. Allegro vivace", "key": ["B-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-schubert",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 6 in C Major", "alias": "The Little" },
+    "identifiers": [
+      {"catalog":"d","value":"589","display":"D. 589","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major", "F Major", "E Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Adagio - Allegro", "key": ["C Major"] },
+      { "title": "II. Andante", "key": ["F Major"] },
+      { "title": "III. Scherzo. Presto - Più lento", "key": ["C Major", "E Major"] },
+      { "title": "IV. Allegro moderato", "key": ["C Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-schubert",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 8 in B Minor", "alias": "Unfinished" },
+    "identifiers": [
+      {"catalog":"d","value":"759","display":"D. 759","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["B Minor", "E Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegro moderato", "key": ["B Minor"] },
+      { "title": "II. Andante con moto", "key": ["E Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-schubert",
+    "workId": "",
+    "title": { "preferred": "6 Moments musicaux" },
+    "identifiers": [
+      {"catalog":"d","value":"780","display":"D. 780","primary":true}
+    ],
+    "genre": "Piano Piece",
+    "key": ["C Major", "A-Flat Major", "F Minor", "C-Sharp Minor"],
+    "medium": ["piano"],
+    "movements": [
+      { "title": "No. 1 in C Major: Moderato", "key": ["C Major"] },
+      { "title": "No. 2 in A-Flat Major: Andantino", "key": ["A-Flat Major"] },
+      { "title": "No. 3 in F Minor: Allegro moderato", "key": ["F Minor"] },
+      { "title": "No. 4 in C-Sharp Minor: Moderato", "key": ["C-Sharp Minor"] },
+      { "title": "No. 5 in F Minor: Allegro vivace", "key": ["F Minor"] },
+      { "title": "No. 6 in A-Flat Major: Allegretto", "key": ["A-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-schubert",
+    "workId": "",
+    "title": { "preferred": "Piano Sonata No. 16 in A Minor" },
+    "identifiers": [
+      {"catalog":"d","value":"845","display":"D. 845","primary":true}
+    ],
+    "genre": "Sonata",
+    "key": ["A Minor", "C Major", "F Major"],
+    "medium": ["piano"],
+    "movements": [
+      { "title": "I. Moderato", "key": ["A Minor"] },
+      { "title": "II. Andante poco mosso", "key": ["C Major"] },
+      { "title": "III. Scherzo. Allegro vivace - Trio. Un poco più lento", "key": ["A Minor", "F Major"] },
+      { "title": "IV. Rondo. Allegro vivace", "key": ["A Minor"] }
+    ]
+  },
+  {
+    "composerId": "franz-schubert",
+    "workId": "",
+    "title": { "preferred": "4 Impromptus" },
+    "identifiers": [
+      {"catalog":"d","value":"899","display":"D. 899","primary":true}
+    ],
+    "genre": "Impromptu",
+    "key": ["C Minor", "E-Flat Major", "G-Flat Major", "A-Flat Major"],
+    "medium": ["piano"],
+    "movements": [
+      { "title": "No. 1 in C Minor: Allegro molto moderato", "key": ["C Minor"] },
+      { "title": "No. 2 in E-Flat Major: Allegro", "key": ["E-Flat Major"] },
+      { "title": "No. 3 in G-Flat Major: Andante", "key": ["G-Flat Major"] },
+      { "title": "No. 4 in A-Flat Major: Allegretto", "key": ["A-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-schubert",
+    "workId": "",
+    "title": { "preferred": "Allegretto in C Minor" },
+    "identifiers": [
+      {"catalog":"d","value":"915","display":"D. 915","primary":true}
+    ],
+    "genre": "Piano",
+    "key": [],
+    "medium": [],
+    "movements": []
+  },
+  {
+    "composerId": "franz-schubert",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 9 in C Major", "alias": "The Great" },
+    "identifiers": [
+      {"catalog":"d","value":"944","display":"D. 944","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major", "A Minor", "A Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Andante - Allegro ma non troppo - Più moto", "key": ["C Major"] },
+      { "title": "II. Andante con moto", "key": ["A Minor"] },
+      { "title": "III. Scherzo. Allegro vivace - Trio", "key": ["C Major", "A Major"] },
+      { "title": "IV. Allegro vivace", "key": ["C Major"] }
+    ]
+  },
+  {
+    "composerId": "franz-schubert",
+    "workId": "",
+    "title": { "preferred": "Piano Sonata No. 19 in C Minor" },
+    "identifiers": [
+      {"catalog":"d","value":"958","display":"D. 958","primary":true}
+    ],
+    "genre": "Sonata",
+    "key": ["C Minor", "A-Flat Major"],
+    "medium": ["piano"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["C Minor"] },
+      { "title": "II. Adagio", "key": ["A-Flat Major"] },
+      { "title": "III. Menuetto. Allegro - Trio", "key": ["C Minor", "A-Flat Major"] },
+      { "title": "IV. Allegro", "key": ["C Minor"] }
+    ]
+  },
+  {
+    "composerId": "felix-mendelssohn",
+    "workId": "",
+    "title": { "preferred": "Octet in E-Flat Major" },
+    "identifiers": [
+      {"catalog":"op","value":"20","display":"Op. 20","primary":true}
+    ],
+    "genre": "Octet",
+    "key": ["E-Flat Major", "C Minor", "G Minor"],
+    "medium": ["violin", "viola", "cello"],
+    "movements": [
+      { "title": "I. Allegro moderato ma con fuoco", "key": ["E-Flat Major"] },
+      { "title": "II. Andante", "key": ["C Minor"] },
+      { "title": "III. Scherzo. Allegro leggierissimo", "key": ["G Minor"] },
+      { "title": "IV. Presto", "key": ["E-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "felix-mendelssohn",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 4 in A Major", "alias": "Italian" },
+    "identifiers": [
+      {"catalog":"op","value":"90","display":"Op. 90","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["A Major", "D Minor"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegro vivace", "key": ["A Major"] },
+      { "title": "II. Andante con moto", "key": ["D Minor"] },
+      { "title": "III. Con moto moderato", "key": ["A Major"] },
+      { "title": "IV. Saltarello. Presto", "key": ["A Minor"] }
+    ]
+  },
+  {
+    "composerId": "felix-mendelssohn",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 5 in D Major", "alias": "Reformation" },
+    "identifiers": [
+      {"catalog":"op","value":"107","display":"Op. 107","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Minor", "G Major", "D Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Andante - Allegro con fuoco", "key": ["D Minor"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"] },
+      { "title": "II. Allegro vivace", "key": ["D Minor"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"] },
+      { "title": "III. Andante", "key": ["G Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"] },
+      { "title": "IV. Chorale. Andante con moto - Allegro vivace", "key": ["G Major", "D Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "timpani", "strings"] }
+    ]
+  },
+  {
+    "composerId": "frederic-francois-chopin",
+    "workId": "",
+    "title": { "preferred": "Piano Concerto No. 1 in E Minor" },
+    "identifiers": [
+      {"catalog":"op","value":"11","display":"Op. 11","primary":true}
+    ],
+    "genre": "Concerto",
+    "key": ["E Minor", "E Major"],
+    "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegro maestoso", "key": ["E Minor"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"] },
+      { "title": "II. Romance. Larghetto", "key": ["E Major"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "strings"] },
+      { "title": "III. Rondo. Vivace", "key": ["E Major"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"] }
+    ]
+  },
+  {
+    "composerId": "frederic-francois-chopin",
+    "workId": "",
+    "title": { "preferred": "Piano Concerto No. 2 in F Minor" },
+    "identifiers": [
+      {"catalog":"op","value":"21","display":"Op. 21","primary":true}
+    ],
+    "genre": "Concerto",
+    "key": ["F Minor", "A-Flat Major"],
+    "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Maestoso", "key": ["F Minor"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"] },
+      { "title": "II. Larghetto", "key": ["A-Flat Major"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "strings"] },
+      { "title": "III. Allegro vivace", "key": ["F Minor"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"] }
+    ]
+  },
+  {
+    "composerId": "franz-liszt",
+    "workId": "",
+    "title": { "preferred": "Symphonic Poem No. 3", "alias": "Les Préludes" },
+    "identifiers": [
+      {"catalog":"s","value":"97","display":"S. 97","primary":true}
+    ],
+    "genre": "Symphonic Poem",
+    "key": ["C Major"],
+    "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "harp", "strings"],
+    "movements": []
+  },
+  {
+    "composerId": "franz-liszt",
+    "workId": "",
+    "title": { "preferred": "Études d'exécution transcendante" },
+    "identifiers": [
+      {"catalog":"s","value":"139","display":"S. 139","primary":true}
+    ],
+    "genre": "Etude",
+    "key": ["C Major", "A Minor", "F Major", "D Minor", "B-Flat Major", "G Minor", "E-Flat Major", "C Minor", "A-Flat Major", "F Minor", "D-Flat Major", "B-Flat Minor"],
+    "medium": ["piano"],
+    "movements": [
+      { "title": "No. 1 in C Major 'Preludio'", "key": ["C Major"] },
+      { "title": "No. 2 in A Minor 'Fusees'", "key": ["A Minor"] },
+      { "title": "No. 3 in F Major 'Paysage'", "key": ["F Major"] },
+      { "title": "No. 4 in D Minor 'Mazeppa'", "key": ["D Minor"] },
+      { "title": "No. 5 in B-Flat Major 'Feux follets'", "key": ["B-Flat Major"] },
+      { "title": "No. 6 in G Minor 'Vision'", "key": ["G Minor"] },
+      { "title": "No. 7 in E-Flat Major 'Eroica'", "key": ["E-Flat Major"] },
+      { "title": "No. 8 in C Minor 'Wilde Jagd'", "key": ["C Minor"] },
+      { "title": "No. 9 in A-Flat Major 'Ricordanza'", "key": ["A-Flat Major"] },
+      { "title": "No. 10 in F Minor 'Appassionata'", "key": ["F Minor"] },
+      { "title": "No. 11 in D-Flat Major 'Harmonies du soir'", "key": ["D-Flat Major"] },
+      { "title": "No. 12 in B-Flat Minor 'Chasse-neige'", "key": ["B-Flat Minor"] }
+    ]
+  },
+  {
+    "composerId": "franz-liszt",
+    "workId": "",
+    "title": { "preferred": "2 Konzertetüden" },
+    "identifiers": [
+      {"catalog":"s","value":"145","display":"S. 145","primary":true}
+    ],
+    "genre": "Etude",
+    "key": ["D-Flat Major", "F-Sharp Minor"],
+    "medium": ["piano"],
+    "movements": [
+      { "title": "No. 1 'Waldesrauschen'", "key": ["D-Flat Major"] },
+      { "title": "No. 2 'Gnomenreigen'", "key": ["F-Sharp Minor"] }
+    ]
+  },
+  {
+    "composerId": "franz-liszt",
+    "workId": "",
+    "title": { "preferred": "Mephisto Waltz No. 1" },
+    "identifiers": [
+      {"catalog":"s","value":"514","display":"S. 514","primary":true}
+    ],
+    "genre": "Waltz",
+    "key": ["A Major"],
+    "medium": ["piano"],
+    "movements": []
+  },
+  {
+    "composerId": "anton-bruckner",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 1 in C Minor" },
+    "identifiers": [
+      {"catalog":"wab","value":"101","display":"WAB 101","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Minor", "A-Flat Major", "G Minor", "G Major", "C Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegro", "key": ["C Minor"] },
+      { "title": "II. Adagio", "key": ["A-Flat Major"] },
+      { "title": "III. Scherzo. Schnell - Trio. Langsamer", "key": ["G Minor", "G Major"] },
+      { "title": "IV. Finale. Bewegt, feurig", "key": ["C Minor", "C Major"] }
+    ]
+  },
+  {
+    "composerId": "anton-bruckner",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 2 in C Minor (1872 Version)" },
+    "identifiers": [
+      {"catalog":"wab","value":"102","display":"WAB 102","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Minor", "A-Flat Major", "C Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegro. Ziemlich schnell", "key": ["C Minor"] },
+      { "title": "II. Scherzo. Schnell - Trio. Gleiches Tempo", "key": ["C Minor"] },
+      { "title": "III. Adagio. Feierlich, etwas bewegt", "key": ["A-Flat Major"] },
+      { "title": "IV. Finale. Mehr schnell", "key": ["C Minor", "C Major"] }
+    ]
+  },
+  {
+    "composerId": "anton-bruckner",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 2 in C Minor (1877 Version)" },
+    "identifiers": [
+      {"catalog":"wab","value":"102","display":"WAB 102","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Minor", "A-Flat Major", "C Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Moderato", "key": ["C Minor"] },
+      { "title": "II. Andante. Feierlich, etwas bewegt", "key": ["A-Flat Major"] },
+      { "title": "III. Scherzo. Mäßig schnell - Trio. Gleiches Tempo", "key": ["C Minor"] },
+      { "title": "IV. Finale. Mehr schnell", "key": ["C Minor", "C Major"] }
+    ]
+  },
+  {
+    "composerId": "anton-bruckner",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 3 in D Minor (1873 Version)" },
+    "identifiers": [
+      {"catalog":"wab","value":"103","display":"WAB 103","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Minor", "E-Flat Major", "D Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Gemäßigt, misterioso", "key": ["D Minor"] },
+      { "title": "II. Adagio. Feierlich", "key": ["E-Flat Major"] },
+      { "title": "III. Scherzo. Ziemlich schnell - Trio. Gleiches Zeitmaß", "key": ["D Minor", "D Major"] },
+      { "title": "IV. Finale. Allegro", "key": ["D Minor", "D Major"] }
+    ]
+  },
+  {
+    "composerId": "anton-bruckner",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 3 in D Minor (1877 Version)" },
+    "identifiers": [
+      {"catalog":"wab","value":"103","display":"WAB 103","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Minor", "E-Flat Major", "D Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Gemäßigt, mehr bewegt, misterioso", "key": ["D Minor"] },
+      { "title": "II. Adagio. Bewegt, quasi Andante", "key": ["E-Flat Major"] },
+      { "title": "III. Scherzo. Ziemlich schnell - Trio", "key": ["D Minor", "D Major"] },
+      { "title": "IV. Finale. Allegro", "key": ["D Minor", "D Major"] }
+    ]
+  },
+  {
+    "composerId": "anton-bruckner",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 3 in D Minor (1889 Version)" },
+    "identifiers": [
+      {"catalog":"wab","value":"103","display":"WAB 103","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Minor", "E-Flat Major", "D Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Mehr langsam, misterioso", "key": ["D Minor"] },
+      { "title": "II. Adagio. bewegt, quasi Andante", "key": ["E-Flat Major"] },
+      { "title": "III. Scherzo. Ziemlich schnell - Trio", "key": ["D Minor", "D Major"] },
+      { "title": "IV. Finale. Allegro", "key": ["D Minor", "D Major"] }
+    ]
+  },
+  {
+    "composerId": "anton-bruckner",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 4 in E-Flat Major (1874 Version)", "alias": "Romantic" },
+    "identifiers": [
+      {"catalog":"wab","value":"104","display":"WAB 104","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E-Flat Major", "C Minor", "C Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Ruhig bewegt. Allegro molto moderato", "key": ["E-Flat Major"] },
+      { "title": "II. Andante", "key": ["C Minor"] },
+      { "title": "III. Scherzo. Bewegt - Trio. Gemächlich", "key": ["E-Flat Minor", "C Major"] },
+      { "title": "IV. Finale. Mäßig bewegt", "key": ["E-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "anton-bruckner",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 4 in E-Flat Major (1878 Version)", "alias": "Romantic" },
+    "identifiers": [
+      {"catalog":"wab","value":"104","display":"WAB 104","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E-Flat Major", "C Minor", "C Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Bewegt, nicht zu schnell", "key": ["E-Flat Major"] },
+      { "title": "II. Andante quasi allegretto", "key": ["C Minor"] },
+      { "title": "III. Scherzo. Bewegt - Trio. Nicht zu schnell", "key": ["E-Flat Major", "C Major"] },
+      { "title": "IV. Finale. Bewegt, doch nicht zu schnell", "key": ["E-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "anton-bruckner",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 4 in E-Flat Major (1888 Version)", "alias": "Romantic" },
+    "identifiers": [
+      {"catalog":"wab","value":"104","display":"WAB 104","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E-Flat Major", "C Minor", "C Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Bewegt, nicht zu schnell", "key": ["E-Flat Major"] },
+      { "title": "II. Andante", "key": ["C Minor"] },
+      { "title": "III. Scherzo. Bewegt - Trio. Nicht zu schnell", "key": ["E-Flat Major", "C Major"] },
+      { "title": "IV. Finale. Mäßig bewegt", "key": ["E-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "anton-bruckner",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 5 in B-Flat Major" },
+    "identifiers": [
+      {"catalog":"wab","value":"105","display":"WAB 105","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["B-Flat Major", "D Minor"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Introduktion. Adagio - Allegro", "key": ["B-Flat Major"] },
+      { "title": "II. Adagio. Sehr langsam", "key": ["D Minor"] },
+      { "title": "III. Scherzo. Molto vivace - Trio. Im gleichen Tempo", "key": ["D Minor"] },
+      { "title": "IV. Finale. Adagio - Allegro moderato", "key": ["B-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "anton-bruckner",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 6 in A Major" },
+    "identifiers": [
+      {"catalog":"wab","value":"106","display":"WAB 106","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["A Major", "F Major", "A Minor", "C Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Maestoso", "key": ["A Major"] },
+      { "title": "II. Adagio. Sehr feierlich", "key": ["F Major"] },
+      { "title": "III. Scherzo. Nicht schnell - Trio. Langsam", "key": ["A Minor", "C Major"] },
+      { "title": "IV. Finale. Bewegt, doch nicht zu schnell", "key": ["A Minor", "A Major"] }
+    ]
+  },
+  {
+    "composerId": "anton-bruckner",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 7 in E Major" },
+    "identifiers": [
+      {"catalog":"wab","value":"107","display":"WAB 107","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E Major", "C-Sharp Minor", "A Minor", "F Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "wagner_tuba", "trumpet", "trombone", "tuba", "timpani", "percussion", "strings"],
+    "movements": [
+      { "title": "I. Allegro moderato", "key": ["E Major"] },
+      { "title": "II. Adagio. Sehr feierlich und sehr langsam", "key": ["C-Sharp Minor"] },
+      { "title": "III. Scherzo. Sehr schnell - Trio. Etwas langsamer", "key": ["A Minor", "F Major"] },
+      { "title": "IV. Finale. Bewegt, doch nicht schnell", "key": ["E Major"] }
+    ]
+  },
+  {
+    "composerId": "anton-bruckner",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 8 in C Minor (1887 Version)" },
+    "identifiers": [
+      {"catalog":"wab","value":"108","display":"WAB 108","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Minor", "A-Flat Major", "D-Flat Major", "C Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "wagner_tuba", "trumpet", "trombone", "tuba", "timpani", "percussion", "harp", "strings"],
+    "movements": [
+      { "title": "I. Allegro moderato", "key": ["C Minor"] },
+      { "title": "II. Scherzo. Allegro moderato - Trio. Langsam", "key": ["C Minor", "A-Flat Major"] },
+      { "title": "III. Adagio. Feierlich langsam, doch nicht schleppend", "key": ["D-Flat Major"] },
+      { "title": "IV. Finale. Feierlich, nicht schnell", "key": ["C Minor", "C Major"] }
+    ]
+  },
+  {
+    "composerId": "anton-bruckner",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 8 in C Minor (1890 Version)" },
+    "identifiers": [
+      {"catalog":"wab","value":"108","display":"WAB 108","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Minor", "A-Flat Major", "D-Flat Major", "C Major"],
+    "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "contrabassoon", "horn", "wagner_tuba", "trumpet", "trombone", "tuba", "timpani", "percussion", "harp", "strings"],
+    "movements": [
+      { "title": "I. Allegro moderato", "key": ["C Minor"] },
+      { "title": "II. Scherzo. Allegro moderato - Trio. Langsam", "key": ["C Minor", "A-Flat Major"] },
+      { "title": "III. Adagio. Feierlich langsam, doch nicht schleppend", "key": ["D-Flat Major"] },
+      { "title": "IV. Finale. Feierlich, nicht schnell", "key": ["C Minor", "C Major"] }
+    ]
+  },
+  {
+    "composerId": "anton-bruckner",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 9 in D Minor" },
+    "identifiers": [
+      {"catalog":"wab","value":"109","display":"WAB 109","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Minor", "F-Sharp Major", "E Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "wagner_tuba", "trumpet", "trombone", "tuba", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Feierlich, misterioso", "key": ["D Minor"] },
+      { "title": "II. Scherzo. Bewegt, lebhaft - Trio. Schnell", "key": ["D Minor", "F-Sharp Major"] },
+      { "title": "III. Adagio. Langsam, feierlich", "key": ["E Major"] }
+    ]
+  },
+  {
+    "composerId": "johannes-brahms",
+    "workId": "",
+    "title": { "preferred": "Variations on a theme by Haydn", "alias": "St. Anthony Variations" },
+    "identifiers": [
+      {"catalog":"op","value":"56a","display":"Op. 56a","primary":true}
+    ],
+    "genre": "Variations",
+    "key": ["B-Flat Major"],
+    "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "timpani", "triangle", "strings"],
+    "movements": [
+      { "title": "Theme. Chorale St. Antoni. Andante" },
+      { "title": "Variation I. Poco più animato" },
+      { "title": "Variation II. Più vivace" },
+      { "title": "Variation III. Con moto" },
+      { "title": "Variation IV. Andante con moto" },
+      { "title": "Variation V. Vivace" },
+      { "title": "Variation VI. Vivace" },
+      { "title": "Variation VII. Grazioso" },
+      { "title": "Variation VIII. Presto non troppo" },
+      { "title": "Finale. Andante" }
+    ]
+  },
+  {
+    "composerId": "johannes-brahms",
+    "workId": "",
+    "title": { "preferred": "Variations on a theme by Haydn", "alias": "St. Anthony Variations" },
+    "identifiers": [
+      {"catalog":"op","value":"56b","display":"Op. 56b","primary":true}
+    ],
+    "genre": "Variations",
+    "key": ["B-Flat Major"],
+    "medium": ["piano"],
+    "movements": [
+      { "title": "Theme. Chorale St. Antoni. Andante" },
+      { "title": "Variation I. Poco più animato" },
+      { "title": "Variation II. Più vivace" },
+      { "title": "Variation III. Con moto" },
+      { "title": "Variation IV. Andante con moto" },
+      { "title": "Variation V. Vivace" },
+      { "title": "Variation VI. Vivace" },
+      { "title": "Variation VII. Grazioso" },
+      { "title": "Variation VIII. Presto non troppo" },
+      { "title": "Finale. Andante" }
+    ]
+  },
+  {
+    "composerId": "johannes-brahms",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 1 in C Minor" },
+    "identifiers": [
+      {"catalog":"op","value":"68","display":"Op. 68","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Minor", "E Major", "A-Flat Major", "C Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Un poco sostenuto - Allegro", "key": ["C Minor"] },
+      { "title": "II. Andante sostenuto", "key": ["E Major"] },
+      { "title": "III. Un poco allegretto e grazioso", "key": ["A-Flat Major"] },
+      { "title": "IV. Adagio - Più andante - Allegro non troppo, ma con brio - Più Allegro", "key": ["C Minor", "C Major"] }
+    ]
+  },
+  {
+    "composerId": "johannes-brahms",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 2 in D Major" },
+    "identifiers": [
+      {"catalog":"op","value":"73","display":"Op. 73","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "B Major", "G Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegro non troppo", "key": ["D Major"] },
+      { "title": "II. Adagio non troppo", "key": ["B Major"] },
+      { "title": "III. Allegretto grazioso. Quasi andantino", "key": ["G Major"] },
+      { "title": "IV. Allegro con spirito", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "johannes-brahms",
+    "workId": "",
+    "title": { "preferred": "Akademische Festouvertüre" },
+    "identifiers": [
+      {"catalog":"op","value":"80","display":"Op. 80","primary":true}
+    ],
+    "genre": "Overture",
+    "key": ["C Minor", "C Major", "G Major"],
+    "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "strings"],
+    "movements": []
+  },
+  {
+    "composerId": "johannes-brahms",
+    "workId": "",
+    "title": { "preferred": "Tragische Ouvertüre" },
+    "identifiers": [
+      {"catalog":"op","value":"81","display":"Op. 81","primary":true}
+    ],
+    "genre": "Overture",
+    "key": ["D Minor"],
+    "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "strings"],
+    "movements": []
+  },
+  {
+    "composerId": "johannes-brahms",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 3 in F Major" },
+    "identifiers": [
+      {"catalog":"op","value":"90","display":"Op. 90","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["F Major", "C Major", "C Minor", "F Minor"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegro con brio", "key": ["F Major"] },
+      { "title": "II. Andante", "key": ["C Major"] },
+      { "title": "III. Poco Allegretto", "key": ["C Minor"] },
+      { "title": "IV. Allegro", "key": ["F Minor", "F Major"] }
+    ]
+  },
+  {
+    "composerId": "johannes-brahms",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 4 in E Minor" },
+    "identifiers": [
+      {"catalog":"op","value":"98","display":"Op. 98","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E Minor", "E Major", "C Major"],
+    "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "timpani", "triangle", "strings"],
+    "movements": [
+      { "title": "I. Allegro non troppo", "key": ["E Minor"], "medium": ["flute", "oboe", "clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "II. Andante moderato", "key": ["E Major"], "medium": ["flute", "oboe", "clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "III. Allegro giocoso", "key": ["C Major"], "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "timpani", "triangle", "strings"] },
+      { "title": "IV. Allegro energico e passionato - Più allegro", "key": ["E Minor"], "medium": ["flute", "oboe", "clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "timpani", "strings"] }
+    ]
+  },
+  {
+    "composerId": "max-christian-friedrich-bruch",
+    "workId": "",
+    "title": { "preferred": "Violin Concerto No. 1 in G Minor" },
+    "identifiers": [
+      {"catalog":"op","value":"26","display":"Op. 26","primary":true}
+    ],
+    "genre": "Concerto",
+    "key": ["G Minor", "E-Flat Major", "G Major"],
+    "medium": ["violin", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Vorspiel. Allegro moderato", "key": ["G Minor"], "medium": ["violin", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "II. Adagio", "key": ["E-Flat Major"], "medium": ["violin", "flute", "oboe", "clarinet", "bassoon", "horn", "strings"] },
+      { "title": "III. Finale. Allegro energico", "key": ["G Major"], "medium": ["violin", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] }
+    ]
+  },
+  {
+    "composerId": "pyotr-ilyich-tchaikovsky",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 1 in G Minor", "alias": "Winter Daydreams" },
+    "identifiers": [
+      {"catalog":"th","value":"24","display":"TH 24","primary":true},
+      {"catalog":"op","value":"13","display":"Op. 13","primary":false}
+    ],
+    "genre": "Symphony",
+    "key": ["G Minor", "E-Flat Major", "C Minor", "G Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Dreams of a Winter Journey. Allegro tranquillo", "key": ["G Minor"] },
+      { "title": "II. Land of Desolation, Land of Mists. Andante cantabile ma non tanto", "key": ["E-Flat Major"] },
+      { "title": "III. Scherzo. Allegro scherzando giocoso", "key": ["C Minor"] },
+      { "title": "IV. Finale. Andante lugubre - Allegro moderato - Allegro maestoso - Allegro vivo", "key": ["G Minor", "G Major"] }
+    ]
+  },
+  {
+    "composerId": "pyotr-ilyich-tchaikovsky",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 2 in C Minor", "alias": "Little Russian" },
+    "identifiers": [
+      {"catalog":"th","value":"25","display":"TH 25","primary":true},
+      {"catalog":"op","value":"17","display":"Op. 17","primary":false}
+    ],
+    "genre": "Symphony",
+    "key": ["C Minor", "E-Flat Major", "C Major"],
+    "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "strings"],
+    "movements": [
+      { "title": "I. Andante sostenuto - Allegro vivo", "key": ["C Minor"] },
+      { "title": "II. Andantino marziale, quasi moderato", "key": ["E-Flat Major"] },
+      { "title": "III. Scherzo. Allegro molto vivace - Trio", "key": ["C Minor"] },
+      { "title": "IV. Finale. Moderato assai - Allegro vivo - Presto", "key": ["C Major"] }
+    ]
+  },
+  {
+    "composerId": "pyotr-ilyich-tchaikovsky",
+    "workId": "",
+    "title": { "preferred": "Piano Concerto No. 1 in B-Flat Minor" },
+    "identifiers": [
+      {"catalog":"th","value":"55","display":"TH 55","primary":true},
+      {"catalog":"op","value":"23","display":"Op. 23","primary":false}
+    ],
+    "genre": "Concerto",
+    "key": ["B-Flat Minor", "D-Flat Major", "B-Flat Major"],
+    "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegro non troppo e molto maestoso - Allegro con spirito", "key": ["B-Flat Minor"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"] },
+      { "title": "II. Andantino semplice - Prestissimo - Tempo I", "key": ["D-Flat Major"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "strings"] },
+      { "title": "III. Allegro con fuoco", "key": ["B-Flat Minor", "B-Flat Major"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"] }
+    ]
+  },
+  {
+    "composerId": "pyotr-ilyich-tchaikovsky",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 3 in D Major", "alias": "Polish" },
+    "identifiers": [
+      {"catalog":"th","value":"26","display":"TH 26","primary":true},
+      {"catalog":"op","value":"29","display":"Op. 29","primary":false}
+    ],
+    "genre": "Symphony",
+    "key": ["D Minor", "D Major", "B-Flat Major", "B Minor"],
+    "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Introduzione e Allegro. Moderato assai, tempo di marcia funebre", "key": ["D Minor", "D Major"] },
+      { "title": "II. Alla tedesca. Allegro moderato e semplice", "key": ["B-Flat Major"] },
+      { "title": "III. Andante. Andante elegiaco", "key": ["D Minor", "D Major"] },
+      { "title": "IV. Scherzo. Allegro vivo", "key": ["B Minor"] },
+      { "title": "V. Finale. Allegro con fuoco, tempo di polacca", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "pyotr-ilyich-tchaikovsky",
+    "workId": "",
+    "title": { "preferred": "Violin Concerto in D Major" },
+    "identifiers": [
+      {"catalog":"th","value":"59","display":"TH 59","primary":true},
+      {"catalog":"op","value":"35","display":"Op. 35","primary":false}
+    ],
+    "genre": "Concerto",
+    "key": ["D Major", "G Minor"],
+    "medium": ["violin", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegro moderato", "key": ["D Major"], "medium": ["violin", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] },
+      { "title": "II. Canzonetta. Andante", "key": ["G Minor"], "medium": ["violin", "flute", "oboe", "clarinet", "bassoon", "horn", "strings"] },
+      { "title": "III. Finale. Allegro vivacissimo", "key": ["D Major"], "medium": ["violin", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "timpani", "strings"] }
+    ]
+  },
+  {
+    "composerId": "pyotr-ilyich-tchaikovsky",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 4 in F Minor" },
+    "identifiers": [
+      {"catalog":"th","value":"27","display":"TH 27","primary":true},
+      {"catalog":"op","value":"36","display":"Op. 36","primary":false}
+    ],
+    "genre": "Symphony",
+    "key": ["F Minor", "B-Flat Minor", "A-Flat Major", "F Major"],
+    "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "strings"],
+    "movements": [
+      { "title": "I. Andante sostenuto - Moderato con anima", "key": ["F Minor"] },
+      { "title": "II. Andantino in modo di canzone", "key": ["B-Flat Minor", "A-Flat Major"] },
+      { "title": "III. Scherzo. Pizzicato ostinato - Allegro", "key": ["F Major"] },
+      { "title": "IV. Finale. Allegro con fuoco", "key": ["F Major"] }
+    ]
+  },
+  {
+    "composerId": "pyotr-ilyich-tchaikovsky",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 5 in E Minor" },
+    "identifiers": [
+      {"catalog":"th","value":"29","display":"TH 29","primary":true},
+      {"catalog":"op","value":"64","display":"Op. 64","primary":false}
+    ],
+    "genre": "Symphony",
+    "key": ["E Minor", "D Major", "A Major", "E Major"],
+    "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Andante - Allegro con anima", "key": ["E Minor"] },
+      { "title": "II. Andante cantabile con alcuna licenza - Moderato con anima", "key": ["D Major"] },
+      { "title": "III. Valse. Allegro moderato", "key": ["A Major"] },
+      { "title": "IV. Finale. Andante maestoso - Allegro vivace", "key": ["E Major"] }
+    ]
+  },
+  {
+    "composerId": "pyotr-ilyich-tchaikovsky",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 6 in B Minor", "alias": "Pathétique" },
+    "identifiers": [
+      {"catalog":"th","value":"30","display":"TH 30","primary":true},
+      {"catalog":"op","value":"74","display":"Op. 74","primary":false}
+    ],
+    "genre": "Symphony",
+    "key": ["B Minor", "D Major", "G Major"],
+    "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "strings"],
+    "movements": [
+      { "title": "I. Adagio - Allegro non troppo", "key": ["B Minor"] },
+      { "title": "II. Allegro con gracia", "key": ["D Major"] },
+      { "title": "III. Allegro molto vivace", "key": ["G Major"] },
+      { "title": "IV. Finale. Adagio lamentoso - Andante", "key": ["B Minor"] }
+    ]
+  },
+  {
+    "composerId": "edvard-grieg",
+    "workId": "",
+    "title": { "preferred": "Peer Gynt Suite No. 1" },
+    "identifiers": [
+      {"catalog":"op","value":"46","display":"Op. 46","primary":true}
+    ],
+    "genre": "Suite",
+    "key": ["E Major", "B Minor", "A Minor"],
+    "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "strings"],
+    "movements": [
+      { "title": "I. Morning Mood", "key": ["E Major"], "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "strings"] },
+      { "title": "II. The Death of Åse", "key": ["B Minor"], "medium": ["strings"] },
+      { "title": "III. Anitra's Dance", "key": ["A Minor"], "medium": ["strings", "triangle"] },
+      { "title": "IV. In the Hall of the Mountain King", "key": ["B Minor"], "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "strings"] }
+    ]
+  },
+  {
+    "composerId": "edvard-grieg",
+    "workId": "",
+    "title": { "preferred": "Peer Gynt Suite No. 2" },
+    "identifiers": [
+      {"catalog":"op","value":"55","display":"Op. 55","primary":true}
+    ],
+    "genre": "Suite",
+    "key": ["G Minor", "C Major", "F-Sharp Minor", "A Minor"],
+    "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "harp", "strings"],
+    "movements": [
+      { "title": "I. The Abduction of the Bride", "key": ["G Minor"] },
+      { "title": "II. Arabian Dance", "key": ["C Major"] },
+      { "title": "III. Peer Gynt's Homecoming", "key": ["F-Sharp Minor"] },
+      { "title": "IV. Solveig's Song", "key": ["A Minor"] }
+    ]
+  },
+  {
+    "composerId": "gustav-mahler",
+    "workId": "",
+    "title": { "preferred": "Lieder und Gesänge aus der Jugendzeit" },
+    "identifiers": [
+      { "catalog":"gmw", "value":"5", "display":"GMW 5", "primary":false },
+      { "catalog":"gmw", "value":"6", "display":"GMW 6", "primary":false },
+      { "catalog":"gmw", "value":"7", "display":"GMW 7", "primary":false },
+      { "catalog":"gmw", "value":"8", "display":"GMW 8", "primary":false },
+      { "catalog":"gmw", "value":"9", "display":"GMW 9", "primary":false },
+      { "catalog":"gmw", "value":"12", "display":"GMW 12", "primary":false },
+      { "catalog":"gmw", "value":"13", "display":"GMW 13", "primary":false },
+      { "catalog":"gmw", "value":"14", "display":"GMW 14", "primary":false },
+      { "catalog":"gmw", "value":"15", "display":"GMW 15", "primary":false },
+      { "catalog":"gmw", "value":"16", "display":"GMW 16", "primary":false },
+      { "catalog":"gmw", "value":"17", "display":"GMW 17", "primary":false },
+      { "catalog":"gmw", "value":"18", "display":"GMW 18", "primary":false },
+      { "catalog":"gmw", "value":"19", "display":"GMW 19", "primary":false },
+      { "catalog":"gmw", "value":"20", "display":"GMW 20", "primary":false }
+    ],
+    "genre": "Art Song",
+    "key": ["F Major", "G Minor", "D-Flat Major", "B Minor", "E Major", "D Major", "E-Flat Major", "B-Flat Major", "C-Sharp Minor", "C Minor"],
+    "medium": ["voice", "piano"],
+    "movements": [
+      { "title": "Heft I: Frühlingsmorgen", "identifiers": [{ "catalog":"gmw", "value":"6", "display":"GMW 6", "primary":false }], "key": ["F Major"] },
+      { "title": "Heft I: Erinnerung", "identifiers": [{ "catalog":"gmw", "value":"7", "display":"GMW 7", "primary":false }], "key": ["G Minor"] },
+      { "title": "Heft I: Hans und Grete", "identifiers": [{ "catalog":"gmw", "value":"5", "display":"GMW 5", "primary":false }], "key": ["F Major"] },
+      { "title": "Heft I: Serenade aus 'Don Juan'", "identifiers": [{ "catalog":"gmw", "value":"8", "display":"GMW 8", "primary":false }], "key": ["D-Flat Major"] },
+      { "title": "Heft I: Phantasie aus 'Don Juan'", "identifiers": [{ "catalog":"gmw", "value":"9", "display":"GMW 9", "primary":false }], "key": ["B Minor"] },
+      { "title": "Heft II: Um schlimme Kinder artig zu machen", "identifiers": [{ "catalog":"gmw", "value":"12", "display":"GMW 12", "primary":false }], "key": ["E Major"] },
+      { "title": "Heft II: Ich ging mit Lust durch einen grünen Wald", "identifiers": [{ "catalog":"gmw", "value":"13", "display":"GMW 13", "primary":false }], "key": ["D Major"] },
+      { "title": "Heft II: Aus! Aus!", "identifiers": [{ "catalog":"gmw", "value":"14", "display":"GMW 14", "primary":false }], "key": ["E-Flat Major"] },
+      { "title": "Heft II: Starke Einbildungskraft", "identifiers": [{ "catalog":"gmw", "value":"15", "display":"GMW 15", "primary":false }], "key": ["B-Flat Major"] },
+      { "title": "Heft III: Zu Strassburg auf der Schanz", "identifiers": [{ "catalog":"gmw", "value":"16", "display":"GMW 16", "primary":false }], "key": ["G Minor"] },
+      { "title": "Heft III: Ablösung im Sommer", "identifiers": [{ "catalog":"gmw", "value":"17", "display":"GMW 17", "primary":false }], "key": ["C-Sharp Minor"] },
+      { "title": "Heft III: Scheiden und Meiden", "identifiers": [{ "catalog":"gmw", "value":"18", "display":"GMW 18", "primary":false }], "key": ["F Major"] },
+      { "title": "Heft III: Nicht Wiedersehen!", "identifiers": [{ "catalog":"gmw", "value":"19", "display":"GMW 19", "primary":false }], "key": ["C Minor"] },
+      { "title": "Heft III: Selbstgefühl", "identifiers": [{ "catalog":"gmw", "value":"20", "display":"GMW 20", "primary":false }], "key": ["F Major"] }
+    ]
+  },
+  {
+    "composerId": "gustav-mahler",
+    "workId": "",
+    "title": { "preferred": "Lieder eines fahrenden Gesellen" },
+    "identifiers": [
+      {"catalog":"gmw","value":"10","display":"GMW 10","primary":false}
+    ],
+    "genre": "Art Song",
+    "key": ["D Minor", "D Major", "E Minor"],
+    "medium": ["voice", "piano"],
+    "movements": [
+      { "title": "I. Wenn mein Schatz Hochzeit macht", "key": ["D Minor"] },
+      { "title": "II. Ging heut' Morgen übers Feld", "key": ["D Major"] },
+      { "title": "III. Ich hab' ein glühend Messer", "key": ["D Minor"] },
+      { "title": "IV. Die zwei blauen Augen von meinem Schatz", "key": ["E Minor"] }
+    ]
+  },
+  {
+    "composerId": "gustav-mahler",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 1 in D Major", "alias": "Titan" },
+    "identifiers": [
+      {"catalog":"gmw","value":"11","display":"GMW 11","primary":false}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "A Major", "D Minor", "F Minor"],
+    "medium": ["piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "harp", "strings"],
+    "movements": [
+      { "title": "I. Langsam. Schleppend", "key": ["D Major"] },
+      { "title": "II. Kräftig bewegt, doch nicht zu schnell", "key": ["A Major"] },
+      { "title": "III. Feierlich und gemessen, ohne zu schleppen", "key": ["D Minor"] },
+      { "title": "IV. Stürmisch bewegt", "key": ["F Minor", "D Major"] }
+    ]
+  },
+  {
+    "composerId": "gustav-mahler",
+    "workId": "",
+    "title": { "preferred": "Des Knaben Wunderhorn" },
+    "identifiers": [
+      { "catalog":"gmw", "value":"21", "display":"GMW 21", "primary":false },
+      { "catalog":"gmw", "value":"22", "display":"GMW 22", "primary":false },
+      { "catalog":"gmw", "value":"23", "display":"GMW 23", "primary":false },
+      { "catalog":"gmw", "value":"24", "display":"GMW 24", "primary":false },
+      { "catalog":"gmw", "value":"25", "display":"GMW 25", "primary":false },
+      { "catalog":"gmw", "value":"26", "display":"GMW 26", "primary":false },
+      { "catalog":"gmw", "value":"27", "display":"GMW 27", "primary":false },
+      { "catalog":"gmw", "value":"28", "display":"GMW 28", "primary":false },
+      { "catalog":"gmw", "value":"29", "display":"GMW 29", "primary":false },
+      { "catalog":"gmw", "value":"30", "display":"GMW 30", "primary":false },
+      { "catalog":"gmw", "value":"32", "display":"GMW 32", "primary":false },
+      { "catalog":"gmw", "value":"33", "display":"GMW 33", "primary":false },
+      { "catalog":"gmw", "value":"35", "display":"GMW 35", "primary":false },
+      { "catalog":"gmw", "value":"36", "display":"GMW 36", "primary":false },
+      { "catalog":"gmw", "value":"38", "display":"GMW 38", "primary":false }
+    ],
+    "genre": "Art Song",
+    "medium": ["voice", "piano"],
+    "movements": [
+      { "title": "Der Schildwache Nachtlied", "identifiers": [{ "catalog":"gmw", "value":"21", "display":"GMW 21", "primary":false }] },
+      { "title": "Verlor'ne Müh'", "identifiers": [{ "catalog":"gmw", "value":"22", "display":"GMW 22", "primary":false }] },
+      { "title": "Trost im Unglück", "identifiers": [{ "catalog":"gmw", "value":"23", "display":"GMW 23", "primary":false }] },
+      { "title": "Wer hat dies Liedlein erdacht?", "identifiers": [{ "catalog":"gmw", "value":"24", "display":"GMW 24", "primary":false }] },
+      { "title": "Das irdische Leben", "identifiers": [{ "catalog":"gmw", "value":"25", "display":"GMW 25", "primary":false }] },
+      { "title": "Des Antonius von Padua Fischpredigt", "identifiers": [{ "catalog":"gmw", "value":"26", "display":"GMW 26", "primary":false }] },
+      { "title": "Rheinlegendchen", "identifiers": [{ "catalog":"gmw", "value":"27", "display":"GMW 27", "primary":false }] },
+      { "title": "Lied des Verfolgten im Turm", "identifiers": [{ "catalog":"gmw", "value":"28", "display":"GMW 28", "primary":false }] },
+      { "title": "Wo die schönen Trompeten blasen", "identifiers": [{ "catalog":"gmw", "value":"29", "display":"GMW 29", "primary":false }] },
+      { "title": "Revelge", "identifiers": [{ "catalog":"gmw", "value":"30", "display":"GMW 30", "primary":false }] },
+      { "title": "Lied des Sagers", "identifiers": [{ "catalog":"gmw", "value":"32", "display":"GMW 32", "primary":false }] },
+      { "title": "Lob des hohen Verstandes", "identifiers": [{ "catalog":"gmw", "value":"33", "display":"GMW 33", "primary":false }] },
+      { "title": "Urlicht", "identifiers": [{ "catalog":"gmw", "value":"35", "display":"GMW 35", "primary":false }] },
+      { "title": "Es sungen drei Engel", "identifiers": [{ "catalog":"gmw", "value":"36", "display":"GMW 36", "primary":false }] },
+      { "title": "Der Tamboursg'sell", "identifiers": [{ "catalog":"gmw", "value":"38", "display":"GMW 38", "primary":false }] }
+    ]
+  },
+  {
+    "composerId": "gustav-mahler",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 2 in C Minor", "alias": "Resurrection" },
+    "identifiers": [
+      {"catalog":"gmw","value":"30","display":"GMW 30","primary":false}
+    ],
+    "genre": "Symphony",
+    "key": ["C Minor", "A-Flat Major", "D-Flat Major", "E-Flat Major"],
+    "medium": ["soprano", "contralto", "choir", "piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "organ", "harp", "strings"],
+    "movements": [
+      { "title": "I. Allegro maestoso. Mit durchaus ernstem und feierlichem Ausdruck", "key": ["C Minor"], "medium": ["piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "organ", "harp", "strings"] },
+      { "title": "II. Andante moderato. Sehr gemächlich", "key": ["A-Flat Major"], "medium": ["piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "organ", "harp", "strings"] },
+      { "title": "III. Scherzo. In ruhig fliessender Bewegung", "key": ["C Minor"], "medium": ["piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "organ", "harp", "strings"] },
+      { "title": "IV. Urlicht. Sehr feierlich, aber schlicht", "key": ["D-Flat Major"], "medium": ["contralto", "piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "organ", "harp", "strings"] },
+      { "title": "V. Im Tempo des Scherzo. Langsam misterioso", "key": ["C Minor", "E-Flat Major"], "medium": ["soprano", "contralto", "choir", "piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "organ", "harp", "strings"] }
+    ]
+  },
+  {
+    "composerId": "gustav-mahler",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 3 in D Minor" },
+    "identifiers": [
+      {"catalog":"gmw","value":"31","display":"GMW 31","primary":false}
+    ],
+    "genre": "Symphony",
+    "key": ["D Minor", "A Major", "C Minor", "D Major", "F Major"],
+    "medium": ["contralto", "women_choir", "children_choir", "piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "flugelhorn", "trombone", "tuba", "timpani", "percussion", "harp", "strings"],
+    "movements": [
+      { "title": "I. Kräftig. Entschieden", "key": ["D Minor"], "medium": ["piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "flugelhorn", "trombone", "tuba", "timpani", "percussion", "harp", "strings"] },
+      { "title": "II. Tempo di Menuetto. Sehr mäßig", "key": ["A Major"], "medium": ["piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "flugelhorn", "trombone", "tuba", "timpani", "percussion", "harp", "strings"] },
+      { "title": "III. Comodo. Scherzando. Ohne Hast", "key": ["C Minor"], "medium": ["piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "flugelhorn", "trombone", "tuba", "timpani", "percussion", "harp", "strings"] },
+      { "title": "IV. Sehr langsam. Misterioso. Durchaus ppp", "key": ["D Major"], "medium": ["contralto", "piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "flugelhorn", "trombone", "tuba", "timpani", "percussion", "harp", "strings"] },
+      { "title": "V. Lustig im Tempo und keck im Ausdruck", "key": ["F Major"], "medium": ["contralto", "women_choir", "children_choir", "piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "flugelhorn", "trombone", "tuba", "timpani", "percussion", "harp", "strings"] },
+      { "title": "VI. Langsam. Ruhevoll. Empfunden", "key": ["D Major"], "medium": ["piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "flugelhorn", "trombone", "tuba", "timpani", "percussion", "harp", "strings"] }
+    ]
+  },
+  {
+    "composerId": "gustav-mahler",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 4 in G Major" },
+    "identifiers": [
+      {"catalog":"gmw","value":"37","display":"GMW 37","primary":false}
+    ],
+    "genre": "Symphony",
+    "key": ["G Major", "C Minor"],
+    "medium": ["soprano", "piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "timpani", "percussion", "harp", "strings"],
+    "movements": [
+      { "title": "I. Bedächtig. Nicht eilen", "key": ["G Major"], "medium": ["piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "timpani", "percussion", "harp", "strings"] },
+      { "title": "II. In gemächlicher Bewegung, ohne Hast", "key": ["C Minor"], "medium": ["piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "timpani", "percussion", "harp", "strings"] },
+      { "title": "III. Ruhevoll, poco adagio", "key": ["G Major"], "medium": ["piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "timpani", "percussion", "harp", "strings"] },
+      { "title": "IV. Sehr behaglich", "key": ["G Major"], "medium": ["soprano", "piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "timpani", "percussion", "harp", "strings"] }
+    ]
+  },
+  {
+    "composerId": "gustav-mahler",
+    "workId": "",
+    "title": { "preferred": "Rückert-Lieder" },
+    "identifiers": [
+      {"catalog":"gmw","value":"39","display":"GMW 39","primary":false},
+      {"catalog":"gmw","value":"40","display":"GMW 40","primary":false},
+      {"catalog":"gmw","value":"41","display":"GMW 41","primary":false},
+      {"catalog":"gmw","value":"42","display":"GMW 42","primary":false},
+      {"catalog":"gmw","value":"43","display":"GMW 43","primary":false}
+    ],
+    "genre": "Art Song",
+    "key": ["F Major", "D Major", "B Minor", "C Major"],
+    "medium": ["voice", "piano"],
+    "movements": [
+      { "title": "No. 1: Blicke mir nicht in die Lieder", "identifiers": [{ "catalog":"gmw", "value":"39", "display":"GMW 39", "primary":false }], "key": ["F Major"] },
+      { "title": "No. 2: Ich atmet' einen linden Duft", "identifiers": [{ "catalog":"gmw", "value":"40", "display":"GMW 40", "primary":false }], "key": ["D Major"] },
+      { "title": "No. 3: Ich bin der Welt abhanden gekommen", "identifiers": [{ "catalog":"gmw", "value":"41", "display":"GMW 41", "primary":false }], "key": ["F Major"] },
+      { "title": "No. 4: Um Mitternacht", "identifiers": [{ "catalog":"gmw", "value":"42", "display":"GMW 42", "primary":false }], "key": ["B Minor"] },
+      { "title": "No. 5: Liebst du um Schönheit", "identifiers": [{ "catalog":"gmw", "value":"43", "display":"GMW 43", "primary":false }], "key": ["C Major"] }
+    ]
+  },
+  {
+    "composerId": "gustav-mahler",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 5 in C-Sharp Minor" },
+    "identifiers": [
+      {"catalog":"gmw","value":"44","display":"GMW 44","primary":false}
+    ],
+    "genre": "Symphony",
+    "key": ["C-Sharp Minor", "A Minor", "D Major", "F Major"],
+    "medium": ["piccolo", "flute", "oboe", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "harp", "strings"],
+    "movements": [
+      { "title": "I. Trauermarsch. In gemessenem Schritt. Streng. Wie ein Kondukt", "key": ["C-Sharp Minor"] },
+      { "title": "II. Stürmisch bewegt. Mit grösster Vehemenz", "key": ["A Minor"] },
+      { "title": "III. Scherzo. Kräftig, nicht zu schnell", "key": ["D Major"] },
+      { "title": "IV. Adagietto. Sehr langsam", "key": ["F Major"] },
+      { "title": "V. Rondo-Finale. Allegro - Allegro giocoso. Frisch", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "gustav-mahler",
+    "workId": "",
+    "title": { "preferred": "Kindertotenlieder" },
+    "identifiers": [
+      {"catalog":"gmw","value":"45","display":"GMW 45","primary":false}
+    ],
+    "genre": "Art Song",
+    "key": ["D Minor", "C Minor", "E-Flat Major"],
+    "medium": ["voice", "orchestra"],
+    "movements": [
+      { "title": "I. Nun will die Sonn' so hell aufgeh'n", "key": ["D Minor"] },
+      { "title": "II. Nun seh' ich wohl, warum so dunkle Flammen", "key": ["C Minor"] },
+      { "title": "III. Wenn dein Mütterlein, tritt zur Tür herein", "key": ["C Minor"] },
+      { "title": "IV. Oft denk' ich, sie sind nur augesgangen", "key": ["E-Flat Major"] },
+      { "title": "V. In diesem Wetter, in diesem Braus", "key": ["D Minor"] }
+    ]
+  },
+  {
+    "composerId": "gustav-mahler",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 6 in A Minor", "alias": "Tragic" },
+    "identifiers": [
+      {"catalog":"gmw","value":"46","display":"GMW 46","primary":false}
+    ],
+    "genre": "Symphony",
+    "key": ["A Minor", "E-Flat Major", "C Minor"],
+    "medium": ["piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "celesta", "harp", "strings"],
+    "movements": [
+      { "title": "I. Allegro energico, ma non troppo. Heftig, aber markig", "key": ["A Minor"] },
+      { "title": "II. Scherzo. Wuchtig", "key": ["A Minor"] },
+      { "title": "III. Andante moderato", "key": ["E-Flat Major"] },
+      { "title": "IV. Finale. Sostenuto - Allegro moderato - Allegro energico", "key": ["C Minor", "A Minor"] }
+    ]
+  },
+  {
+    "composerId": "gustav-mahler",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 7 in E Minor", "alias": "Song of the Night" },
+    "identifiers": [
+      {"catalog":"gmw","value":"47","display":"GMW 47","primary":false}
+    ],
+    "genre": "Symphony",
+    "key": ["E Minor", "C Major", "D Minor", "F Major"],
+    "medium": ["piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "tenor_horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "harp", "guitar", "mandolin", "strings"],
+    "movements": [
+      { "title": "I. Adagio - Allegro risoluto, ma non troppo", "key": ["E Minor"] },
+      { "title": "II. Nachtmusik I. Allegro moderato", "key": ["C Major"] },
+      { "title": "III. Scherzo. Schattenhaft - Trio", "key": ["D Minor"] },
+      { "title": "IV. Nachtmusik II. Andante amoroso", "key": ["F Major"] },
+      { "title": "V. Rondo-Finale. Allegro ordinario - Allegro moderato ma energico", "key": ["C Major"] }
+    ]
+  },
+  {
+    "composerId": "gustav-mahler",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 8 in E-Flat Major", "alias": "Symphony of a Thousand" },
+    "identifiers": [
+      {"catalog":"gmw","value":"48","display":"GMW 48","primary":false}
+    ],
+    "genre": "Symphony",
+    "key": ["E-Flat Major"],
+    "medium": ["soprano", "alto", "tenor", "baritone", "bass", "choir", "children_choir", "piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "celesta", "piano", "harmonium", "organ", "harp", "mandolin", "strings"],
+    "movements": [
+      { "title": "Pt. I. 'Hymnus' - I. Veni, Creator Spiritus" },
+      { "title": "Pt. I. 'Hymnus' - II. Imple superna gratia" },
+      { "title": "Pt. I. 'Hymnus' - III. Infirma nostri corporis" },
+      { "title": "Pt. I. 'Hymnus' - IV. Accende lumen sensibus" },
+      { "title": "Pt. I. 'Hymnus' - V. Veni, Creator Spiritus" },
+      { "title": "Pt. I. 'Hymnus' - VI. Gloria sit Patri Domino" },
+      { "title": "Pt. II. 'Final Scene from Faust' - I. Poco adagio - Waldung, sie schwankt heran" },
+      { "title": "Pt. II. 'Final Scene from Faust' - II. Ewiger Wonnebrand" },
+      { "title": "Pt. II. 'Final Scene from Faust' - III. Wie Felsenabgrund mir zu Füssen" },
+      { "title": "Pt. II. 'Final Scene from Faust' - IV. Gerettet ist das edle Glied" },
+      { "title": "Pt. II. 'Final Scene from Faust' - V. Uns bleibt ein Erdenrest" },
+      { "title": "Pt. II. 'Final Scene from Faust' - VI. Hier ist die Aussicht frei" },
+      { "title": "Pt. II. 'Final Scene from Faust' - VII. Höchste Herrscherin der Welt!" },
+      { "title": "Pt. II. 'Final Scene from Faust' - VIII. Dir, der Unberührbaren" },
+      { "title": "Pt. II. 'Final Scene from Faust' - IX. Bei der Liebe, die den Füssen" },
+      { "title": "Pt. II. 'Final Scene from Faust' - X. Neige, neige, du Ohnegleiche" },
+      { "title": "Pt. II. 'Final Scene from Faust' - XI. Blicket auf zum Retterblick" },
+      { "title": "Pt. II. 'Final Scene from Faust' - XII. Alles Vergängliche" }
+    ]
+  },
+  {
+    "composerId": "gustav-mahler",
+    "workId": "",
+    "title": { "preferred": "Das Lied von der Erde" },
+    "identifiers": [
+      {"catalog":"gmw","value":"49","display":"GMW 49","primary":false}
+    ],
+    "genre": "Art Song",
+    "key": ["A Minor", "D Minor", "B-Flat Major", "G Major", "A Major", "C Minor", "C Major"],
+    "medium": ["tenor", "piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "celesta", "harp", "mandolin", "strings", "contralto", "piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "celesta", "harp", "mandolin", "strings"],
+    "movements": [
+      { "title": "I. Das Trinklied vom Jammer der Erde", "key": ["A Minor"], "medium": ["tenor", "piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "celesta", "harp", "mandolin", "strings"] },
+      { "title": "II. Der Einsame im Herbst", "key": ["D Minor"], "medium": ["contralto", "piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "celesta", "harp", "mandolin", "strings"] },
+      { "title": "III. Von der Jugend", "key": ["B-Flat Major"], "medium": ["tenor", "piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "celesta", "harp", "mandolin", "strings"] },
+      { "title": "IV. Von der Schönheit", "key": ["G Major"], "medium": ["contralto", "piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "celesta", "harp", "mandolin", "strings"] },
+      { "title": "V. Der Trunkene im Frühling", "key": ["A Major"], "medium": ["tenor", "piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "celesta", "harp", "mandolin", "strings"] },
+      { "title": "VI. Der Abschied", "key": ["C Minor", "C Major"], "medium": ["contralto", "piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "celesta", "harp", "mandolin", "strings"] }
+    ]
+  },
+  {
+    "composerId": "gustav-mahler",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 9 in D Major" },
+    "identifiers": [
+      {"catalog":"gmw","value":"50","display":"GMW 50","primary":false}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "C Major", "A Minor", "D-Flat Major"],
+    "medium": ["piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "harp", "strings"],
+    "movements": [
+      { "title": "I. Andante comodo", "key": ["D Major"] },
+      { "title": "II. Im Tempo eines gemächlichen Ländlers. Etwas täppisch und sehr derb", "key": ["C Major"] },
+      { "title": "III. Rondo-Burleske. Allegro assai. Sehr trotzig", "key": ["A Minor"] },
+      { "title": "IV. Adagio. Sehr langsam und noch zurückhaltend", "key": ["D-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "gustav-mahler",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 10 in F-Sharp Minor" },
+    "identifiers": [
+      {"catalog":"gmw","value":"F58","display":"GMW F58","primary":false}
+    ],
+    "genre": "Symphony",
+    "key": ["F-Sharp Minor", "F-Sharp Major"],
+    "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "harp", "strings"],
+    "movements": [
+      { "title": "I. Adagio" }
+    ]
+  },
+  {
+    "composerId": "claude-debussy",
+    "workId": "",
+    "title": { "preferred": "La mer" },
+    "identifiers": [
+      {"catalog":"cd","value":"111","display":"CD 111","primary":true},
+      {"catalog":"l","value":"109","display":"L. 109","primary":false}
+    ],
+    "genre": "Symphonic Sketches",
+    "key": ["B Minor", "C-Sharp Minor"],
+    "medium": ["piccolo", "flute", "oboe", "english_horn", "clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "cornet", "trombone", "tuba", "timpani", "percussion", "glockenspiel", "harp", "strings"],
+    "movements": [
+      { "title": "I. De l'aube à midi sur la mer", "key": ["B Minor"] },
+      { "title": "II. Jeux de vagues", "key": ["C-Sharp Minor"] },
+      { "title": "III. Dialogue du vent et de la mer", "key": ["C-Sharp Minor"] }
+    ]
+  },
+  {
+    "composerId": "jean-sibelius",
+    "workId": "",
+    "title": { "preferred": "En Saga" },
+    "identifiers": [
+      {"catalog":"op","value":"9","display":"Op. 9","primary":true}
+    ],
+    "genre": "Symphonic Poem",
+    "key": ["E-Flat Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "percussion", "strings"],
+    "movements": []
+  },
+  {
+    "composerId": "jean-sibelius",
+    "workId": "",
+    "title": { "preferred": "Lemminkäinen Suite" },
+    "identifiers": [
+      {"catalog":"op","value":"22","display":"Op. 22","primary":true}
+    ],
+    "genre": "Suite",
+    "key": ["C Major", "G Minor", "D Minor"],
+    "medium": ["piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "harp", "strings"],
+    "movements": [
+      { "title": "I. Lemminkäinen ja saaren neidot", "key": ["C Major"], "medium": ["piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "harp", "strings"] },
+      { "title": "II. Tuonelan joutsen", "key": ["G Minor"], "medium": ["english_horn", "oboe", "bass_clarinet", "bassoon", "horn", "trombone", "timpani", "bass_drum", "harp", "strings"] },
+      { "title": "III. Lemminkäinen Tuonelassa", "key": ["D Minor"], "medium": ["piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "percussion", "strings"] },
+      { "title": "IV. Lemminkäinen palaa kotitienoille", "key": ["C Major"], "medium": ["piccolo", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "strings"] }
+    ]
+  },
+  {
+    "composerId": "jean-sibelius",
+    "workId": "",
+    "title": { "preferred": "Finlandia" },
+    "identifiers": [
+      {"catalog":"op","value":"26","display":"Op. 26","primary":true}
+    ],
+    "genre": "Symphonic Poem",
+    "key": ["A-Flat Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "strings"],
+    "movements": []
+  },
+  {
+    "composerId": "jean-sibelius",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 1 in E Minor" },
+    "identifiers": [
+      {"catalog":"op","value":"39","display":"Op. 39","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E Minor", "E-Flat Major", "C Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "harp", "strings"],
+    "movements": [
+      { "title": "I. Andante ma non troppo - Allegro energico", "key": ["E Minor"] },
+      { "title": "II. Andante", "key": ["E-Flat Major"] },
+      { "title": "III. Scherzo. Allegro", "key": ["C Major"] },
+      { "title": "IV. Finale. Quasi una fantasia", "key": ["E Minor"] }
+    ]
+  },
+  {
+    "composerId": "jean-sibelius",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 2 in D Major" },
+    "identifiers": [
+      {"catalog":"op","value":"43","display":"Op. 43","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Major", "D Minor", "B-Flat Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegretto", "key": ["D Major"] },
+      { "title": "II. Tempo andante, ma rubato", "key": ["D Minor"] },
+      { "title": "III. Vivacissimo - Lento e suave", "key": ["B-Flat Major"] },
+      { "title": "IV. Finale. Allegro moderato", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "jean-sibelius",
+    "workId": "",
+    "title": { "preferred": "Valse triste" },
+    "identifiers": [
+      {"catalog":"op","value":"44/1","display":"Op. 44 No. 1","primary":true}
+    ],
+    "genre": "Incidental Music",
+    "key": ["G Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "timpani", "strings"],
+    "movements": []
+  },
+  {
+    "composerId": "jean-sibelius",
+    "workId": "",
+    "title": { "preferred": "Scene with Cranes" },
+    "identifiers": [
+      {"catalog":"op","value":"44/2","display":"Op. 44 No. 2","primary":true}
+    ],
+    "genre": "Incidental Music",
+    "key": ["F Minor"],
+    "medium": ["strings"],
+    "movements": []
+  },
+  {
+    "composerId": "jean-sibelius",
+    "workId": "",
+    "title": { "preferred": "Violin Concerto in D Minor" },
+    "identifiers": [
+      {"catalog":"op","value":"47","display":"Op. 47","primary":true}
+    ],
+    "genre": "Concerto",
+    "key": ["D Minor", "B-Flat Major", "D Major"],
+    "medium": ["violin", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegro moderato", "key": ["D Minor"] },
+      { "title": "II. Adagio di molto", "key": ["B-Flat Major"] },
+      { "title": "III. Allegro, ma non tanto", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "jean-sibelius",
+    "workId": "",
+    "title": { "preferred": "Pohjola's Daughter" },
+    "identifiers": [
+      {"catalog":"op","value":"49","display":"Op. 49","primary":true}
+    ],
+    "genre": "Symphonic Poem",
+    "key": ["E Major"],
+    "medium": ["piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "cornet", "trumpet", "trombone", "tuba", "timpani", "harp", "strings"],
+    "movements": []
+  },
+  {
+    "composerId": "jean-sibelius",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 3 in C Major" },
+    "identifiers": [
+      {"catalog":"op","value":"52","display":"Op. 52","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Allegro moderato" },
+      { "title": "II. Andantino con moto, quasi allegretto" },
+      { "title": "III. Moderato - Allegro ma non tanto" }
+    ]
+  },
+  {
+    "composerId": "jean-sibelius",
+    "workId": "",
+    "title": { "preferred": "Öinen ratsastus ja auringonnousu" },
+    "identifiers": [
+      {"catalog":"op","value":"55","display":"Op. 55","primary":true}
+    ],
+    "genre": "Symphonic Poem",
+    "medium": ["piccolo", "flute", "oboe", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "strings"],
+    "movements": []
+  },
+  {
+    "composerId": "jean-sibelius",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 4 in A Minor" },
+    "identifiers": [
+      {"catalog":"op","value":"63","display":"Op. 63","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["A Minor", "F Major", "C-Sharp Minor", "A Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "percussion", "strings"],
+    "movements": [
+      { "title": "I. Tempo molto moderato, quasi adagio", "key": ["A Minor"] },
+      { "title": "II. Allegro molto vivace", "key": ["F Major"] },
+      { "title": "III. Il tempo largo", "key": ["C-Sharp Minor"] },
+      { "title": "IV. Allegro", "key": ["A Major", "A Minor"] }
+    ]
+  },
+  {
+    "composerId": "jean-sibelius",
+    "workId": "",
+    "title": { "preferred": "Luonnotar" },
+    "identifiers": [
+      {"catalog":"op","value":"70","display":"Op. 70","primary":true}
+    ],
+    "genre": "Symphonic Poem",
+    "key": ["F-Sharp Minor"],
+    "medium": ["soprano", "piccolo", "flute", "oboe", "clarinet", "bass_clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "harp", "strings"],
+    "movements": []
+  },
+  {
+    "composerId": "jean-sibelius",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 5 in E-Flat Major" },
+    "identifiers": [
+      {"catalog":"op","value":"82","display":"Op. 82","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["E-Flat Major", "G Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"],
+    "movements": [
+      { "title": "I. Tempo molto moderato - Allegro moderato - Presto", "key": ["E-Flat Major"] },
+      { "title": "II. Andante mosso, quasi allegretto", "key": ["G Major"] },
+      { "title": "III. Allegro molto", "key": ["E-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "jean-sibelius",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 6 in D Minor" },
+    "identifiers": [
+      {"catalog":"op","value":"104","display":"Op. 104","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["D Minor", "G Major"],
+    "medium": ["flute", "oboe", "clarinet", "bass_clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "harp", "strings"],
+    "movements": [
+      { "title": "I. Allegro molto moderato", "key": ["D Minor"] },
+      { "title": "II. Allegretto moderato", "key": ["G Major"] },
+      { "title": "III. Poco vivace", "key": ["D Minor"] },
+      { "title": "IV. Allegro molto", "key": ["D Minor"] }
+    ]
+  },
+  {
+    "composerId": "jean-sibelius",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 7 in C Major" },
+    "identifiers": [
+      {"catalog":"op","value":"105","display":"Op. 105","primary":true}
+    ],
+    "genre": "Symphony",
+    "key": ["C Major"],
+    "medium": ["flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "timpani", "strings"],
+    "movements": []
+  },
+  {
+    "composerId": "sergey-rachmaninov",
+    "workId": "",
+    "title": { "preferred": "Piano Concerto No. 2 in C Minor" },
+    "identifiers": [
+      {"catalog":"op","value":"18","display":"Op. 18","primary":true}
+    ],
+    "genre": "Concerto",
+    "key": ["C Minor", "E Major", "C Major"],
+    "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "strings"],
+    "movements": [
+      { "title": "I. Moderato", "key": ["C Minor"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "strings"] },
+      { "title": "II. Adagio sostenuto", "key": ["E Major"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "strings"] },
+      { "title": "III. Allegro scherzando", "key": ["C Minor", "C Major"], "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "strings"] }
+    ]
+  },
+  {
+    "composerId": "arnold-schonberg",
+    "workId": "",
+    "title": { "preferred": "Concerto for Piano and Orchestra" },
+    "identifiers": [
+      {"catalog":"op","value":"42","display":"Op. 42","primary":true}
+    ],
+    "genre": "Concerto",
+    "medium": ["piano", "flute", "oboe", "clarinet", "bassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "strings"],
+    "movements": []
+  },
+  {
+    "composerId": "reinhold-gliere",
+    "workId": "",
+    "title": { "preferred": "Concerto for Harp and Orchestra in E-Flat Major" },
+    "identifiers": [
+      {"catalog":"op","value":"74","display":"Op. 74","primary":true}
+    ],
+    "genre": "Concerto",
+    "key": ["E-Flat Major", "C-Flat Major"],
+    "medium": ["harp", "flute", "oboe", "clarinet", "bassoon", "horn", "timpani", "percussion", "strings"],
+    "movements": [
+      { "title": "I. Allegro moderato", "key": ["E-Flat Major"] },
+      { "title": "II. Tema con variazioni", "key": ["C-Flat Major"] },
+      { "title": "III. Allegro giocoso", "key": ["E-Flat Major"] }
+    ]
+  },
+  {
+    "composerId": "alban-berg",
+    "workId": "",
+    "title": { "preferred": "Sieben frühe Lieder" },
+    "genre": "Art Song",
+    "key": ["A Major", "F-Sharp Minor", "F Minor", "D Major", "G Minor", "B Major", "C Minor"],
+    "medium": ["voice", "piano"],
+    "movements": [
+      { "title": "I. Nacht", "key": ["A Major", "F-Sharp Minor"] },
+      { "title": "II. Schilflied", "key": ["F Minor"] },
+      { "title": "III. Die Nachtigall", "key": ["D Major"] },
+      { "title": "IV. Traumgekrönt", "key": ["G Minor"] },
+      { "title": "V. Im Zimmer", "key": ["B Major"] },
+      { "title": "VI. Liebesode", "key": ["F-Sharp Minor"] },
+      { "title": "VII. Sommertage", "key": ["C Minor"] }
+    ]
+  },
+  {
+    "composerId": "joaquin-rodrigo",
+    "workId": "",
+    "title": { "preferred": "Concierto de Aranjuez" },
+    "genre": "Concerto",
+    "key": ["D Major", "B Minor"],
+    "medium": ["guitar", "flute", "oboe", "english_horn", "clarinet", "bassoon", "horn", "trumpet", "strings"],
+    "movements": [
+      { "title": "I. Allegro con spirito", "key": ["D Major"] },
+      { "title": "II. Adagio", "key": ["B Minor"] },
+      { "title": "III. Allegro gentile", "key": ["D Major"] }
+    ]
+  },
+  {
+    "composerId": "leonard-bernstein",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 1", "alias": "Jeremiah" },
+    "genre": "Symphony",
+    "medium": ["mezzo_soprano", "piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "piano", "strings"],
+    "movements": [
+      { "title": "I. Prophecy. Largamente" },
+      { "title": "II. Profanation. Vivace con brio" },
+      { "title": "III. Lamentation. Lento" }
+    ]
+  },
+  {
+    "composerId": "leonard-bernstein",
+    "workId": "",
+    "title": { "preferred": "Symphony No. 2", "alias": "The Age of Anxiety" },
+    "genre": "Symphony",
+    "medium": ["piano", "piccolo", "flute", "oboe", "english_horn", "clarinet", "bass_clarinet", "bassoon", "contrabassoon", "horn", "trumpet", "trombone", "tuba", "timpani", "percussion", "harp", "celesta", "pianino", "strings"],
+    "movements": [
+      { "title": "I. Part I: The Prologue. Lento moderato" },
+      { "title": "II. Part I: The Seven Ages. Variations 1-7" },
+      { "title": "III. Part I: The Seven Stages. Variations 8-14" },
+      { "title": "IV. Part II: The Dirge. Largo" },
+      { "title": "V. Part II: The Masque. Molto vivace" },
+      { "title": "VI. Part II: The Epilogue. L'istesso tempo" }
+    ]
   }
 ]
