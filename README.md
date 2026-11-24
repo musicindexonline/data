@@ -7,7 +7,7 @@ This repository publishes the runtime catalog for
 
 1. Edit the files under `source/v1/`.
 2. Run `npm run release`.
-3. Run `npm test` and `npm run verify`.
+3. Run `npm test`.
 4. Commit the source and generated files under `public/v1/`.
 
 The data version is derived from the content of `music.json` and
@@ -19,18 +19,27 @@ produce the same hashes on Windows and Linux.
 ## Schema v2 migration
 
 Schema v2 work is in progress. The composer source has been migrated to
-`source/v2/composer.json`, and both v2 Schemas are defined. `works.json` has not
-yet been migrated or published. The v1 catalog remains the stable runtime
-channel.
+`source/v2/composer.json`, and `works.json` has been migrated in source but has
+not yet been published as a v2 runtime channel. The v1 catalog remains the
+stable runtime channel.
 
 Validate the in-progress v2 works with:
 
 ```powershell
-npm run verify:v2:works
+npm run verify
 ```
 
-When every movement has `key` or `medium`, the corresponding work-level array
-must equal the union of those movement arrays.
+`identifiers`, `key`, `medium`, and `movements` are optional at work level.
+The same fields except `title` are optional within movements. Empty arrays are
+reported as warnings and should be omitted.
+
+When movements provide `identifiers`, `key`, or `medium`, the corresponding
+work-level array must contain their union. Values should follow first-appearance
+order; ordering differences are reported as warnings. Movement identifiers
+must contain exactly `catalog`, `value`, `display`, and `primary`.
+
+`key` values are checked against a hard-coded canonical list. `medium` values
+must be lowercase and may contain only letters, digits, spaces, and hyphens.
 
 ## Routes
 

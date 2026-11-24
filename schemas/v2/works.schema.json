@@ -6,11 +6,40 @@
   "definitions": {
     "stringSet": {
       "type": "array",
-      "minItems": 1,
       "uniqueItems": true,
       "items": {
         "type": "string",
         "minLength": 1
+      }
+    },
+    "identifiers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "catalog",
+          "value",
+          "display",
+          "primary"
+        ],
+        "properties": {
+          "catalog": {
+            "type": "string",
+            "pattern": "^[a-z][a-z0-9-]*$"
+          },
+          "value": {
+            "type": "string",
+            "minLength": 1
+          },
+          "display": {
+            "type": "string",
+            "minLength": 1
+          },
+          "primary": {
+            "type": "boolean"
+          }
+        }
       }
     }
   },
@@ -21,8 +50,7 @@
       "composerId",
       "workId",
       "title",
-      "genre",
-      "movements"
+      "genre"
     ],
     "properties": {
       "composerId": {
@@ -51,32 +79,7 @@
         }
       },
       "identifiers": {
-        "type": "array",
-        "items": {
-          "type": "object",
-          "additionalProperties": false,
-          "required": [
-            "catalog",
-            "value"
-          ],
-          "properties": {
-            "catalog": {
-              "type": "string",
-              "pattern": "^[a-z][a-z0-9-]*$"
-            },
-            "value": {
-              "type": "string",
-              "minLength": 1
-            },
-            "display": {
-              "type": "string",
-              "minLength": 1
-            },
-            "primary": {
-              "type": "boolean"
-            }
-          }
-        }
+        "$ref": "#/definitions/identifiers"
       },
       "medium": {
         "$ref": "#/definitions/stringSet"
@@ -109,6 +112,9 @@
             "title": {
               "type": "string",
               "minLength": 1
+            },
+            "identifiers": {
+              "$ref": "#/definitions/identifiers"
             },
             "key": {
               "$ref": "#/definitions/stringSet"
