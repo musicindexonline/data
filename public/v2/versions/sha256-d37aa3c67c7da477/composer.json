@@ -1,0 +1,200 @@
+[
+  {
+    "id": "antonio-vivaldi",
+    "name": "Antonio Vivaldi",
+    "shortName": "Vivaldi",
+    "defaultPeriod": "Baroque"
+  },
+  {
+    "id": "georg-melchior-hoffmann",
+    "name": "Georg Melchior Hoffmann",
+    "shortName": "G. M. Hoffmann",
+    "defaultPeriod": "Baroque"
+  },
+  {
+    "id": "johann-sebastian-bach",
+    "name": "Johann Sebastian Bach",
+    "shortName": "Bach",
+    "defaultPeriod": "Baroque"
+  },
+  {
+    "id": "georg-friedrich-handel",
+    "name": "Georg Friedrich Händel",
+    "shortName": "Händel",
+    "defaultPeriod": "Baroque"
+  },
+  {
+    "id": "giuseppe-domenico-scarlatti",
+    "name": "Giuseppe Domenico Scarlatti",
+    "shortName": "Scarlatti",
+    "defaultPeriod": "Baroque"
+  },
+  {
+    "id": "wilhelm-friedemann-bach",
+    "name": "Wilhelm Friedemann Bach",
+    "shortName": "W. F. Bach",
+    "defaultPeriod": "Baroque"
+  },
+  {
+    "id": "pietro-antonio-locatelli",
+    "name": "Pietro Antonio Locatelli",
+    "shortName": "Locatelli",
+    "defaultPeriod": "Baroque"
+  },
+  {
+    "id": "johann-georg-leopold-mozart",
+    "name": "Johann Georg Leopold Mozart",
+    "shortName": "Leopold Mozart",
+    "defaultPeriod": "Classical"
+  },
+  {
+    "id": "franz-joseph-haydn",
+    "name": "Franz Joseph Haydn",
+    "shortName": "Haydn",
+    "defaultPeriod": "Classical"
+  },
+  {
+    "id": "carl-ditters-von-dittersdorf",
+    "name": "Carl Ditters von Dittersdorf",
+    "shortName": "Dittersdorf",
+    "defaultPeriod": "Classical"
+  },
+  {
+    "id": "wolfgang-amadeus-mozart",
+    "name": "Wolfgang Amadeus Mozart",
+    "shortName": "Mozart",
+    "defaultPeriod": "Classical"
+  },
+  {
+    "id": "ludwig-van-beethoven",
+    "name": "Ludwig van Beethoven",
+    "shortName": "Beethoven",
+    "defaultPeriod": "Classical"
+  },
+  {
+    "id": "francois-adrien-boieldieu",
+    "name": "François-Adrien Boieldieu",
+    "shortName": "Boieldieu",
+    "defaultPeriod": "Classical"
+  },
+  {
+    "id": "john-field",
+    "name": "John Field",
+    "shortName": "Field",
+    "defaultPeriod": "Romantic"
+  },
+  {
+    "id": "niccolo-paganini",
+    "name": "Niccolò Paganini",
+    "shortName": "Paganini",
+    "defaultPeriod": "Romantic"
+  },
+  {
+    "id": "franz-schubert",
+    "name": "Franz Schubert",
+    "shortName": "Schubert",
+    "defaultPeriod": "Romantic"
+  },
+  {
+    "id": "felix-mendelssohn",
+    "name": "Felix Mendelssohn",
+    "shortName": "Mendelssohn",
+    "defaultPeriod": "Romantic"
+  },
+  {
+    "id": "frederic-francois-chopin",
+    "name": "Frédéric François Chopin",
+    "shortName": "Chopin",
+    "defaultPeriod": "Romantic"
+  },
+  {
+    "id": "franz-liszt",
+    "name": "Franz Liszt",
+    "shortName": "Liszt",
+    "defaultPeriod": "Romantic"
+  },
+  {
+    "id": "anton-bruckner",
+    "name": "Anton Bruckner",
+    "shortName": "Bruckner",
+    "defaultPeriod": "Romantic"
+  },
+  {
+    "id": "johannes-brahms",
+    "name": "Johannes Brahms",
+    "shortName": "Brahms",
+    "defaultPeriod": "Romantic"
+  },
+  {
+    "id": "max-christian-friedrich-bruch",
+    "name": "Max Christian Friedrich Bruch",
+    "shortName": "Bruch",
+    "defaultPeriod": "Romantic"
+  },
+  {
+    "id": "pyotr-ilyich-tchaikovsky",
+    "name": "Pyotr Ilyich Tchaikovsky",
+    "shortName": "Tchaikovsky",
+    "defaultPeriod": "Romantic"
+  },
+  {
+    "id": "edvard-grieg",
+    "name": "Edvard Grieg",
+    "shortName": "Grieg",
+    "defaultPeriod": "Romantic"
+  },
+  {
+    "id": "gustav-mahler",
+    "name": "Gustav Mahler",
+    "shortName": "Mahler",
+    "defaultPeriod": "Romantic"
+  },
+  {
+    "id": "claude-debussy",
+    "name": "Claude Debussy",
+    "shortName": "Debussy",
+    "defaultPeriod": "Romantic"
+  },
+  {
+    "id": "jean-sibelius",
+    "name": "Jean Sibelius",
+    "shortName": "Sibelius",
+    "defaultPeriod": "Romantic"
+  },
+  {
+    "id": "sergey-rachmaninov",
+    "name": "Sergey Rachmaninov",
+    "shortName": "Rachmaninov",
+    "defaultPeriod": "Romantic"
+  },
+  {
+    "id": "arnold-schonberg",
+    "name": "Arnold Schönberg",
+    "shortName": "Schönberg",
+    "defaultPeriod": "Modern"
+  },
+  {
+    "id": "reinhold-gliere",
+    "name": "Reinhold Glière",
+    "shortName": "Glière",
+    "defaultPeriod": "Romantic"
+  },
+  {
+    "id": "alban-berg",
+    "name": "Alban Berg",
+    "shortName": "Berg",
+    "defaultPeriod": "Modern"
+  },
+  {
+    "id": "joaquin-rodrigo",
+    "name": "Joaquín Rodrigo",
+    "shortName": "Rodrigo",
+    "defaultPeriod": "Modern"
+  },
+  {
+    "id": "leonard-bernstein",
+    "name": "Leonard Bernstein",
+    "shortName": "Bernstein",
+    "defaultPeriod": "Modern"
+  }
+]

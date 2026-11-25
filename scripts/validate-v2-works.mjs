@@ -6,7 +6,18 @@ import {repositoryRoot} from './lib/catalog.mjs'
 
 const worksPath = path.join(repositoryRoot, 'source', 'v2', 'works.json')
 const composersPath = path.join(repositoryRoot, 'source', 'v2', 'composer.json')
-const schemaPath = path.join(repositoryRoot, 'schemas', 'v2', 'works.schema.json')
+const worksSchemaPath = path.join(
+  repositoryRoot,
+  'schemas',
+  'v2',
+  'works.schema.json',
+)
+const composerSchemaPath = path.join(
+  repositoryRoot,
+  'schemas',
+  'v2',
+  'composer.schema.json',
+)
 
 const allowedKeys = new Set([
   'A Major',
@@ -268,19 +279,28 @@ export function validateWorkRelations(works, composers) {
 }
 
 export async function validateV2Works() {
-  const [works, composers, schema] = await Promise.all([
+  const [works, composers, worksSchema, composerSchema] = await Promise.all([
     readFile(worksPath, 'utf8').then(JSON.parse),
     readFile(composersPath, 'utf8').then(JSON.parse),
-    readFile(schemaPath, 'utf8').then(JSON.parse),
+    readFile(worksSchemaPath, 'utf8').then(JSON.parse),
+    readFile(composerSchemaPath, 'utf8').then(JSON.parse),
   ])
   const ajv = new Ajv({allErrors: true, strict: true})
-  const validate = ajv.compile(schema)
+  const validateWorks = ajv.compile(worksSchema)
+  const validateComposers = ajv.compile(composerSchema)
   const errors = []
 
-  if (!validate(works)) {
+  if (!validateWorks(works)) {
     errors.push(
-      ...validate.errors.map(
+      ...validateWorks.errors.map(
         (error) => `${error.instancePath || '/'} ${error.message}`,
+      ),
+    )
+  }
+  if (!validateComposers(composers)) {
+    errors.push(
+      ...validateComposers.errors.map(
+        (error) => `composer${error.instancePath || '/'} ${error.message}`,
       ),
     )
   }

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "2.0.0",
+  "catalogVersion": "sha256-d37aa3c67c7da477",
+  "publishedAt": "2026-11-25T15:35:34.087Z",
+  "files": {
+    "works": {
+      "path": "versions/sha256-d37aa3c67c7da477/works.json",
+      "sha256": "1d8d893aa078919053523450966c9f0fbedbfa24d8ec5f38ac3c30716ec02751",
+      "count": 985
+    },
+    "composer": {
+      "path": "versions/sha256-d37aa3c67c7da477/composer.json",
+      "sha256": "d19205b69ac91a8f7cc388a6c4667f62dc334b20d953a12fef35479eead78440",
+      "count": 33
+    }
+  }
+}
